@@ -1,6 +1,7 @@
 from selenium import webdriver
 from selenium.webdriver.support.ui import Select
 import time
+import re
 
 class trimSyllabus:
 
@@ -11,23 +12,24 @@ class trimSyllabus:
     # 指定のページにアクセスし、必要な情報を入手しておく
     self.driver = webdriver.Chrome("chromedriver.exe")
     self.driver.get("https://websrv.tcu.ac.jp/tcu_web_v3/slbsskgr.do")
-    self.accessLectureListPage()
+    self.accessLectureListPage("横浜キャンパス")
     self.sumLectureNum = self.findSumLectureNum()
 
-  def accessLectureListPage(self):
+  def accessLectureListPage(self,category):
     '''
     講義のリストページに遷移する
     @return 件数の合計
     '''
     #=========講義から選択する処理
     #キャンパス選択
-    self.driver.find_element_by_name("value(campuscd)").send_keys("横浜キャンパス")
+    selectCategory = Select(self.driver.find_element_by_name("value(campuscd)"))
+    selectCategory.select_by_visible_text(category)
     # 検索をかけるボタン
     self.driver.find_element_by_id("skgr_search").click()
     #=========表示件数の変更処理
     # 件数のセレクトボタンを取得し最大件数(200件)に変更
-    selectElement = Select(self.driver.find_element_by_name("maxDispListCount"))
-    selectElement.select_by_value(str(self.onePageLectureMaxNum))
+    selectLectureNum = Select(self.driver.find_element_by_name("maxDispListCount"))
+    selectLectureNum.select_by_value(str(self.onePageLectureMaxNum))
 
   def findSumLectureNum(self):
     '''
@@ -53,10 +55,15 @@ class trimSyllabus:
     #======= 取得した講義を合体して返す
     SumLectureList = []
     for li in range(int(hitNum / 2)):
-      SumLectureList.append(self.parseLecture(oddLectureList[li].text))
-      SumLectureList.append(self.parseLecture(evenLectureList[li].text))
+
+      lectureel = self.parseLecture(oddLectureList[li].text)
+      SumLectureList.append(lectureel)
+      lectureel = self.parseLecture(evenLectureList[li].text)
+      SumLectureList.append(lectureel)
+    
     if hitNum % 2 == 1:  # 件数が奇数個だった場合は最後に偶数講義を加える
-      SumLectureList.append(self.parseLecture(oddLectureList[int(hitNum/2)].text))
+      SumLectureList.append(self.parseLecture(oddLectureList[int(hitNum / 2)].text))
+      SumLectureList.append(lectureel)
     
     return SumLectureList
 
@@ -89,7 +96,6 @@ class trimSyllabus:
     parseResult = {}
     parseResult["code"] = parseLine[1]
     parseResult["name"] = parseLine[2]
-    parseResult["target"] = parseLine[3]
     parseResult["time"] = parseLine[4].split("\n")
     parseResult["instructor"] = []
     for ii in range(5, len(parseLine)):
