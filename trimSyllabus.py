@@ -42,7 +42,7 @@ class trimSyllabus:
     
   def copyLectureListDomFromPage(self, hitNum: int):
     '''
-    講義のリストを1ページごと丸ごと取得して返す
+    講義のリストを1ページ丸ごと取得して返す
     @param hitNum : 取得する件数
     @return SumLectureList: 取得した講義リストのすべて 
     '''
@@ -68,9 +68,8 @@ class trimSyllabus:
     sumLectureNum = self.findSumLectureNum()
 
     extendLectureList = []
-    # 本来のページ数-1まで(件数が200の倍数でなければ) 
+    # 本来のページ数-1まで探索
     pageNum = int((sumLectureNum - 1) / 200)
-    
     for pi in range(pageNum):
       extendLectureList.extend(self.copyLectureListDomFromPage(self.onePageLectureMaxNum))
       nextPage = self.driver.find_elements_by_xpath("//tr[@class='link']/td/div[@class='right']/span[2]/a")
@@ -83,8 +82,19 @@ class trimSyllabus:
 
     return extendLectureList
 
-  def parseLecture(self, lectureLine):
-    return lectureLine.split(" ")
+  def parseLecture(self, lectureLine:str):
+    # 開講期間 曜日・時限が二つある場合は改行されるのでそれを省く
+    parseLine = lectureLine.split(" ")
+
+    parseResult = {}
+    parseResult["code"] = parseLine[1]
+    parseResult["name"] = parseLine[2]
+    parseResult["target"] = parseLine[3]
+    parseResult["time"] = parseLine[4].split("\n")
+    parseResult["instructor"] = []
+    for ii in range(5, len(parseLine)):
+      parseResult["instructor"].append(parseLine[ii])
+    return parseResult
 
   def __del__(self):
     print("5秒後にシステムを終了します")
