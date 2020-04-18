@@ -5,12 +5,20 @@ import time
 class trimSyllabus:
 
   def __init__(self):
-    self.LectureMaxNum = 200
+    self.onePageLectureMaxNum = 200
+    self.LectureCurrentNum = 0
+
+    # 指定のページにアクセスし、必要な情報を入手しておく
     self.driver = webdriver.Chrome("chromedriver.exe")
     self.driver.get("https://websrv.tcu.ac.jp/tcu_web_v3/slbsskgr.do")
-
+    self.accessLectureListPage()
+    self.sumLectureNum = self.findSumLectureNum()
 
   def accessLectureListPage(self):
+    '''
+    講義のリストページに遷移する
+    @return 件数の合計
+    '''
     #=========講義から選択する処理
     #キャンパス選択
     self.driver.find_element_by_name("value(campuscd)").send_keys("横浜キャンパス")
@@ -19,20 +27,31 @@ class trimSyllabus:
     #=========表示件数の変更処理
     # 件数のセレクトボタンを取得し最大件数(200件)に変更
     selectElement = Select(self.driver.find_element_by_name("maxDispListCount"))
-    selectElement.select_by_value(str(self.LectureMaxNum))
-    #**件数合計を返す
-    return 5;
+    selectElement.select_by_value(str(self.onePageLectureMaxNum))
 
-  # 講義のリストを丸ごと取得して返す
-  # @param hitNum : 取得する件数
-  def copyLectureListDomFromPage(self,hitNum:int):
+  def findSumLectureNum(self):
+    '''
+    件数を取得して整形して返す
+    @return sumLectureNum : 講義数
+    '''
+    originText: str = (self.driver.find_element_by_xpath("//tr[@class='link']/td/div[@class='right']/span[1]").text)
+    parseText:str = originText.split('/')[1]  # "xxx件中"に限定
+    parseText = parseText.replace('件中', '')
+    sumLectureNum = int(parseText)
+    return sumLectureNum
+    
+  def copyLectureListDomFromPage(self, hitNum: int):
+    '''
+    講義のリストを1ページごと丸ごと取得して返す
+    @param hitNum : 取得する件数
+    @return SumLectureList: 取得した講義リストのすべて 
+    '''
     # 講義のリスト奇数と偶数それぞれ取得
     oddLectureList = self.driver.find_elements_by_class_name("column_odd")
     evenLectureList = self.driver.find_elements_by_class_name("column_even")
     
     #======= 取得した講義を合体して返す
     SumLectureList = []
-    print(int(hitNum/2))
     for li in range(int(hitNum/2)):
       SumLectureList.append(oddLectureList[li].text)
       SumLectureList.append(evenLectureList[li].text)
@@ -41,7 +60,29 @@ class trimSyllabus:
     
     return SumLectureList
 
-  
+  def extendLectureList(self):
+    '''
+    全ての件数ぶんの講義の配列を取得し、結合する
+    @return extendLectureList/List:講義全てを結合した配列
+    '''
+    sumLectureNum = self.findSumLectureNum()
+
+    extendLectureList = []
+    # 本来のページ数-1まで(件数が200の倍数でなければ) 
+    pageNum = int((sumLectureNum - 1) / 200)
+    
+    for pi in range(pageNum):
+      extendLectureList.extend(self.copyLectureListDomFromPage(self.onePageLectureMaxNum))
+      nextPage = self.driver.find_elements_by_xpath("//tr[@class='link']/td/div[@class='right']/span[2]/a")
+      nextPage[int(len(nextPage) / 2) - 1].click()
+      time.sleep(2) # 待機しないとエラー起こす
+
+    # 200に満たない件数分を取得
+    lastPageLectureNum = sumLectureNum % 200
+    extendLectureList.extend(self.copyLectureListDomFromPage(lastPageLectureNum))
+
+    return extendLectureList
+
   def __del__(self):
     print("5秒後にシステムを終了します")
     time.sleep(5)
