@@ -52,11 +52,11 @@ class trimSyllabus:
     
     #======= 取得した講義を合体して返す
     SumLectureList = []
-    for li in range(int(hitNum/2)):
-      SumLectureList.append(oddLectureList[li].text)
-      SumLectureList.append(evenLectureList[li].text)
+    for li in range(int(hitNum / 2)):
+      SumLectureList.append(self.parseLecture(oddLectureList[li].text))
+      SumLectureList.append(self.parseLecture(evenLectureList[li].text))
     if hitNum % 2 == 1:  # 件数が奇数個だった場合は最後に偶数講義を加える
-      SumLectureList.append(oddLectureList[int(hitNum/2)].text)
+      SumLectureList.append(self.parseLecture(oddLectureList[int(hitNum/2)].text))
     
     return SumLectureList
 
@@ -82,6 +82,9 @@ class trimSyllabus:
     extendLectureList.extend(self.copyLectureListDomFromPage(lastPageLectureNum))
 
     return extendLectureList
+
+  def parseLecture(self, lectureLine):
+    return lectureLine.split(" ")
 
   def __del__(self):
     print("5秒後にシステムを終了します")
