@@ -1,0 +1,10755 @@
+[
+  {
+    "code": "yaa612201",
+    "name": "環境モニタリング技術",
+    "targetyear": "2018",
+    "targetdepart": "環境創生",
+    "time": [
+      {
+        "period": "前期前半",
+        "dow": "火",
+        "thclass": "2"
+      },
+      {
+        "period": "前期前半",
+        "dow": "火",
+        "thclass": "3"
+      }
+    ],
+    "instructor": [
+      "史　中超"
+    ]
+  },
+  {
+    "code": "yzz617001",
+    "name": "事例研究",
+    "targetyear": "2018",
+    "targetdepart": "環境創生",
+    "time": [
+      {
+        "period": "通年（事例）",
+        "dow": "",
+        "thclass": ""
+      }
+    ],
+    "instructor": [
+      "飯島　健太郎"
+    ]
+  },
+  {
+    "code": "yzz617002",
+    "name": "事例研究",
+    "targetyear": "2018",
+    "targetdepart": "環境創生",
+    "time": [
+      {
+        "period": "通年（事例）",
+        "dow": "",
+        "thclass": ""
+      }
+    ],
+    "instructor": [
+      "史　中超"
+    ]
+  },
+  {
+    "code": "yzz617003",
+    "name": "事例研究",
+    "targetyear": "2018",
+    "targetdepart": "環境創生",
+    "time": [
+      {
+        "period": "通年（事例）",
+        "dow": "",
+        "thclass": ""
+      }
+    ],
+    "instructor": [
+      "田中　章"
+    ]
+  },
+  {
+    "code": "yzz617004",
+    "name": "事例研究",
+    "targetyear": "2018",
+    "targetdepart": "環境創生",
+    "time": [
+      {
+        "period": "通年（事例）",
+        "dow": "",
+        "thclass": ""
+      }
+    ],
+    "instructor": [
+      "室田　昌子"
+    ]
+  },
+  {
+    "code": "yzz617005",
+    "name": "事例研究",
+    "targetyear": "2018",
+    "targetdepart": "環境創生",
+    "time": [
+      {
+        "period": "通年（事例）",
+        "dow": "",
+        "thclass": ""
+      }
+    ],
+    "instructor": [
+      "リジャル　ホム・バハドゥル"
+    ]
+  },
+  {
+    "code": "yzz617006",
+    "name": "事例研究",
+    "targetyear": "2018",
+    "targetdepart": "環境創生",
+    "time": [
+      {
+        "period": "通年（事例）",
+        "dow": "",
+        "thclass": ""
+      }
+    ],
+    "instructor": [
+      "加用　現空"
+    ]
+  },
+  {
+    "code": "yzz617007",
+    "name": "事例研究",
+    "targetyear": "2018",
+    "targetdepart": "環境創生",
+    "time": [
+      {
+        "period": "通年（事例）",
+        "dow": "",
+        "thclass": ""
+      }
+    ],
+    "instructor": [
+      "北村　亘"
+    ]
+  },
+  {
+    "code": "yzz617008",
+    "name": "事例研究",
+    "targetyear": "2018",
+    "targetdepart": "環境創生",
+    "time": [
+      {
+        "period": "通年（事例）",
+        "dow": "",
+        "thclass": ""
+      }
+    ],
+    "instructor": [
+      "丹羽　由佳理"
+    ]
+  },
+  {
+    "code": "yzz617009",
+    "name": "事例研究",
+    "targetyear": "2018",
+    "targetdepart": "環境創生",
+    "time": [
+      {
+        "period": "通年（事例）",
+        "dow": "",
+        "thclass": ""
+      }
+    ],
+    "instructor": [
+      "咸　泳植"
+    ]
+  },
+  {
+    "code": "yzz617010",
+    "name": "事例研究",
+    "targetyear": "2018",
+    "targetdepart": "環境創生",
+    "time": [
+      {
+        "period": "通年（事例）",
+        "dow": "",
+        "thclass": ""
+      }
+    ],
+    "instructor": [
+      "横田　樹広"
+    ]
+  },
+  {
+    "code": "yzz627001",
+    "name": "事例研究",
+    "targetyear": "2018",
+    "targetdepart": "環境マネジメント",
+    "time": [
+      {
+        "period": "通年（事例）",
+        "dow": "",
+        "thclass": ""
+      }
+    ],
+    "instructor": [
+      "伊坪　徳宏"
+    ]
+  },
+  {
+    "code": "yzz627002",
+    "name": "事例研究",
+    "targetyear": "2018",
+    "targetdepart": "環境マネジメント",
+    "time": [
+      {
+        "period": "通年（事例）",
+        "dow": "",
+        "thclass": ""
+      }
+    ],
+    "instructor": [
+      "郭　偉宏"
+    ]
+  },
+  {
+    "code": "yzz627003",
+    "name": "事例研究",
+    "targetyear": "2018",
+    "targetdepart": "環境マネジメント",
+    "time": [
+      {
+        "period": "通年（事例）",
+        "dow": "",
+        "thclass": ""
+      }
+    ],
+    "instructor": [
+      "佐藤　真久"
+    ]
+  },
+  {
+    "code": "yzz627004",
+    "name": "事例研究",
+    "targetyear": "2018",
+    "targetdepart": "環境マネジメント",
+    "time": [
+      {
+        "period": "通年（事例）",
+        "dow": "",
+        "thclass": ""
+      }
+    ],
+    "instructor": [
+      "馬場　健司"
+    ]
+  },
+  {
+    "code": "yzz627005",
+    "name": "事例研究",
+    "targetyear": "2018",
+    "targetdepart": "環境マネジメント",
+    "time": [
+      {
+        "period": "通年（事例）",
+        "dow": "",
+        "thclass": ""
+      }
+    ],
+    "instructor": [
+      "古川　柳蔵"
+    ]
+  },
+  {
+    "code": "yzz627006",
+    "name": "事例研究",
+    "targetyear": "2018",
+    "targetdepart": "環境マネジメント",
+    "time": [
+      {
+        "period": "通年（事例）",
+        "dow": "",
+        "thclass": ""
+      }
+    ],
+    "instructor": [
+      "岡田　啓"
+    ]
+  },
+  {
+    "code": "yzz627007",
+    "name": "事例研究",
+    "targetyear": "2018",
+    "targetdepart": "環境マネジメント",
+    "time": [
+      {
+        "period": "通年（事例）",
+        "dow": "",
+        "thclass": ""
+      }
+    ],
+    "instructor": [
+      "木村　眞実"
+    ]
+  },
+  {
+    "code": "yzz627008",
+    "name": "事例研究",
+    "targetyear": "2018",
+    "targetdepart": "環境マネジメント",
+    "time": [
+      {
+        "period": "通年（事例）",
+        "dow": "",
+        "thclass": ""
+      }
+    ],
+    "instructor": [
+      "フィッツギボンズ　雄亮"
+    ]
+  },
+  {
+    "code": "yzz627009",
+    "name": "事例研究",
+    "targetyear": "2018",
+    "targetdepart": "環境マネジメント",
+    "time": [
+      {
+        "period": "通年（事例）",
+        "dow": "",
+        "thclass": ""
+      }
+    ],
+    "instructor": [
+      "古川　務"
+    ]
+  },
+  {
+    "code": "yab702302",
+    "name": "データ分析法",
+    "targetyear": "2018",
+    "targetdepart": "社会メディア",
+    "time": [
+      {
+        "period": "前期後半",
+        "dow": "火",
+        "thclass": "3"
+      },
+      {
+        "period": "前期後半",
+        "dow": "火",
+        "thclass": "4"
+      }
+    ],
+    "instructor": [
+      "飯田　成敏"
+    ]
+  },
+  {
+    "code": "yzz717001",
+    "name": "事例研究",
+    "targetyear": "2018",
+    "targetdepart": "社会メディア",
+    "time": [
+      {
+        "period": "通年（事例）",
+        "dow": "",
+        "thclass": ""
+      }
+    ],
+    "instructor": [
+      "岡部　大介"
+    ]
+  },
+  {
+    "code": "yzz717002",
+    "name": "事例研究",
+    "targetyear": "2018",
+    "targetdepart": "社会メディア",
+    "time": [
+      {
+        "period": "通年（事例）",
+        "dow": "",
+        "thclass": ""
+      }
+    ],
+    "instructor": [
+      "奥村　倫弘"
+    ]
+  },
+  {
+    "code": "yzz717003",
+    "name": "事例研究",
+    "targetyear": "2018",
+    "targetdepart": "社会メディア",
+    "time": [
+      {
+        "period": "通年（事例）",
+        "dow": "",
+        "thclass": ""
+      }
+    ],
+    "instructor": [
+      "小池　星多"
+    ]
+  },
+  {
+    "code": "yzz717004",
+    "name": "事例研究",
+    "targetyear": "2018",
+    "targetdepart": "社会メディア",
+    "time": [
+      {
+        "period": "通年（事例）",
+        "dow": "",
+        "thclass": ""
+      }
+    ],
+    "instructor": [
+      "高田　昌幸"
+    ]
+  },
+  {
+    "code": "yzz717005",
+    "name": "事例研究",
+    "targetyear": "2018",
+    "targetdepart": "社会メディア",
+    "time": [
+      {
+        "period": "通年（事例）",
+        "dow": "",
+        "thclass": ""
+      }
+    ],
+    "instructor": [
+      "中村　雅子"
+    ]
+  },
+  {
+    "code": "yzz717006",
+    "name": "事例研究",
+    "targetyear": "2018",
+    "targetdepart": "社会メディア",
+    "time": [
+      {
+        "period": "通年（事例）",
+        "dow": "",
+        "thclass": ""
+      }
+    ],
+    "instructor": [
+      "広田　すみれ"
+    ]
+  },
+  {
+    "code": "yzz717007",
+    "name": "事例研究",
+    "targetyear": "2018",
+    "targetdepart": "社会メディア",
+    "time": [
+      {
+        "period": "通年（事例）",
+        "dow": "",
+        "thclass": ""
+      }
+    ],
+    "instructor": [
+      "関　博紀"
+    ]
+  },
+  {
+    "code": "yzz717008",
+    "name": "事例研究",
+    "targetyear": "2018",
+    "targetdepart": "社会メディア",
+    "time": [
+      {
+        "period": "通年（事例）",
+        "dow": "",
+        "thclass": ""
+      }
+    ],
+    "instructor": [
+      "永盛　祐介"
+    ]
+  },
+  {
+    "code": "yzz717009",
+    "name": "事例研究",
+    "targetyear": "2018",
+    "targetdepart": "社会メディア",
+    "time": [
+      {
+        "period": "通年（事例）",
+        "dow": "",
+        "thclass": ""
+      }
+    ],
+    "instructor": [
+      "矢吹　理恵"
+    ]
+  },
+  {
+    "code": "yzz717010",
+    "name": "事例研究",
+    "targetyear": "2018",
+    "targetdepart": "社会メディア",
+    "time": [
+      {
+        "period": "通年（事例）",
+        "dow": "",
+        "thclass": ""
+      }
+    ],
+    "instructor": [
+      "山崎　瑞紀"
+    ]
+  },
+  {
+    "code": "yzz717011",
+    "name": "事例研究",
+    "targetyear": "2018",
+    "targetdepart": "社会メディア",
+    "time": [
+      {
+        "period": "通年（事例）",
+        "dow": "",
+        "thclass": ""
+      }
+    ],
+    "instructor": [
+      "李　洪千"
+    ]
+  },
+  {
+    "code": "yaa721101",
+    "name": "サーバシステム構築",
+    "targetyear": "2018",
+    "targetdepart": "情報システム",
+    "time": [
+      {
+        "period": "前期前半",
+        "dow": "月",
+        "thclass": "1"
+      },
+      {
+        "period": "前期前半",
+        "dow": "月",
+        "thclass": "2"
+      }
+    ],
+    "instructor": [
+      "宮地　英生"
+    ]
+  },
+  {
+    "code": "yaa722102",
+    "name": "サーバシステム構築",
+    "targetyear": "2018",
+    "targetdepart": "情報システム",
+    "time": [
+      {
+        "period": "前期前半",
+        "dow": "火",
+        "thclass": "1"
+      },
+      {
+        "period": "前期前半",
+        "dow": "火",
+        "thclass": "2"
+      }
+    ],
+    "instructor": [
+      "岩野　公司"
+    ]
+  },
+  {
+    "code": "yba721101",
+    "name": "Webプログラミング",
+    "targetyear": "2018",
+    "targetdepart": "情報システム",
+    "time": [
+      {
+        "period": "後期前半",
+        "dow": "月",
+        "thclass": "1"
+      },
+      {
+        "period": "後期前半",
+        "dow": "水",
+        "thclass": "2"
+      }
+    ],
+    "instructor": [
+      "小倉　信彦"
+    ]
+  },
+  {
+    "code": "yzz727001",
+    "name": "事例研究",
+    "targetyear": "2018",
+    "targetdepart": "情報システム",
+    "time": [
+      {
+        "period": "通年（事例）",
+        "dow": "",
+        "thclass": ""
+      }
+    ],
+    "instructor": [
+      "市野　順子"
+    ]
+  },
+  {
+    "code": "yzz727002",
+    "name": "事例研究",
+    "targetyear": "2018",
+    "targetdepart": "情報システム",
+    "time": [
+      {
+        "period": "通年（事例）",
+        "dow": "",
+        "thclass": ""
+      }
+    ],
+    "instructor": [
+      "岩野　公司"
+    ]
+  },
+  {
+    "code": "yzz727003",
+    "name": "事例研究",
+    "targetyear": "2018",
+    "targetdepart": "情報システム",
+    "time": [
+      {
+        "period": "通年（事例）",
+        "dow": "",
+        "thclass": ""
+      }
+    ],
+    "instructor": [
+      "大谷　紀子"
+    ]
+  },
+  {
+    "code": "yzz727004",
+    "name": "事例研究",
+    "targetyear": "2018",
+    "targetdepart": "情報システム",
+    "time": [
+      {
+        "period": "通年（事例）",
+        "dow": "",
+        "thclass": ""
+      }
+    ],
+    "instructor": [
+      "関　良明"
+    ]
+  },
+  {
+    "code": "yzz727005",
+    "name": "事例研究",
+    "targetyear": "2018",
+    "targetdepart": "情報システム",
+    "time": [
+      {
+        "period": "通年（事例）",
+        "dow": "",
+        "thclass": ""
+      }
+    ],
+    "instructor": [
+      "藤井　哲郎"
+    ]
+  },
+  {
+    "code": "yzz727006",
+    "name": "事例研究",
+    "targetyear": "2018",
+    "targetdepart": "情報システム",
+    "time": [
+      {
+        "period": "通年（事例）",
+        "dow": "",
+        "thclass": ""
+      }
+    ],
+    "instructor": [
+      "宮地　英生"
+    ]
+  },
+  {
+    "code": "yzz727007",
+    "name": "事例研究",
+    "targetyear": "2018",
+    "targetdepart": "情報システム",
+    "time": [
+      {
+        "period": "通年（事例）",
+        "dow": "",
+        "thclass": ""
+      }
+    ],
+    "instructor": [
+      "横井　利彰"
+    ]
+  },
+  {
+    "code": "yzz727008",
+    "name": "事例研究",
+    "targetyear": "2018",
+    "targetdepart": "情報システム",
+    "time": [
+      {
+        "period": "通年（事例）",
+        "dow": "",
+        "thclass": ""
+      }
+    ],
+    "instructor": [
+      "小倉　信彦"
+    ]
+  },
+  {
+    "code": "yaz001304",
+    "name": "Basic English Training",
+    "targetyear": "2019",
+    "targetdepart": "環境創生",
+    "time": [
+      {
+        "period": "前期",
+        "dow": "月",
+        "thclass": "3"
+      }
+    ],
+    "instructor": [
+      "稲垣　亜希子"
+    ]
+  },
+  {
+    "code": "yaz002202",
+    "name": "Basic English Training",
+    "targetyear": "2019",
+    "targetdepart": "環境創生",
+    "time": [
+      {
+        "period": "前期",
+        "dow": "火",
+        "thclass": "2"
+      }
+    ],
+    "instructor": [
+      "吉田　国子"
+    ]
+  },
+  {
+    "code": "yaz005301",
+    "name": "(再)Communication Skills(1)",
+    "targetyear": "2019",
+    "targetdepart": "環境創生",
+    "time": [
+      {
+        "period": "前期",
+        "dow": "金",
+        "thclass": "3"
+      }
+    ],
+    "instructor": [
+      "吉田　由美子"
+    ]
+  },
+  {
+    "code": "ybz001304",
+    "name": "Basic English Training",
+    "targetyear": "2019",
+    "targetdepart": "環境創生",
+    "time": [
+      {
+        "period": "後期",
+        "dow": "月",
+        "thclass": "3"
+      }
+    ],
+    "instructor": [
+      "稲垣　亜希子"
+    ]
+  },
+  {
+    "code": "ybz002202",
+    "name": "Basic English Training",
+    "targetyear": "2019",
+    "targetdepart": "環境創生",
+    "time": [
+      {
+        "period": "後期",
+        "dow": "火",
+        "thclass": "2"
+      }
+    ],
+    "instructor": [
+      "吉田　国子"
+    ]
+  },
+  {
+    "code": "ybz611104",
+    "name": "(再)環境フィールド・計測演習",
+    "targetyear": "2019",
+    "targetdepart": "環境創生",
+    "time": [
+      {
+        "period": "後期",
+        "dow": "月",
+        "thclass": "1"
+      },
+      {
+        "period": "後期",
+        "dow": "月",
+        "thclass": "2"
+      }
+    ],
+    "instructor": [
+      "咸　泳植\n飯島　健太郎\n加用　現空\n北村　亘\n史　中超\n田中　章\n丹羽　由佳理\n室田　昌子\n横田　樹広\nリジャル　ホム・バハドゥル"
+    ]
+  },
+  {
+    "code": "yab625302",
+    "name": "ライフサイクルアセスメント",
+    "targetyear": "2019",
+    "targetdepart": "環境経営システム",
+    "time": [
+      {
+        "period": "前期後半",
+        "dow": "金",
+        "thclass": "3"
+      },
+      {
+        "period": "前期後半",
+        "dow": "金",
+        "thclass": "4"
+      }
+    ],
+    "instructor": [
+      "伊坪　徳宏"
+    ]
+  },
+  {
+    "code": "yab711403",
+    "name": "プロジェクト学習",
+    "targetyear": "2019",
+    "targetdepart": "社会メディア",
+    "time": [
+      {
+        "period": "前期後半",
+        "dow": "月",
+        "thclass": "4"
+      },
+      {
+        "period": "前期後半",
+        "dow": "木",
+        "thclass": "4"
+      }
+    ],
+    "instructor": [
+      "小池　星多"
+    ]
+  },
+  {
+    "code": "yab721102",
+    "name": "プログラミング演習A",
+    "targetyear": "2019",
+    "targetdepart": "情報システム",
+    "time": [
+      {
+        "period": "前期後半",
+        "dow": "月",
+        "thclass": "1"
+      },
+      {
+        "period": "前期後半",
+        "dow": "月",
+        "thclass": "2"
+      }
+    ],
+    "instructor": [
+      "小倉　信彦"
+    ]
+  },
+  {
+    "code": "yba722301",
+    "name": "システム開発演習A",
+    "targetyear": "2019",
+    "targetdepart": "情報システム",
+    "time": [
+      {
+        "period": "後期前半",
+        "dow": "火",
+        "thclass": "3"
+      },
+      {
+        "period": "後期前半",
+        "dow": "火",
+        "thclass": "4"
+      }
+    ],
+    "instructor": [
+      "市野　順子"
+    ]
+  },
+  {
+    "code": "yaa001208",
+    "name": "基礎体育(1a)",
+    "targetyear": "2020",
+    "targetdepart": "環境創生",
+    "time": [
+      {
+        "period": "前期前半",
+        "dow": "月",
+        "thclass": "2"
+      }
+    ],
+    "instructor": [
+      "千野　謙太郎"
+    ]
+  },
+  {
+    "code": "yaa001209",
+    "name": "基礎体育(1a)",
+    "targetyear": "2020",
+    "targetdepart": "環境創生",
+    "time": [
+      {
+        "period": "前期前半",
+        "dow": "月",
+        "thclass": "2"
+      }
+    ],
+    "instructor": [
+      "松崎　鈴"
+    ]
+  },
+  {
+    "code": "yaa001309",
+    "name": "基礎体育(1a)",
+    "targetyear": "2020",
+    "targetdepart": "環境創生",
+    "time": [
+      {
+        "period": "前期前半",
+        "dow": "月",
+        "thclass": "3"
+      }
+    ],
+    "instructor": [
+      "千野　謙太郎"
+    ]
+  },
+  {
+    "code": "yaa001310",
+    "name": "基礎体育(1a)",
+    "targetyear": "2020",
+    "targetdepart": "環境創生",
+    "time": [
+      {
+        "period": "前期前半",
+        "dow": "月",
+        "thclass": "3"
+      }
+    ],
+    "instructor": [
+      "松崎　鈴"
+    ]
+  },
+  {
+    "code": "yaa001401",
+    "name": "基礎体育(1a)",
+    "targetyear": "2020",
+    "targetdepart": "環境創生",
+    "time": [
+      {
+        "period": "前期前半",
+        "dow": "月",
+        "thclass": "4"
+      }
+    ],
+    "instructor": [
+      "千野　謙太郎"
+    ]
+  },
+  {
+    "code": "yaa001402",
+    "name": "基礎体育(1a)",
+    "targetyear": "2020",
+    "targetdepart": "環境創生",
+    "time": [
+      {
+        "period": "前期前半",
+        "dow": "月",
+        "thclass": "4"
+      }
+    ],
+    "instructor": [
+      "松崎　鈴"
+    ]
+  },
+  {
+    "code": "yaa004205",
+    "name": "基礎体育(1a)",
+    "targetyear": "2020",
+    "targetdepart": "環境創生",
+    "time": [
+      {
+        "period": "前期前半",
+        "dow": "木",
+        "thclass": "2"
+      }
+    ],
+    "instructor": [
+      "久保　哲也"
+    ]
+  },
+  {
+    "code": "yaa004206",
+    "name": "基礎体育(1a)",
+    "targetyear": "2020",
+    "targetdepart": "環境創生",
+    "time": [
+      {
+        "period": "前期前半",
+        "dow": "木",
+        "thclass": "2"
+      }
+    ],
+    "instructor": [
+      "備前　嘉文"
+    ]
+  },
+  {
+    "code": "yaa004305",
+    "name": "基礎体育(1a)",
+    "targetyear": "2020",
+    "targetdepart": "環境創生",
+    "time": [
+      {
+        "period": "前期前半",
+        "dow": "木",
+        "thclass": "3"
+      }
+    ],
+    "instructor": [
+      "久保　哲也"
+    ]
+  },
+  {
+    "code": "yaa004306",
+    "name": "基礎体育(1a)",
+    "targetyear": "2020",
+    "targetdepart": "環境創生",
+    "time": [
+      {
+        "period": "前期前半",
+        "dow": "木",
+        "thclass": "3"
+      }
+    ],
+    "instructor": [
+      "備前　嘉文"
+    ]
+  },
+  {
+    "code": "yaa004401",
+    "name": "基礎体育(1a)",
+    "targetyear": "2020",
+    "targetdepart": "環境創生",
+    "time": [
+      {
+        "period": "前期前半",
+        "dow": "木",
+        "thclass": "4"
+      }
+    ],
+    "instructor": [
+      "久保　哲也"
+    ]
+  },
+  {
+    "code": "yaa611109",
+    "name": "SD PBL(1)",
+    "targetyear": "2020",
+    "targetdepart": "環境創生",
+    "time": [
+      {
+        "period": "前期前半",
+        "dow": "月",
+        "thclass": "1"
+      }
+    ],
+    "instructor": [
+      "リジャル　ホム・バハドゥル\n飯島　健太郎\n加用　現空\n北村　亘\n史　中超\n田中　章\n丹羽　由佳理\n咸　泳植\n室田　昌子\n横田　樹広"
+    ]
+  },
+  {
+    "code": "yab602104",
+    "name": "都市環境学概論",
+    "targetyear": "2020",
+    "targetdepart": "環境創生",
+    "time": [
+      {
+        "period": "前期後半",
+        "dow": "火",
+        "thclass": "1"
+      },
+      {
+        "period": "前期後半",
+        "dow": "火",
+        "thclass": "2"
+      }
+    ],
+    "instructor": [
+      "丹羽　由佳理"
+    ]
+  },
+  {
+    "code": "yab605102",
+    "name": "統計学基礎",
+    "targetyear": "2020",
+    "targetdepart": "環境創生",
+    "time": [
+      {
+        "period": "前期後半",
+        "dow": "金",
+        "thclass": "1"
+      },
+      {
+        "period": "前期後半",
+        "dow": "金",
+        "thclass": "2"
+      }
+    ],
+    "instructor": [
+      "岡田　啓"
+    ]
+  },
+  {
+    "code": "yab614301",
+    "name": "環境緑地学",
+    "targetyear": "",
+    "targetdepart": "",
+    "time": [
+      {
+        "period": "前期後半",
+        "dow": "木",
+        "thclass": "3"
+      },
+      {
+        "period": "前期後半",
+        "dow": "木",
+        "thclass": "4"
+      }
+    ],
+    "instructor": [
+      "飯島　健太郎"
+    ]
+  },
+  {
+    "code": "yaz061201",
+    "name": "Communication Skills(1)",
+    "targetyear": "2020",
+    "targetdepart": "環境創生",
+    "time": [
+      {
+        "period": "前期",
+        "dow": "月",
+        "thclass": "2"
+      }
+    ],
+    "instructor": [
+      "ミラー"
+    ]
+  },
+  {
+    "code": "yaz061202",
+    "name": "Communication Skills(1)",
+    "targetyear": "2020",
+    "targetdepart": "環境創生",
+    "time": [
+      {
+        "period": "前期",
+        "dow": "月",
+        "thclass": "2"
+      }
+    ],
+    "instructor": [
+      "マイケル　フォードリー"
+    ]
+  },
+  {
+    "code": "yaz061205",
+    "name": "Communication Skills(1)",
+    "targetyear": "2020",
+    "targetdepart": "環境創生",
+    "time": [
+      {
+        "period": "前期",
+        "dow": "月",
+        "thclass": "2"
+      }
+    ],
+    "instructor": [
+      "鴨下　恵子"
+    ]
+  },
+  {
+    "code": "yaz064101",
+    "name": "Communication Skills(1)",
+    "targetyear": "2020",
+    "targetdepart": "環境創生",
+    "time": [
+      {
+        "period": "前期",
+        "dow": "木",
+        "thclass": "1"
+      }
+    ],
+    "instructor": [
+      "李　正美"
+    ]
+  },
+  {
+    "code": "yaz064102",
+    "name": "Communication Skills(1)",
+    "targetyear": "2020",
+    "targetdepart": "環境創生",
+    "time": [
+      {
+        "period": "前期",
+        "dow": "木",
+        "thclass": "1"
+      }
+    ],
+    "instructor": [
+      "ミラー"
+    ]
+  },
+  {
+    "code": "yaz064103",
+    "name": "Communication Skills(1)",
+    "targetyear": "2020",
+    "targetdepart": "環境創生",
+    "time": [
+      {
+        "period": "前期",
+        "dow": "木",
+        "thclass": "1"
+      }
+    ],
+    "instructor": [
+      "吉田　国子"
+    ]
+  },
+  {
+    "code": "yaz071102",
+    "name": "Communication Skills(1)",
+    "targetyear": "",
+    "targetdepart": "",
+    "time": [
+      {
+        "period": "前期",
+        "dow": "月",
+        "thclass": "1"
+      }
+    ],
+    "instructor": [
+      "マイケル　フォードリー"
+    ]
+  },
+  {
+    "code": "ybb995101",
+    "name": "アカウンティングシステム",
+    "targetyear": "2020",
+    "targetdepart": "環境経システム",
+    "time": [
+      {
+        "period": "後期後半",
+        "dow": "金",
+        "thclass": "1"
+      },
+      {
+        "period": "後期後半",
+        "dow": "金",
+        "thclass": "2"
+      }
+    ],
+    "instructor": [
+      "木村　眞実"
+    ]
+  },
+  {
+    "code": "yaa712101",
+    "name": "SD PBL(1)",
+    "targetyear": "2020",
+    "targetdepart": "社会メディア",
+    "time": [
+      {
+        "period": "前期前半",
+        "dow": "火",
+        "thclass": "2"
+      }
+    ],
+    "instructor": [
+      "李　洪千\n奥村　倫弘\n永盛　祐介\n広田　すみれ\n矢吹　理恵"
+    ]
+  },
+  {
+    "code": "yab701203",
+    "name": "統計学基礎",
+    "targetyear": "2020",
+    "targetdepart": "社会メディア",
+    "time": [
+      {
+        "period": "前期後半",
+        "dow": "月",
+        "thclass": "2"
+      },
+      {
+        "period": "前期後半",
+        "dow": "木",
+        "thclass": "1"
+      }
+    ],
+    "instructor": [
+      "山崎　瑞紀"
+    ]
+  },
+  {
+    "code": "yaz071101",
+    "name": "Communication Skills(1)",
+    "targetyear": "2020",
+    "targetdepart": "社会メディア",
+    "time": [
+      {
+        "period": "前期",
+        "dow": "月",
+        "thclass": "1"
+      }
+    ],
+    "instructor": [
+      "ミラー"
+    ]
+  },
+  {
+    "code": "yaz071103",
+    "name": "Communication Skills(1)",
+    "targetyear": "2020",
+    "targetdepart": "社会メディア",
+    "time": [
+      {
+        "period": "前期",
+        "dow": "月",
+        "thclass": "1"
+      }
+    ],
+    "instructor": [
+      "鴨下　恵子"
+    ]
+  },
+  {
+    "code": "yaz074201",
+    "name": "Communication Skills(1)",
+    "targetyear": "2020",
+    "targetdepart": "社会メディア",
+    "time": [
+      {
+        "period": "前期",
+        "dow": "木",
+        "thclass": "2"
+      }
+    ],
+    "instructor": [
+      "吉田　国子"
+    ]
+  },
+  {
+    "code": "yaz074202",
+    "name": "Communication Skills(1)",
+    "targetyear": "2020",
+    "targetdepart": "社会メディア",
+    "time": [
+      {
+        "period": "前期",
+        "dow": "木",
+        "thclass": "2"
+      }
+    ],
+    "instructor": [
+      "李　正美"
+    ]
+  },
+  {
+    "code": "yaz074203",
+    "name": "Communication Skills(1)",
+    "targetyear": "2020",
+    "targetdepart": "社会メディア",
+    "time": [
+      {
+        "period": "前期",
+        "dow": "木",
+        "thclass": "2"
+      }
+    ],
+    "instructor": [
+      "ミラー"
+    ]
+  },
+  {
+    "code": "yaz702501",
+    "name": "教育原論",
+    "targetyear": "2020",
+    "targetdepart": "社会メディア",
+    "time": [
+      {
+        "period": "前期",
+        "dow": "火",
+        "thclass": "5"
+      }
+    ],
+    "instructor": [
+      "夏秋　英房"
+    ]
+  },
+  {
+    "code": "yba715103",
+    "name": "社会調査",
+    "targetyear": "2020",
+    "targetdepart": "社会メディア",
+    "time": [
+      {
+        "period": "後期前半",
+        "dow": "金",
+        "thclass": "1"
+      },
+      {
+        "period": "後期前半",
+        "dow": "金",
+        "thclass": "2"
+      }
+    ],
+    "instructor": [
+      "中村　雅子"
+    ]
+  },
+  {
+    "code": "yaa721403",
+    "name": "SD PBL(1)",
+    "targetyear": "2020",
+    "targetdepart": "情報システム",
+    "time": [
+      {
+        "period": "前期前半",
+        "dow": "月",
+        "thclass": "4"
+      }
+    ],
+    "instructor": [
+      "横井　利彰\n市野　順子\n岩野　公司\n梅原　英一\n大谷　紀子\n小倉　信彦\n関　良明\n藤井　哲郎\n宮地　英生\n八木　伸行"
+    ]
+  },
+  {
+    "code": "yab722105",
+    "name": "ICTアセスメント概論",
+    "targetyear": "2020",
+    "targetdepart": "情報システム",
+    "time": [
+      {
+        "period": "前期後半",
+        "dow": "火",
+        "thclass": "1"
+      },
+      {
+        "period": "前期後半",
+        "dow": "火",
+        "thclass": "2"
+      }
+    ],
+    "instructor": [
+      "市野　順子"
+    ]
+  },
+  {
+    "code": "yab601106",
+    "name": "社会調査",
+    "targetyear": "2019",
+    "targetdepart": "環境創生",
+    "time": [
+      {
+        "period": "前期後半",
+        "dow": "月",
+        "thclass": "1"
+      },
+      {
+        "period": "前期後半",
+        "dow": "月",
+        "thclass": "2"
+      }
+    ],
+    "instructor": [
+      "大塚　善樹"
+    ]
+  },
+  {
+    "code": "yaz002203",
+    "name": "Critical Listening(1)",
+    "targetyear": "2019",
+    "targetdepart": "環境創生",
+    "time": [
+      {
+        "period": "前期",
+        "dow": "火",
+        "thclass": "2"
+      }
+    ],
+    "instructor": [
+      "マイケル　フォードリー"
+    ]
+  },
+  {
+    "code": "ybb615201",
+    "name": "都市インフラストラクチャー",
+    "targetyear": "2019",
+    "targetdepart": "環境創生",
+    "time": [
+      {
+        "period": "後期後半",
+        "dow": "金",
+        "thclass": "2"
+      },
+      {
+        "period": "後期後半",
+        "dow": "金",
+        "thclass": "3"
+      }
+    ],
+    "instructor": [
+      "蔡　佩宜"
+    ]
+  },
+  {
+    "code": "ybz002203",
+    "name": "Critical Listening(1)",
+    "targetyear": "2019",
+    "targetdepart": "環境創生",
+    "time": [
+      {
+        "period": "後期",
+        "dow": "火",
+        "thclass": "2"
+      }
+    ],
+    "instructor": [
+      "マイケル　フォードリー"
+    ]
+  },
+  {
+    "code": "yaa624302",
+    "name": "マネジメント数学",
+    "targetyear": "2019",
+    "targetdepart": "環境経営システム",
+    "time": [
+      {
+        "period": "前期前半",
+        "dow": "木",
+        "thclass": "3"
+      },
+      {
+        "period": "前期前半",
+        "dow": "木",
+        "thclass": "4"
+      }
+    ],
+    "instructor": [
+      "郭　偉宏"
+    ]
+  },
+  {
+    "code": "ybb705305",
+    "name": "サイエンス・スタディーズ",
+    "targetyear": "2019",
+    "targetdepart": "社会メディア",
+    "time": [
+      {
+        "period": "後期後半",
+        "dow": "金",
+        "thclass": "3"
+      },
+      {
+        "period": "後期後半",
+        "dow": "金",
+        "thclass": "4"
+      }
+    ],
+    "instructor": [
+      "難波　美帆"
+    ]
+  },
+  {
+    "code": "ybb721101",
+    "name": "人工知能とデータマイニング",
+    "targetyear": "2019",
+    "targetdepart": "情報システム",
+    "time": [
+      {
+        "period": "後期後半",
+        "dow": "月",
+        "thclass": "1"
+      },
+      {
+        "period": "後期後半",
+        "dow": "金",
+        "thclass": "1"
+      }
+    ],
+    "instructor": [
+      "大谷　紀子"
+    ]
+  },
+  {
+    "code": "yaa004304",
+    "name": "現代の化学",
+    "targetyear": "2020",
+    "targetdepart": "環境創生",
+    "time": [
+      {
+        "period": "前期前半",
+        "dow": "木",
+        "thclass": "3"
+      },
+      {
+        "period": "前期前半",
+        "dow": "木",
+        "thclass": "4"
+      }
+    ],
+    "instructor": [
+      "堀田　芳生"
+    ]
+  },
+  {
+    "code": "yab604207",
+    "name": "環境基礎(b)",
+    "targetyear": "2020",
+    "targetdepart": "環境創生",
+    "time": [
+      {
+        "period": "前期後半",
+        "dow": "木",
+        "thclass": "2"
+      }
+    ],
+    "instructor": [
+      "佐藤　真久\n荒井　眞一\n浦出　陽子\n滝口　直樹"
+    ]
+  },
+  {
+    "code": "yba623105",
+    "name": "オぺレーションズリサーチ",
+    "targetyear": "2020",
+    "targetdepart": "環境経システム",
+    "time": [
+      {
+        "period": "後期前半",
+        "dow": "水",
+        "thclass": "1"
+      },
+      {
+        "period": "後期前半",
+        "dow": "水",
+        "thclass": "2"
+      }
+    ],
+    "instructor": [
+      "大久保　寛基"
+    ]
+  },
+  {
+    "code": "yab715304",
+    "name": "現代国内情勢",
+    "targetyear": "2020",
+    "targetdepart": "社会メディア",
+    "time": [
+      {
+        "period": "前期後半",
+        "dow": "金",
+        "thclass": "3"
+      },
+      {
+        "period": "前期後半",
+        "dow": "金",
+        "thclass": "4"
+      }
+    ],
+    "instructor": [
+      "高田　昌幸"
+    ]
+  },
+  {
+    "code": "yba711403",
+    "name": "自己理解とカウンセリング",
+    "targetyear": "2020",
+    "targetdepart": "社会メディア",
+    "time": [
+      {
+        "period": "後期前半",
+        "dow": "月",
+        "thclass": "4"
+      },
+      {
+        "period": "後期前半",
+        "dow": "木",
+        "thclass": "4"
+      }
+    ],
+    "instructor": [
+      "矢吹　理恵"
+    ]
+  },
+  {
+    "code": "yba701204",
+    "name": "情報編集入門",
+    "targetyear": "2020",
+    "targetdepart": "社会メディア",
+    "time": [
+      {
+        "period": "後期前半",
+        "dow": "月",
+        "thclass": "2"
+      },
+      {
+        "period": "後期前半",
+        "dow": "月",
+        "thclass": "3"
+      }
+    ],
+    "instructor": [
+      "永盛　祐介"
+    ]
+  },
+  {
+    "code": "yba701205",
+    "name": "情報編集入門",
+    "targetyear": "2020",
+    "targetdepart": "社会メディア",
+    "time": [
+      {
+        "period": "後期前半",
+        "dow": "月",
+        "thclass": "2"
+      },
+      {
+        "period": "後期前半",
+        "dow": "月",
+        "thclass": "3"
+      }
+    ],
+    "instructor": [
+      "春日　秀雄"
+    ]
+  },
+  {
+    "code": "yab701404",
+    "name": "環境問題と社会",
+    "targetyear": "2020",
+    "targetdepart": "社会メディア",
+    "time": [
+      {
+        "period": "前期後半",
+        "dow": "月",
+        "thclass": "4"
+      },
+      {
+        "period": "前期後半",
+        "dow": "木",
+        "thclass": "4"
+      }
+    ],
+    "instructor": [
+      "谷口　幸弘"
+    ]
+  },
+  {
+    "code": "yab601104",
+    "name": "環境都市関連法(2)",
+    "targetyear": "2018",
+    "targetdepart": "環境創生",
+    "time": [
+      {
+        "period": "前期後半",
+        "dow": "月",
+        "thclass": "1"
+      },
+      {
+        "period": "前期後半",
+        "dow": "月",
+        "thclass": "2"
+      }
+    ],
+    "instructor": [
+      "竹田　智志"
+    ]
+  },
+  {
+    "code": "yaa622103",
+    "name": "国際環境法",
+    "targetyear": "2018",
+    "targetdepart": "環境マネジメント",
+    "time": [
+      {
+        "period": "前期前半",
+        "dow": "火",
+        "thclass": "1"
+      },
+      {
+        "period": "前期前半",
+        "dow": "火",
+        "thclass": "2"
+      }
+    ],
+    "instructor": [
+      "古川　務"
+    ]
+  },
+  {
+    "code": "yaa625302",
+    "name": "国際政治経済論",
+    "targetyear": "2018",
+    "targetdepart": "環境マネジメント",
+    "time": [
+      {
+        "period": "前期前半",
+        "dow": "金",
+        "thclass": "3"
+      },
+      {
+        "period": "前期前半",
+        "dow": "金",
+        "thclass": "4"
+      }
+    ],
+    "instructor": [
+      "横田　将志"
+    ]
+  },
+  {
+    "code": "yab711105",
+    "name": "産業組織心理学",
+    "targetyear": "2018",
+    "targetdepart": "社会メディア",
+    "time": [
+      {
+        "period": "前期後半",
+        "dow": "月",
+        "thclass": "1"
+      },
+      {
+        "period": "前期後半",
+        "dow": "月",
+        "thclass": "2"
+      }
+    ],
+    "instructor": [
+      "村上　始"
+    ]
+  },
+  {
+    "code": "yaa603101",
+    "name": "環境教育",
+    "targetyear": "2019",
+    "targetdepart": "環境創生",
+    "time": [
+      {
+        "period": "前期前半",
+        "dow": "水",
+        "thclass": "1"
+      },
+      {
+        "period": "前期前半",
+        "dow": "水",
+        "thclass": "2"
+      }
+    ],
+    "instructor": [
+      "佐藤　真久"
+    ]
+  },
+  {
+    "code": "yba615104",
+    "name": "CAD基礎演習",
+    "targetyear": "2019",
+    "targetdepart": "環境創生",
+    "time": [
+      {
+        "period": "後期前半",
+        "dow": "金",
+        "thclass": "1"
+      },
+      {
+        "period": "後期前半",
+        "dow": "金",
+        "thclass": "2"
+      }
+    ],
+    "instructor": [
+      "横田　樹広"
+    ]
+  },
+  {
+    "code": "yab623102",
+    "name": "財務会計",
+    "targetyear": "2019",
+    "targetdepart": "環境経営システム",
+    "time": [
+      {
+        "period": "前期後半",
+        "dow": "水",
+        "thclass": "1"
+      },
+      {
+        "period": "前期後半",
+        "dow": "水",
+        "thclass": "2"
+      }
+    ],
+    "instructor": [
+      "木村　眞実"
+    ]
+  },
+  {
+    "code": "ybb623106",
+    "name": "環境ガバナンス論",
+    "targetyear": "2019",
+    "targetdepart": "環境経営システム",
+    "time": [
+      {
+        "period": "後期後半",
+        "dow": "水",
+        "thclass": "1"
+      },
+      {
+        "period": "後期後半",
+        "dow": "水",
+        "thclass": "2"
+      }
+    ],
+    "instructor": [
+      "馬場　健司"
+    ]
+  },
+  {
+    "code": "yab714102",
+    "name": "ジャーナリズム論",
+    "targetyear": "2019",
+    "targetdepart": "社会メディア",
+    "time": [
+      {
+        "period": "前期後半",
+        "dow": "木",
+        "thclass": "1"
+      },
+      {
+        "period": "前期後半",
+        "dow": "木",
+        "thclass": "2"
+      }
+    ],
+    "instructor": [
+      "高田　昌幸"
+    ]
+  },
+  {
+    "code": "ybb701202",
+    "name": "データベース",
+    "targetyear": "2019",
+    "targetdepart": "社会メディア",
+    "time": [
+      {
+        "period": "後期後半",
+        "dow": "月",
+        "thclass": "2"
+      },
+      {
+        "period": "後期後半",
+        "dow": "木",
+        "thclass": "4"
+      }
+    ],
+    "instructor": [
+      "鈴木　幸市"
+    ]
+  },
+  {
+    "code": "yaa005105",
+    "name": "現代の地学",
+    "targetyear": "2020",
+    "targetdepart": "環境創生",
+    "time": [
+      {
+        "period": "前期前半",
+        "dow": "金",
+        "thclass": "1"
+      },
+      {
+        "period": "前期前半",
+        "dow": "金",
+        "thclass": "2"
+      }
+    ],
+    "instructor": [
+      "国府田　良樹"
+    ]
+  },
+  {
+    "code": "yaa602105",
+    "name": "基礎生物学",
+    "targetyear": "2020",
+    "targetdepart": "環境創生",
+    "time": [
+      {
+        "period": "前期前半",
+        "dow": "火",
+        "thclass": "1"
+      },
+      {
+        "period": "前期前半",
+        "dow": "火",
+        "thclass": "2"
+      }
+    ],
+    "instructor": [
+      "石田　健"
+    ]
+  },
+  {
+    "code": "yba712302",
+    "name": "社会学概論",
+    "targetyear": "2020",
+    "targetdepart": "社会メディア",
+    "time": [
+      {
+        "period": "後期前半",
+        "dow": "火",
+        "thclass": "3"
+      },
+      {
+        "period": "後期前半",
+        "dow": "木",
+        "thclass": "3"
+      }
+    ],
+    "instructor": [
+      "島村　賢一"
+    ]
+  },
+  {
+    "code": "yaa614104",
+    "name": "都市プランニング論",
+    "targetyear": "2018",
+    "targetdepart": "環境創生",
+    "time": [
+      {
+        "period": "前期前半",
+        "dow": "木",
+        "thclass": "1"
+      },
+      {
+        "period": "前期前半",
+        "dow": "木",
+        "thclass": "2"
+      }
+    ],
+    "instructor": [
+      "丹羽　由佳理"
+    ]
+  },
+  {
+    "code": "yab623104",
+    "name": "(再)環境コミュニケーションとライフスタイル",
+    "targetyear": "2018",
+    "targetdepart": "環境マネジメント",
+    "time": [
+      {
+        "period": "前期後半",
+        "dow": "水",
+        "thclass": "1"
+      },
+      {
+        "period": "前期後半",
+        "dow": "水",
+        "thclass": "2"
+      }
+    ],
+    "instructor": [
+      "古川　柳蔵"
+    ]
+  },
+  {
+    "code": "ybb613105",
+    "name": "都市環境データ分析演習",
+    "targetyear": "2019",
+    "targetdepart": "環境創生",
+    "time": [
+      {
+        "period": "後期後半",
+        "dow": "水",
+        "thclass": "1"
+      },
+      {
+        "period": "後期後半",
+        "dow": "水",
+        "thclass": "2"
+      }
+    ],
+    "instructor": [
+      "丹羽　由佳理"
+    ]
+  },
+  {
+    "code": "yaa712304",
+    "name": "インフォグラフィックスデザイン演習",
+    "targetyear": "2019",
+    "targetdepart": "社会メディア",
+    "time": [
+      {
+        "period": "前期前半",
+        "dow": "火",
+        "thclass": "3"
+      },
+      {
+        "period": "前期前半",
+        "dow": "金",
+        "thclass": "3"
+      }
+    ],
+    "instructor": [
+      "小池　星多"
+    ]
+  },
+  {
+    "code": "yba711301",
+    "name": "キャリアデザイン",
+    "targetyear": "2019",
+    "targetdepart": "社会メディア",
+    "time": [
+      {
+        "period": "後期前半",
+        "dow": "月",
+        "thclass": "3"
+      },
+      {
+        "period": "後期前半",
+        "dow": "月",
+        "thclass": "4"
+      }
+    ],
+    "instructor": [
+      "曲尾　実"
+    ]
+  },
+  {
+    "code": "yba713102",
+    "name": "マスコミュニケーション論",
+    "targetyear": "2019",
+    "targetdepart": "社会メディア",
+    "time": [
+      {
+        "period": "後期前半",
+        "dow": "水",
+        "thclass": "1"
+      },
+      {
+        "period": "後期前半",
+        "dow": "水",
+        "thclass": "2"
+      }
+    ],
+    "instructor": [
+      "李　洪千"
+    ]
+  },
+  {
+    "code": "yba721401",
+    "name": "キャリアデザイン",
+    "targetyear": "2019",
+    "targetdepart": "情報システム",
+    "time": [
+      {
+        "period": "後期前半",
+        "dow": "月",
+        "thclass": "4"
+      },
+      {
+        "period": "後期前半",
+        "dow": "木",
+        "thclass": "4"
+      }
+    ],
+    "instructor": [
+      "池田　宗人"
+    ]
+  },
+  {
+    "code": "yaa064207",
+    "name": "情報演習基礎(a)",
+    "targetyear": "2020",
+    "targetdepart": "環境創生",
+    "time": [
+      {
+        "period": "前期前半",
+        "dow": "木",
+        "thclass": "2"
+      }
+    ],
+    "instructor": [
+      "萩原　豪"
+    ]
+  },
+  {
+    "code": "yaa064307",
+    "name": "情報演習基礎(a)",
+    "targetyear": "2020",
+    "targetdepart": "環境創生",
+    "time": [
+      {
+        "period": "前期前半",
+        "dow": "木",
+        "thclass": "3"
+      }
+    ],
+    "instructor": [
+      "萩原　豪"
+    ]
+  },
+  {
+    "code": "ybb605303",
+    "name": "ミクロ経済学",
+    "targetyear": "2020",
+    "targetdepart": "環境創生",
+    "time": [
+      {
+        "period": "後期後半",
+        "dow": "金",
+        "thclass": "3"
+      },
+      {
+        "period": "後期後半",
+        "dow": "金",
+        "thclass": "4"
+      }
+    ],
+    "instructor": [
+      "岡田　啓"
+    ]
+  },
+  {
+    "code": "ybb711203",
+    "name": "社会心理学概論",
+    "targetyear": "2020",
+    "targetdepart": "社会メディア",
+    "time": [
+      {
+        "period": "後期後半",
+        "dow": "月",
+        "thclass": "2"
+      },
+      {
+        "period": "後期後半",
+        "dow": "金",
+        "thclass": "2"
+      }
+    ],
+    "instructor": [
+      "山崎　瑞紀"
+    ]
+  },
+  {
+    "code": "ybz706101",
+    "name": "特別活動の理論と方法",
+    "targetyear": "2020",
+    "targetdepart": "社会メディア",
+    "time": [
+      {
+        "period": "後期",
+        "dow": "土",
+        "thclass": "1"
+      }
+    ],
+    "instructor": [
+      "岩本　俊一"
+    ]
+  },
+  {
+    "code": "yaa613103",
+    "name": "地域環境再生論",
+    "targetyear": "2018",
+    "targetdepart": "環境創生",
+    "time": [
+      {
+        "period": "前期前半",
+        "dow": "水",
+        "thclass": "1"
+      },
+      {
+        "period": "前期前半",
+        "dow": "水",
+        "thclass": "2"
+      }
+    ],
+    "instructor": [
+      "室田　昌子"
+    ]
+  },
+  {
+    "code": "yba625302",
+    "name": "グローバルガバナンス",
+    "targetyear": "2018",
+    "targetdepart": "環境マネジメント",
+    "time": [
+      {
+        "period": "後期前半",
+        "dow": "金",
+        "thclass": "3"
+      },
+      {
+        "period": "後期前半",
+        "dow": "金",
+        "thclass": "4"
+      }
+    ],
+    "instructor": [
+      "横田　将志"
+    ]
+  },
+  {
+    "code": "yaa714105",
+    "name": "サーバシステム構築",
+    "targetyear": "2018",
+    "targetdepart": "社会メディア",
+    "time": [
+      {
+        "period": "前期前半",
+        "dow": "木",
+        "thclass": "1"
+      },
+      {
+        "period": "前期前半",
+        "dow": "木",
+        "thclass": "2"
+      }
+    ],
+    "instructor": [
+      "木全　英明"
+    ]
+  },
+  {
+    "code": "yab611307",
+    "name": "図面・模型作成演習",
+    "targetyear": "2019",
+    "targetdepart": "環境創生",
+    "time": [
+      {
+        "period": "前期後半",
+        "dow": "月",
+        "thclass": "3"
+      },
+      {
+        "period": "前期後半",
+        "dow": "月",
+        "thclass": "4"
+      }
+    ],
+    "instructor": [
+      "サキャ　ラタ"
+    ]
+  },
+  {
+    "code": "yaz005402",
+    "name": "Communication Strategies(1)",
+    "targetyear": "2019",
+    "targetdepart": "環境創生",
+    "time": [
+      {
+        "period": "前期",
+        "dow": "金",
+        "thclass": "4"
+      }
+    ],
+    "instructor": [
+      "鈴木　夏実"
+    ]
+  },
+  {
+    "code": "ybz005402",
+    "name": "Communication Strategies(1)",
+    "targetyear": "2019",
+    "targetdepart": "環境創生",
+    "time": [
+      {
+        "period": "後期",
+        "dow": "金",
+        "thclass": "4"
+      }
+    ],
+    "instructor": [
+      "鈴木　夏実"
+    ]
+  },
+  {
+    "code": "ybb711201",
+    "name": "インタフェースデザイン演習",
+    "targetyear": "2019",
+    "targetdepart": "社会メディア",
+    "time": [
+      {
+        "period": "後期後半",
+        "dow": "月",
+        "thclass": "2"
+      },
+      {
+        "period": "後期後半",
+        "dow": "金",
+        "thclass": "2"
+      }
+    ],
+    "instructor": [
+      "小池　星多"
+    ]
+  },
+  {
+    "code": "yaa991103",
+    "name": "情報セキュリティ",
+    "targetyear": "2019",
+    "targetdepart": "情報システム",
+    "time": [
+      {
+        "period": "前期前半",
+        "dow": "月",
+        "thclass": "1"
+      },
+      {
+        "period": "前期前半",
+        "dow": "木",
+        "thclass": "4"
+      }
+    ],
+    "instructor": [
+      "関　良明"
+    ]
+  },
+  {
+    "code": "yab064206",
+    "name": "情報演習基礎(b)",
+    "targetyear": "2020",
+    "targetdepart": "環境創生",
+    "time": [
+      {
+        "period": "前期後半",
+        "dow": "木",
+        "thclass": "2"
+      }
+    ],
+    "instructor": [
+      "萩原　豪"
+    ]
+  },
+  {
+    "code": "yab064305",
+    "name": "情報演習基礎(b)",
+    "targetyear": "2020",
+    "targetdepart": "環境創生",
+    "time": [
+      {
+        "period": "前期後半",
+        "dow": "木",
+        "thclass": "3"
+      }
+    ],
+    "instructor": [
+      "萩原　豪"
+    ]
+  },
+  {
+    "code": "yba605303",
+    "name": "マネジメント入門",
+    "targetyear": "2020",
+    "targetdepart": "環境創生",
+    "time": [
+      {
+        "period": "後期前半",
+        "dow": "金",
+        "thclass": "3"
+      },
+      {
+        "period": "後期前半",
+        "dow": "金",
+        "thclass": "4"
+      }
+    ],
+    "instructor": [
+      "郭　偉宏"
+    ]
+  },
+  {
+    "code": "yba712204",
+    "name": "認知科学",
+    "targetyear": "2020",
+    "targetdepart": "社会メディア",
+    "time": [
+      {
+        "period": "後期前半",
+        "dow": "火",
+        "thclass": "2"
+      },
+      {
+        "period": "後期前半",
+        "dow": "水",
+        "thclass": "2"
+      }
+    ],
+    "instructor": [
+      "関　博紀"
+    ]
+  },
+  {
+    "code": "yab622106",
+    "name": "環境マネジメントとデジタル社会",
+    "targetyear": "2018",
+    "targetdepart": "環境マネジメント",
+    "time": [
+      {
+        "period": "前期後半",
+        "dow": "火",
+        "thclass": "1"
+      },
+      {
+        "period": "前期後半",
+        "dow": "火",
+        "thclass": "2"
+      }
+    ],
+    "instructor": [
+      "フィッツギボンズ　雄亮"
+    ]
+  },
+  {
+    "code": "yab624104",
+    "name": "国際経済と環境",
+    "targetyear": "2018",
+    "targetdepart": "環境マネジメント",
+    "time": [
+      {
+        "period": "前期後半",
+        "dow": "木",
+        "thclass": "1"
+      },
+      {
+        "period": "前期後半",
+        "dow": "木",
+        "thclass": "2"
+      }
+    ],
+    "instructor": [
+      "森本　清二郎"
+    ]
+  },
+  {
+    "code": "yab714101",
+    "name": "サーバ管理演習",
+    "targetyear": "2018",
+    "targetdepart": "社会メディア",
+    "time": [
+      {
+        "period": "前期後半",
+        "dow": "木",
+        "thclass": "1"
+      },
+      {
+        "period": "前期後半",
+        "dow": "木",
+        "thclass": "2"
+      }
+    ],
+    "instructor": [
+      "木全　英明"
+    ]
+  },
+  {
+    "code": "yaa602101",
+    "name": "エネルギーと社会",
+    "targetyear": "2019",
+    "targetdepart": "環境創生",
+    "time": [
+      {
+        "period": "前期前半",
+        "dow": "火",
+        "thclass": "1"
+      },
+      {
+        "period": "前期前半",
+        "dow": "火",
+        "thclass": "2"
+      }
+    ],
+    "instructor": [
+      "木村　啓二"
+    ]
+  },
+  {
+    "code": "yaa604103",
+    "name": "環境法概論",
+    "targetyear": "2019",
+    "targetdepart": "環境創生",
+    "time": [
+      {
+        "period": "前期前半",
+        "dow": "木",
+        "thclass": "1"
+      },
+      {
+        "period": "前期前半",
+        "dow": "木",
+        "thclass": "2"
+      }
+    ],
+    "instructor": [
+      "古川　務"
+    ]
+  },
+  {
+    "code": "yaz001302",
+    "name": "Communication Strategies(3)",
+    "targetyear": "2019",
+    "targetdepart": "環境創生",
+    "time": [
+      {
+        "period": "前期",
+        "dow": "月",
+        "thclass": "3"
+      }
+    ],
+    "instructor": [
+      "ミラー"
+    ]
+  },
+  {
+    "code": "yba613103",
+    "name": "適応的快適論",
+    "targetyear": "2019",
+    "targetdepart": "環境創生",
+    "time": [
+      {
+        "period": "後期前半",
+        "dow": "水",
+        "thclass": "1"
+      },
+      {
+        "period": "後期前半",
+        "dow": "水",
+        "thclass": "2"
+      }
+    ],
+    "instructor": [
+      "リジャル　ホム・バハドゥル"
+    ]
+  },
+  {
+    "code": "ybz001301",
+    "name": "Communication Strategies(3)",
+    "targetyear": "2019",
+    "targetdepart": "環境創生",
+    "time": [
+      {
+        "period": "後期",
+        "dow": "月",
+        "thclass": "3"
+      }
+    ],
+    "instructor": [
+      "ミラー"
+    ]
+  },
+  {
+    "code": "ybb701305",
+    "name": "電子商取引論",
+    "targetyear": "2019",
+    "targetdepart": "社会メディア",
+    "time": [
+      {
+        "period": "後期後半",
+        "dow": "月",
+        "thclass": "3"
+      },
+      {
+        "period": "後期後半",
+        "dow": "木",
+        "thclass": "3"
+      }
+    ],
+    "instructor": [
+      "梅原　英一"
+    ]
+  },
+  {
+    "code": "ybb712301",
+    "name": "メディアと政治",
+    "targetyear": "2019",
+    "targetdepart": "社会メディア",
+    "time": [
+      {
+        "period": "後期後半",
+        "dow": "火",
+        "thclass": "3"
+      },
+      {
+        "period": "後期後半",
+        "dow": "火",
+        "thclass": "4"
+      }
+    ],
+    "instructor": [
+      "李　洪千"
+    ]
+  },
+  {
+    "code": "yaa061308",
+    "name": "情報通信入門",
+    "targetyear": "2020",
+    "targetdepart": "環境創生",
+    "time": [
+      {
+        "period": "前期前半",
+        "dow": "月",
+        "thclass": "3"
+      },
+      {
+        "period": "前期前半",
+        "dow": "月",
+        "thclass": "4"
+      }
+    ],
+    "instructor": [
+      "斉藤　茂樹"
+    ]
+  },
+  {
+    "code": "yba601405",
+    "name": "基礎プログラミング演習(a)",
+    "targetyear": "2020",
+    "targetdepart": "環境創生",
+    "time": [
+      {
+        "period": "後期前半",
+        "dow": "月",
+        "thclass": "4"
+      }
+    ],
+    "instructor": [
+      "鈴木　孝幸"
+    ]
+  },
+  {
+    "code": "yaa715202",
+    "name": "基礎プログラミング演習(1a)",
+    "targetyear": "2020",
+    "targetdepart": "社会メディア",
+    "time": [
+      {
+        "period": "前期前半",
+        "dow": "金",
+        "thclass": "2"
+      }
+    ],
+    "instructor": [
+      "秋山　優"
+    ]
+  },
+  {
+    "code": "yab604103",
+    "name": "公共経済学",
+    "targetyear": "2019",
+    "targetdepart": "環境創生",
+    "time": [
+      {
+        "period": "前期後半",
+        "dow": "木",
+        "thclass": "1"
+      },
+      {
+        "period": "前期後半",
+        "dow": "木",
+        "thclass": "2"
+      }
+    ],
+    "instructor": [
+      "岡田　啓"
+    ]
+  },
+  {
+    "code": "yaz001203",
+    "name": "Communication Strategies(2)",
+    "targetyear": "2019",
+    "targetdepart": "環境創生",
+    "time": [
+      {
+        "period": "前期",
+        "dow": "月",
+        "thclass": "2"
+      }
+    ],
+    "instructor": [
+      "稲垣　亜希子"
+    ]
+  },
+  {
+    "code": "ybz001204",
+    "name": "Communication Strategies(2)",
+    "targetyear": "2019",
+    "targetdepart": "環境創生",
+    "time": [
+      {
+        "period": "後期",
+        "dow": "月",
+        "thclass": "2"
+      }
+    ],
+    "instructor": [
+      "稲垣　亜希子"
+    ]
+  },
+  {
+    "code": "ybb711402",
+    "name": "異文化間コミュニケーション",
+    "targetyear": "2019",
+    "targetdepart": "社会メディア",
+    "time": [
+      {
+        "period": "後期後半",
+        "dow": "月",
+        "thclass": "4"
+      },
+      {
+        "period": "後期後半",
+        "dow": "木",
+        "thclass": "4"
+      }
+    ],
+    "instructor": [
+      "山崎　瑞紀"
+    ]
+  },
+  {
+    "code": "ybb715301",
+    "name": "LAN環境演習",
+    "targetyear": "2019",
+    "targetdepart": "社会メディア",
+    "time": [
+      {
+        "period": "後期後半",
+        "dow": "金",
+        "thclass": "3"
+      },
+      {
+        "period": "後期後半",
+        "dow": "金",
+        "thclass": "4"
+      }
+    ],
+    "instructor": [
+      "関　良明"
+    ]
+  },
+  {
+    "code": "yba704303",
+    "name": "ヒューマンコンピュータインタラクション",
+    "targetyear": "2019",
+    "targetdepart": "情報システム",
+    "time": [
+      {
+        "period": "後期前半",
+        "dow": "木",
+        "thclass": "3"
+      },
+      {
+        "period": "後期前半",
+        "dow": "木",
+        "thclass": "4"
+      }
+    ],
+    "instructor": [
+      "八木　伸行"
+    ]
+  },
+  {
+    "code": "yba705301",
+    "name": "LAN環境演習",
+    "targetyear": "2019",
+    "targetdepart": "情報システム",
+    "time": [
+      {
+        "period": "後期前半",
+        "dow": "金",
+        "thclass": "3"
+      },
+      {
+        "period": "後期前半",
+        "dow": "金",
+        "thclass": "4"
+      }
+    ],
+    "instructor": [
+      "関　良明"
+    ]
+  },
+  {
+    "code": "ybb601405",
+    "name": "基礎プログラミング演習(b)",
+    "targetyear": "2020",
+    "targetdepart": "環境創生",
+    "time": [
+      {
+        "period": "後期後半",
+        "dow": "月",
+        "thclass": "4"
+      }
+    ],
+    "instructor": [
+      "鈴木　孝幸"
+    ]
+  },
+  {
+    "code": "yab715201",
+    "name": "基礎プログラミング演習(1b)",
+    "targetyear": "2020",
+    "targetdepart": "社会メディア",
+    "time": [
+      {
+        "period": "前期後半",
+        "dow": "金",
+        "thclass": "2"
+      }
+    ],
+    "instructor": [
+      "秋山　優"
+    ]
+  },
+  {
+    "code": "yaa601307",
+    "name": "土地利用と法",
+    "targetyear": "2018",
+    "targetdepart": "環境創生",
+    "time": [
+      {
+        "period": "前期前半",
+        "dow": "月",
+        "thclass": "3"
+      },
+      {
+        "period": "前期前半",
+        "dow": "月",
+        "thclass": "4"
+      }
+    ],
+    "instructor": [
+      "古川　務"
+    ]
+  },
+  {
+    "code": "yba711202",
+    "name": "行動的意思決定論",
+    "targetyear": "2018",
+    "targetdepart": "社会メディア",
+    "time": [
+      {
+        "period": "後期前半",
+        "dow": "月",
+        "thclass": "2"
+      },
+      {
+        "period": "後期前半",
+        "dow": "木",
+        "thclass": "2"
+      }
+    ],
+    "instructor": [
+      "広田　すみれ"
+    ]
+  },
+  {
+    "code": "yaz001402",
+    "name": "Academic English(1)",
+    "targetyear": "2019",
+    "targetdepart": "環境創生",
+    "time": [
+      {
+        "period": "前期",
+        "dow": "月",
+        "thclass": "4"
+      }
+    ],
+    "instructor": [
+      "稲垣　亜希子"
+    ]
+  },
+  {
+    "code": "ybz001401",
+    "name": "Academic English(1)",
+    "targetyear": "2019",
+    "targetdepart": "環境創生",
+    "time": [
+      {
+        "period": "後期",
+        "dow": "月",
+        "thclass": "4"
+      }
+    ],
+    "instructor": [
+      "稲垣　亜希子"
+    ]
+  },
+  {
+    "code": "yba604302",
+    "name": "環境倫理",
+    "targetyear": "2020",
+    "targetdepart": "環境創生",
+    "time": [
+      {
+        "period": "後期前半",
+        "dow": "木",
+        "thclass": "3"
+      },
+      {
+        "period": "後期前半",
+        "dow": "木",
+        "thclass": "4"
+      }
+    ],
+    "instructor": [
+      "佐藤　真久"
+    ]
+  },
+  {
+    "code": "yba715306",
+    "name": "基礎プログラミング演習(2a)",
+    "targetyear": "2020",
+    "targetdepart": "社会メディア",
+    "time": [
+      {
+        "period": "後期前半",
+        "dow": "金",
+        "thclass": "3"
+      }
+    ],
+    "instructor": [
+      "秋山　優"
+    ]
+  },
+  {
+    "code": "yab991401",
+    "name": "NPOとソーシャルビジネス",
+    "targetyear": "2018",
+    "targetdepart": "環境創生",
+    "time": [
+      {
+        "period": "前期後半",
+        "dow": "月",
+        "thclass": "4"
+      },
+      {
+        "period": "前期後半",
+        "dow": "木",
+        "thclass": "4"
+      }
+    ],
+    "instructor": [
+      "渡辺　芳"
+    ]
+  },
+  {
+    "code": "yba711305",
+    "name": "街づくり論",
+    "targetyear": "2018",
+    "targetdepart": "社会メディア",
+    "time": [
+      {
+        "period": "後期前半",
+        "dow": "月",
+        "thclass": "3"
+      },
+      {
+        "period": "後期前半",
+        "dow": "月",
+        "thclass": "4"
+      }
+    ],
+    "instructor": [
+      "中村　雅子\n岡部　大介"
+    ]
+  },
+  {
+    "code": "yba604102",
+    "name": "食料問題と環境",
+    "targetyear": "2019",
+    "targetdepart": "環境創生",
+    "time": [
+      {
+        "period": "後期前半",
+        "dow": "木",
+        "thclass": "1"
+      },
+      {
+        "period": "後期前半",
+        "dow": "木",
+        "thclass": "2"
+      }
+    ],
+    "instructor": [
+      "大塚　善樹"
+    ]
+  },
+  {
+    "code": "ybb601303",
+    "name": "持続可能な消費",
+    "targetyear": "2020",
+    "targetdepart": "環境創生",
+    "time": [
+      {
+        "period": "後期後半",
+        "dow": "月",
+        "thclass": "3"
+      },
+      {
+        "period": "後期後半",
+        "dow": "月",
+        "thclass": "4"
+      }
+    ],
+    "instructor": [
+      "古川　柳蔵"
+    ]
+  },
+  {
+    "code": "ybb715306",
+    "name": "基礎プログラミング演習(2b)",
+    "targetyear": "2020",
+    "targetdepart": "社会メディア",
+    "time": [
+      {
+        "period": "後期後半",
+        "dow": "金",
+        "thclass": "3"
+      }
+    ],
+    "instructor": [
+      "秋山　優"
+    ]
+  },
+  {
+    "code": "yaz001303",
+    "name": "Academic English(3)",
+    "targetyear": "2019",
+    "targetdepart": "環境創生",
+    "time": [
+      {
+        "period": "前期",
+        "dow": "月",
+        "thclass": "3"
+      }
+    ],
+    "instructor": [
+      "マイケル　フォードリー"
+    ]
+  },
+  {
+    "code": "yba611302",
+    "name": "キャリアデザイン",
+    "targetyear": "2019",
+    "targetdepart": "環境創生",
+    "time": [
+      {
+        "period": "後期前半",
+        "dow": "月",
+        "thclass": "3"
+      },
+      {
+        "period": "後期前半",
+        "dow": "木",
+        "thclass": "3"
+      }
+    ],
+    "instructor": [
+      "池田　宗人"
+    ]
+  },
+  {
+    "code": "ybz001303",
+    "name": "Academic English(3)",
+    "targetyear": "2019",
+    "targetdepart": "環境創生",
+    "time": [
+      {
+        "period": "後期",
+        "dow": "月",
+        "thclass": "3"
+      }
+    ],
+    "instructor": [
+      "マイケル　フォードリー"
+    ]
+  },
+  {
+    "code": "ybb621301",
+    "name": "キャリアデザイン",
+    "targetyear": "2019",
+    "targetdepart": "環境経営システム",
+    "time": [
+      {
+        "period": "後期後半",
+        "dow": "月",
+        "thclass": "3"
+      },
+      {
+        "period": "後期後半",
+        "dow": "月",
+        "thclass": "4"
+      }
+    ],
+    "instructor": [
+      "曲尾　実"
+    ]
+  },
+  {
+    "code": "yba602102",
+    "name": "環境統計学",
+    "targetyear": "2020",
+    "targetdepart": "環境創生",
+    "time": [
+      {
+        "period": "後期前半",
+        "dow": "火",
+        "thclass": "1"
+      },
+      {
+        "period": "後期前半",
+        "dow": "火",
+        "thclass": "2"
+      }
+    ],
+    "instructor": [
+      "鈴木　雅智"
+    ]
+  },
+  {
+    "code": "yab711306",
+    "name": "情報通信技術入門",
+    "targetyear": "2020",
+    "targetdepart": "社会メディア",
+    "time": [
+      {
+        "period": "前期後半",
+        "dow": "月",
+        "thclass": "3"
+      },
+      {
+        "period": "前期後半",
+        "dow": "月",
+        "thclass": "4"
+      }
+    ],
+    "instructor": [
+      "斉藤　茂樹"
+    ]
+  },
+  {
+    "code": "yaz706202",
+    "name": "生徒指導・進路指導の理論と方法",
+    "targetyear": "2020",
+    "targetdepart": "社会メディア",
+    "time": [
+      {
+        "period": "前期",
+        "dow": "土",
+        "thclass": "2"
+      }
+    ],
+    "instructor": [
+      "野島　一郎"
+    ]
+  },
+  {
+    "code": "yaa004303",
+    "name": "日本経済論",
+    "targetyear": "2018",
+    "targetdepart": "環境創生",
+    "time": [
+      {
+        "period": "前期前半",
+        "dow": "木",
+        "thclass": "3"
+      },
+      {
+        "period": "前期前半",
+        "dow": "木",
+        "thclass": "4"
+      }
+    ],
+    "instructor": [
+      "大守　隆"
+    ]
+  },
+  {
+    "code": "yab602304",
+    "name": "都市気候論",
+    "targetyear": "2018",
+    "targetdepart": "環境創生",
+    "time": [
+      {
+        "period": "前期後半",
+        "dow": "火",
+        "thclass": "3"
+      },
+      {
+        "period": "前期後半",
+        "dow": "火",
+        "thclass": "4"
+      }
+    ],
+    "instructor": [
+      "鳴海　大典"
+    ]
+  },
+  {
+    "code": "yaz002403",
+    "name": "Literature in English(1)",
+    "targetyear": "2019",
+    "targetdepart": "環境創生",
+    "time": [
+      {
+        "period": "前期",
+        "dow": "火",
+        "thclass": "4"
+      }
+    ],
+    "instructor": [
+      "岡島　慶"
+    ]
+  },
+  {
+    "code": "ybb604302",
+    "name": "環境アセスメント概論",
+    "targetyear": "2019",
+    "targetdepart": "環境創生",
+    "time": [
+      {
+        "period": "後期後半",
+        "dow": "木",
+        "thclass": "3"
+      },
+      {
+        "period": "後期後半",
+        "dow": "木",
+        "thclass": "4"
+      }
+    ],
+    "instructor": [
+      "横田　樹広"
+    ]
+  },
+  {
+    "code": "yzz617101",
+    "name": "卒業研究",
+    "targetyear": "2017",
+    "targetdepart": "環境創生",
+    "time": [
+      {
+        "period": "通年（卒研）",
+        "dow": "",
+        "thclass": ""
+      }
+    ],
+    "instructor": [
+      "室田　昌子"
+    ]
+  },
+  {
+    "code": "yzz617102",
+    "name": "卒業研究",
+    "targetyear": "2017",
+    "targetdepart": "環境創生",
+    "time": [
+      {
+        "period": "通年（卒研）",
+        "dow": "",
+        "thclass": ""
+      }
+    ],
+    "instructor": [
+      "飯島　健太郎"
+    ]
+  },
+  {
+    "code": "yzz617103",
+    "name": "卒業研究",
+    "targetyear": "2017",
+    "targetdepart": "環境創生",
+    "time": [
+      {
+        "period": "通年（卒研）",
+        "dow": "",
+        "thclass": ""
+      }
+    ],
+    "instructor": [
+      "史　中超"
+    ]
+  },
+  {
+    "code": "yzz617104",
+    "name": "卒業研究",
+    "targetyear": "2017",
+    "targetdepart": "環境創生",
+    "time": [
+      {
+        "period": "通年（卒研）",
+        "dow": "",
+        "thclass": ""
+      }
+    ],
+    "instructor": [
+      "田中　章"
+    ]
+  },
+  {
+    "code": "yzz617105",
+    "name": "卒業研究",
+    "targetyear": "2017",
+    "targetdepart": "環境創生",
+    "time": [
+      {
+        "period": "通年（卒研）",
+        "dow": "",
+        "thclass": ""
+      }
+    ],
+    "instructor": [
+      "リジャル　ホム・バハドゥル"
+    ]
+  },
+  {
+    "code": "yzz617106",
+    "name": "卒業研究",
+    "targetyear": "2017",
+    "targetdepart": "環境創生",
+    "time": [
+      {
+        "period": "通年（卒研）",
+        "dow": "",
+        "thclass": ""
+      }
+    ],
+    "instructor": [
+      "咸　泳植"
+    ]
+  },
+  {
+    "code": "yzz617107",
+    "name": "卒業研究",
+    "targetyear": "2017",
+    "targetdepart": "環境創生",
+    "time": [
+      {
+        "period": "通年（卒研）",
+        "dow": "",
+        "thclass": ""
+      }
+    ],
+    "instructor": [
+      "横田　樹広"
+    ]
+  },
+  {
+    "code": "yzz617108",
+    "name": "卒業研究",
+    "targetyear": "2017",
+    "targetdepart": "環境創生",
+    "time": [
+      {
+        "period": "通年（卒研）",
+        "dow": "",
+        "thclass": ""
+      }
+    ],
+    "instructor": [
+      "北村　亘"
+    ]
+  },
+  {
+    "code": "yzz617109",
+    "name": "卒業研究",
+    "targetyear": "2017",
+    "targetdepart": "環境創生",
+    "time": [
+      {
+        "period": "通年（卒研）",
+        "dow": "",
+        "thclass": ""
+      }
+    ],
+    "instructor": [
+      "丹羽　由佳理"
+    ]
+  },
+  {
+    "code": "yzz617110",
+    "name": "卒業研究",
+    "targetyear": "2017",
+    "targetdepart": "環境創生",
+    "time": [
+      {
+        "period": "通年（卒研）",
+        "dow": "",
+        "thclass": ""
+      }
+    ],
+    "instructor": [
+      "加用　現空"
+    ]
+  },
+  {
+    "code": "yzz627101",
+    "name": "卒業研究",
+    "targetyear": "2017",
+    "targetdepart": "環境マネジメント",
+    "time": [
+      {
+        "period": "通年（卒研）",
+        "dow": "",
+        "thclass": ""
+      }
+    ],
+    "instructor": [
+      "郭　偉宏"
+    ]
+  },
+  {
+    "code": "yzz627102",
+    "name": "卒業研究",
+    "targetyear": "2017",
+    "targetdepart": "環境マネジメント",
+    "time": [
+      {
+        "period": "通年（卒研）",
+        "dow": "",
+        "thclass": ""
+      }
+    ],
+    "instructor": [
+      "伊坪　徳宏"
+    ]
+  },
+  {
+    "code": "yzz627103",
+    "name": "卒業研究",
+    "targetyear": "2017",
+    "targetdepart": "環境マネジメント",
+    "time": [
+      {
+        "period": "通年（卒研）",
+        "dow": "",
+        "thclass": ""
+      }
+    ],
+    "instructor": [
+      "大塚　善樹"
+    ]
+  },
+  {
+    "code": "yzz627104",
+    "name": "卒業研究",
+    "targetyear": "2017",
+    "targetdepart": "環境マネジメント",
+    "time": [
+      {
+        "period": "通年（卒研）",
+        "dow": "",
+        "thclass": ""
+      }
+    ],
+    "instructor": [
+      "佐藤　真久"
+    ]
+  },
+  {
+    "code": "yzz627105",
+    "name": "卒業研究",
+    "targetyear": "2017",
+    "targetdepart": "環境マネジメント",
+    "time": [
+      {
+        "period": "通年（卒研）",
+        "dow": "",
+        "thclass": ""
+      }
+    ],
+    "instructor": [
+      "馬場　健司"
+    ]
+  },
+  {
+    "code": "yzz627106",
+    "name": "卒業研究",
+    "targetyear": "2017",
+    "targetdepart": "環境マネジメント",
+    "time": [
+      {
+        "period": "通年（卒研）",
+        "dow": "",
+        "thclass": ""
+      }
+    ],
+    "instructor": [
+      "岡田　啓"
+    ]
+  },
+  {
+    "code": "yzz627107",
+    "name": "卒業研究",
+    "targetyear": "2017",
+    "targetdepart": "環境マネジメント",
+    "time": [
+      {
+        "period": "通年（卒研）",
+        "dow": "",
+        "thclass": ""
+      }
+    ],
+    "instructor": [
+      "古川　務"
+    ]
+  },
+  {
+    "code": "yzz627108",
+    "name": "卒業研究",
+    "targetyear": "2017",
+    "targetdepart": "環境マネジメント",
+    "time": [
+      {
+        "period": "通年（卒研）",
+        "dow": "",
+        "thclass": ""
+      }
+    ],
+    "instructor": [
+      "フィッツギボンズ　雄亮"
+    ]
+  },
+  {
+    "code": "yzz627109",
+    "name": "卒業研究",
+    "targetyear": "2017",
+    "targetdepart": "環境マネジメント",
+    "time": [
+      {
+        "period": "通年（卒研）",
+        "dow": "",
+        "thclass": ""
+      }
+    ],
+    "instructor": [
+      "古川　柳蔵"
+    ]
+  },
+  {
+    "code": "yzz627110",
+    "name": "卒業研究",
+    "targetyear": "2017",
+    "targetdepart": "環境マネジメント",
+    "time": [
+      {
+        "period": "通年（卒研）",
+        "dow": "",
+        "thclass": ""
+      }
+    ],
+    "instructor": [
+      "木村　眞実"
+    ]
+  },
+  {
+    "code": "yzz727101",
+    "name": "卒業研究",
+    "targetyear": "2017",
+    "targetdepart": "社会メディア",
+    "time": [
+      {
+        "period": "通年（卒研）",
+        "dow": "",
+        "thclass": ""
+      }
+    ],
+    "instructor": [
+      "中村　雅子"
+    ]
+  },
+  {
+    "code": "yzz727102",
+    "name": "卒業研究",
+    "targetyear": "2017",
+    "targetdepart": "社会メディア",
+    "time": [
+      {
+        "period": "通年（卒研）",
+        "dow": "",
+        "thclass": ""
+      }
+    ],
+    "instructor": [
+      "小池　星多"
+    ]
+  },
+  {
+    "code": "yzz727103",
+    "name": "卒業研究",
+    "targetyear": "2017",
+    "targetdepart": "社会メディア",
+    "time": [
+      {
+        "period": "通年（卒研）",
+        "dow": "",
+        "thclass": ""
+      }
+    ],
+    "instructor": [
+      "岡部　大介"
+    ]
+  },
+  {
+    "code": "yzz727104",
+    "name": "卒業研究",
+    "targetyear": "2017",
+    "targetdepart": "社会メディア",
+    "time": [
+      {
+        "period": "通年（卒研）",
+        "dow": "",
+        "thclass": ""
+      }
+    ],
+    "instructor": [
+      "高田　昌幸"
+    ]
+  },
+  {
+    "code": "yzz727105",
+    "name": "卒業研究",
+    "targetyear": "2017",
+    "targetdepart": "社会メディア",
+    "time": [
+      {
+        "period": "通年（卒研）",
+        "dow": "",
+        "thclass": ""
+      }
+    ],
+    "instructor": [
+      "広田　すみれ"
+    ]
+  },
+  {
+    "code": "yzz727106",
+    "name": "卒業研究",
+    "targetyear": "2017",
+    "targetdepart": "社会メディア",
+    "time": [
+      {
+        "period": "通年（卒研）",
+        "dow": "",
+        "thclass": ""
+      }
+    ],
+    "instructor": [
+      "矢吹　理恵"
+    ]
+  },
+  {
+    "code": "yzz727107",
+    "name": "卒業研究",
+    "targetyear": "2017",
+    "targetdepart": "社会メディア",
+    "time": [
+      {
+        "period": "通年（卒研）",
+        "dow": "",
+        "thclass": ""
+      }
+    ],
+    "instructor": [
+      "山崎　瑞紀"
+    ]
+  },
+  {
+    "code": "yzz727108",
+    "name": "卒業研究",
+    "targetyear": "2017",
+    "targetdepart": "社会メディア",
+    "time": [
+      {
+        "period": "通年（卒研）",
+        "dow": "",
+        "thclass": ""
+      }
+    ],
+    "instructor": [
+      "李　洪千"
+    ]
+  },
+  {
+    "code": "yzz727109",
+    "name": "卒業研究",
+    "targetyear": "2017",
+    "targetdepart": "社会メディア",
+    "time": [
+      {
+        "period": "通年（卒研）",
+        "dow": "",
+        "thclass": ""
+      }
+    ],
+    "instructor": [
+      "関　博紀"
+    ]
+  },
+  {
+    "code": "yzz727110",
+    "name": "卒業研究",
+    "targetyear": "2017",
+    "targetdepart": "社会メディア",
+    "time": [
+      {
+        "period": "通年（卒研）",
+        "dow": "",
+        "thclass": ""
+      }
+    ],
+    "instructor": [
+      "永盛　祐介"
+    ]
+  },
+  {
+    "code": "yzz727111",
+    "name": "卒業研究",
+    "targetyear": "2017",
+    "targetdepart": "社会メディア",
+    "time": [
+      {
+        "period": "通年（卒研）",
+        "dow": "",
+        "thclass": ""
+      }
+    ],
+    "instructor": [
+      "奥村　倫弘"
+    ]
+  },
+  {
+    "code": "yzz722101",
+    "name": "卒業研究",
+    "targetyear": "2017",
+    "targetdepart": "情報システム",
+    "time": [
+      {
+        "period": "通年（卒研）",
+        "dow": "",
+        "thclass": ""
+      }
+    ],
+    "instructor": [
+      "梅原　英一"
+    ]
+  },
+  {
+    "code": "yzz722102",
+    "name": "卒業研究",
+    "targetyear": "2017",
+    "targetdepart": "情報システム",
+    "time": [
+      {
+        "period": "通年（卒研）",
+        "dow": "",
+        "thclass": ""
+      }
+    ],
+    "instructor": [
+      "岩野　公司"
+    ]
+  },
+  {
+    "code": "yzz722103",
+    "name": "卒業研究",
+    "targetyear": "2017",
+    "targetdepart": "情報システム",
+    "time": [
+      {
+        "period": "通年（卒研）",
+        "dow": "",
+        "thclass": ""
+      }
+    ],
+    "instructor": [
+      "大谷　紀子"
+    ]
+  },
+  {
+    "code": "yzz722104",
+    "name": "卒業研究",
+    "targetyear": "2017",
+    "targetdepart": "情報システム",
+    "time": [
+      {
+        "period": "通年（卒研）",
+        "dow": "",
+        "thclass": ""
+      }
+    ],
+    "instructor": [
+      "関　良明"
+    ]
+  },
+  {
+    "code": "yzz722105",
+    "name": "卒業研究",
+    "targetyear": "2017",
+    "targetdepart": "情報システム",
+    "time": [
+      {
+        "period": "通年（卒研）",
+        "dow": "",
+        "thclass": ""
+      }
+    ],
+    "instructor": [
+      "藤井　哲郎"
+    ]
+  },
+  {
+    "code": "yzz722106",
+    "name": "卒業研究",
+    "targetyear": "2017",
+    "targetdepart": "情報システム",
+    "time": [
+      {
+        "period": "通年（卒研）",
+        "dow": "",
+        "thclass": ""
+      }
+    ],
+    "instructor": [
+      "宮地　英生"
+    ]
+  },
+  {
+    "code": "yzz722107",
+    "name": "卒業研究",
+    "targetyear": "2017",
+    "targetdepart": "情報システム",
+    "time": [
+      {
+        "period": "通年（卒研）",
+        "dow": "",
+        "thclass": ""
+      }
+    ],
+    "instructor": [
+      "八木　伸行"
+    ]
+  },
+  {
+    "code": "yzz722108",
+    "name": "卒業研究",
+    "targetyear": "2017",
+    "targetdepart": "情報システム",
+    "time": [
+      {
+        "period": "通年（卒研）",
+        "dow": "",
+        "thclass": ""
+      }
+    ],
+    "instructor": [
+      "横井　利彰"
+    ]
+  },
+  {
+    "code": "yzz722109",
+    "name": "卒業研究",
+    "targetyear": "2017",
+    "targetdepart": "情報システム",
+    "time": [
+      {
+        "period": "通年（卒研）",
+        "dow": "",
+        "thclass": ""
+      }
+    ],
+    "instructor": [
+      "市野　順子"
+    ]
+  },
+  {
+    "code": "yzz722110",
+    "name": "卒業研究",
+    "targetyear": "2017",
+    "targetdepart": "情報システム",
+    "time": [
+      {
+        "period": "通年（卒研）",
+        "dow": "",
+        "thclass": ""
+      }
+    ],
+    "instructor": [
+      "小倉　信彦"
+    ]
+  },
+  {
+    "code": "yaz702502",
+    "name": "情報教育法(1)",
+    "targetyear": "2018",
+    "targetdepart": "社会メディア",
+    "time": [
+      {
+        "period": "前期",
+        "dow": "火",
+        "thclass": "5"
+      }
+    ],
+    "instructor": [
+      "安井　浩之"
+    ]
+  },
+  {
+    "code": "yab721101",
+    "name": "サーバ管理演習",
+    "targetyear": "2018",
+    "targetdepart": "情報システム",
+    "time": [
+      {
+        "period": "前期後半",
+        "dow": "月",
+        "thclass": "1"
+      },
+      {
+        "period": "前期後半",
+        "dow": "月",
+        "thclass": "2"
+      }
+    ],
+    "instructor": [
+      "宮地　英生"
+    ]
+  },
+  {
+    "code": "yab721302",
+    "name": "コンピュータシミュレーション",
+    "targetyear": "2018",
+    "targetdepart": "情報システム",
+    "time": [
+      {
+        "period": "前期後半",
+        "dow": "月",
+        "thclass": "3"
+      },
+      {
+        "period": "前期後半",
+        "dow": "木",
+        "thclass": "3"
+      }
+    ],
+    "instructor": [
+      "横井　利彰"
+    ]
+  },
+  {
+    "code": "yab722101",
+    "name": "サーバ管理演習",
+    "targetyear": "2018",
+    "targetdepart": "情報システム",
+    "time": [
+      {
+        "period": "前期後半",
+        "dow": "火",
+        "thclass": "1"
+      },
+      {
+        "period": "前期後半",
+        "dow": "火",
+        "thclass": "2"
+      }
+    ],
+    "instructor": [
+      "岩野　公司"
+    ]
+  },
+  {
+    "code": "yaz001301",
+    "name": "Grammar(1)",
+    "targetyear": "2019",
+    "targetdepart": "環境創生",
+    "time": [
+      {
+        "period": "前期",
+        "dow": "月",
+        "thclass": "3"
+      }
+    ],
+    "instructor": [
+      "和田　忍"
+    ]
+  },
+  {
+    "code": "ybz001302",
+    "name": "Grammer(1)",
+    "targetyear": "2019",
+    "targetdepart": "環境創生",
+    "time": [
+      {
+        "period": "後期",
+        "dow": "月",
+        "thclass": "3"
+      }
+    ],
+    "instructor": [
+      "和田　忍"
+    ]
+  },
+  {
+    "code": "ybz005301",
+    "name": "(再)Communication Skills(2)",
+    "targetyear": "2019",
+    "targetdepart": "環境創生",
+    "time": [
+      {
+        "period": "後期",
+        "dow": "金",
+        "thclass": "3"
+      }
+    ],
+    "instructor": [
+      "吉田　由美子"
+    ]
+  },
+  {
+    "code": "yab625101",
+    "name": "(再)環境経営入門",
+    "targetyear": "2019",
+    "targetdepart": "環境経営システム",
+    "time": [
+      {
+        "period": "前期後半",
+        "dow": "金",
+        "thclass": "1"
+      },
+      {
+        "period": "前期後半",
+        "dow": "金",
+        "thclass": "2"
+      }
+    ],
+    "instructor": [
+      "古川　柳蔵"
+    ]
+  },
+  {
+    "code": "yba622303",
+    "name": "持続可能なサプライチェーンマネジメント",
+    "targetyear": "2019",
+    "targetdepart": "環境経営システム",
+    "time": [
+      {
+        "period": "後期前半",
+        "dow": "火",
+        "thclass": "3"
+      },
+      {
+        "period": "後期前半",
+        "dow": "火",
+        "thclass": "4"
+      }
+    ],
+    "instructor": [
+      "郭　偉宏"
+    ]
+  },
+  {
+    "code": "yaa711202",
+    "name": "社会メディア実験・測定演習",
+    "targetyear": "2019",
+    "targetdepart": "社会メディア",
+    "time": [
+      {
+        "period": "前期前半",
+        "dow": "月",
+        "thclass": "2"
+      },
+      {
+        "period": "前期前半",
+        "dow": "木",
+        "thclass": "2"
+      }
+    ],
+    "instructor": [
+      "広田　すみれ\n永盛　祐介\n山崎　瑞紀"
+    ]
+  },
+  {
+    "code": "yaa711303",
+    "name": "メディア文化論",
+    "targetyear": "2019",
+    "targetdepart": "社会メディア",
+    "time": [
+      {
+        "period": "前期前半",
+        "dow": "月",
+        "thclass": "3"
+      },
+      {
+        "period": "前期前半",
+        "dow": "月",
+        "thclass": "4"
+      }
+    ],
+    "instructor": [
+      "岡部　大介"
+    ]
+  },
+  {
+    "code": "yaa712203",
+    "name": "(再)基礎ゼミ",
+    "targetyear": "2019",
+    "targetdepart": "社会メディア",
+    "time": [
+      {
+        "period": "前期前半",
+        "dow": "火",
+        "thclass": "2"
+      }
+    ],
+    "instructor": [
+      "李　洪千\n岡部　大介\n奥村　倫弘\n小池　星多\n関　博紀\n高田　昌幸\n中村　雅子\n永盛　祐介\n広田　すみれ\n矢吹　理恵\n山崎　瑞紀"
+    ]
+  },
+  {
+    "code": "yaa723201",
+    "name": "(再)テクノロジーエクスプローラ",
+    "targetyear": "2019",
+    "targetdepart": "情報システム",
+    "time": [
+      {
+        "period": "前期前半",
+        "dow": "水",
+        "thclass": "2"
+      },
+      {
+        "period": "前期前半",
+        "dow": "金",
+        "thclass": "4"
+      }
+    ],
+    "instructor": [
+      "横井　利彰\n市野　順子\n岩野　公司\n梅原　英一\n大谷　紀子\n小倉　信彦\n関　良明\n藤井　哲郎\n宮地　英生\n八木　伸行"
+    ]
+  },
+  {
+    "code": "yab721103",
+    "name": "プログラミング演習B",
+    "targetyear": "2019",
+    "targetdepart": "情報システム",
+    "time": [
+      {
+        "period": "前期後半",
+        "dow": "月",
+        "thclass": "1"
+      },
+      {
+        "period": "前期後半",
+        "dow": "木",
+        "thclass": "4"
+      }
+    ],
+    "instructor": [
+      "横井　利彰"
+    ]
+  },
+  {
+    "code": "ybb722101",
+    "name": "システム開発演習B",
+    "targetyear": "2019",
+    "targetdepart": "情報システム",
+    "time": [
+      {
+        "period": "後期後半",
+        "dow": "火",
+        "thclass": "1"
+      },
+      {
+        "period": "後期後半",
+        "dow": "金",
+        "thclass": "3"
+      }
+    ],
+    "instructor": [
+      "横井　利彰"
+    ]
+  },
+  {
+    "code": "yab001204",
+    "name": "基礎体育(1b)",
+    "targetyear": "2020",
+    "targetdepart": "環境創生",
+    "time": [
+      {
+        "period": "前期後半",
+        "dow": "月",
+        "thclass": "2"
+      }
+    ],
+    "instructor": [
+      "千野　謙太郎"
+    ]
+  },
+  {
+    "code": "yab001205",
+    "name": "基礎体育(1b)",
+    "targetyear": "2020",
+    "targetdepart": "環境創生",
+    "time": [
+      {
+        "period": "前期後半",
+        "dow": "月",
+        "thclass": "2"
+      }
+    ],
+    "instructor": [
+      "松崎　鈴"
+    ]
+  },
+  {
+    "code": "yab001309",
+    "name": "基礎体育(1b)",
+    "targetyear": "2020",
+    "targetdepart": "環境創生",
+    "time": [
+      {
+        "period": "前期後半",
+        "dow": "月",
+        "thclass": "3"
+      }
+    ],
+    "instructor": [
+      "千野　謙太郎"
+    ]
+  },
+  {
+    "code": "yab001310",
+    "name": "基礎体育(1b)",
+    "targetyear": "2020",
+    "targetdepart": "環境創生",
+    "time": [
+      {
+        "period": "前期後半",
+        "dow": "月",
+        "thclass": "3"
+      }
+    ],
+    "instructor": [
+      "松崎　鈴"
+    ]
+  },
+  {
+    "code": "yab001406",
+    "name": "基礎体育(1b)",
+    "targetyear": "2020",
+    "targetdepart": "環境創生",
+    "time": [
+      {
+        "period": "前期後半",
+        "dow": "月",
+        "thclass": "4"
+      }
+    ],
+    "instructor": [
+      "千野　謙太郎"
+    ]
+  },
+  {
+    "code": "yab001407",
+    "name": "基礎体育(1b)",
+    "targetyear": "2020",
+    "targetdepart": "環境創生",
+    "time": [
+      {
+        "period": "前期後半",
+        "dow": "月",
+        "thclass": "4"
+      }
+    ],
+    "instructor": [
+      "松崎　鈴"
+    ]
+  },
+  {
+    "code": "yab004201",
+    "name": "基礎体育(1b)",
+    "targetyear": "2020",
+    "targetdepart": "環境創生",
+    "time": [
+      {
+        "period": "前期後半",
+        "dow": "木",
+        "thclass": "2"
+      }
+    ],
+    "instructor": [
+      "備前　嘉文"
+    ]
+  },
+  {
+    "code": "yab004202",
+    "name": "基礎体育(1b)",
+    "targetyear": "2020",
+    "targetdepart": "環境創生",
+    "time": [
+      {
+        "period": "前期後半",
+        "dow": "木",
+        "thclass": "2"
+      }
+    ],
+    "instructor": [
+      "久保　哲也"
+    ]
+  },
+  {
+    "code": "yab004303",
+    "name": "基礎体育(1b)",
+    "targetyear": "2020",
+    "targetdepart": "環境創生",
+    "time": [
+      {
+        "period": "前期後半",
+        "dow": "木",
+        "thclass": "3"
+      }
+    ],
+    "instructor": [
+      "備前　嘉文"
+    ]
+  },
+  {
+    "code": "yab004304",
+    "name": "基礎体育(1b)",
+    "targetyear": "2020",
+    "targetdepart": "環境創生",
+    "time": [
+      {
+        "period": "前期後半",
+        "dow": "木",
+        "thclass": "3"
+      }
+    ],
+    "instructor": [
+      "久保　哲也"
+    ]
+  },
+  {
+    "code": "yab004401",
+    "name": "基礎体育(1b)",
+    "targetyear": "2020",
+    "targetdepart": "環境創生",
+    "time": [
+      {
+        "period": "前期後半",
+        "dow": "木",
+        "thclass": "4"
+      }
+    ],
+    "instructor": [
+      "久保　哲也"
+    ]
+  },
+  {
+    "code": "ybb602102",
+    "name": "生態学概論",
+    "targetyear": "2020",
+    "targetdepart": "環境創生",
+    "time": [
+      {
+        "period": "後期後半",
+        "dow": "火",
+        "thclass": "1"
+      },
+      {
+        "period": "後期後半",
+        "dow": "火",
+        "thclass": "2"
+      }
+    ],
+    "instructor": [
+      "北村　亘"
+    ]
+  },
+  {
+    "code": "ybz061201",
+    "name": "Communication Skills(2)",
+    "targetyear": "2020",
+    "targetdepart": "環境創生",
+    "time": [
+      {
+        "period": "後期",
+        "dow": "月",
+        "thclass": "2"
+      }
+    ],
+    "instructor": [
+      "ミラー"
+    ]
+  },
+  {
+    "code": "ybz061203",
+    "name": "Communication Skills(2)",
+    "targetyear": "2020",
+    "targetdepart": "環境創生",
+    "time": [
+      {
+        "period": "後期",
+        "dow": "月",
+        "thclass": "2"
+      }
+    ],
+    "instructor": [
+      "鴨下　恵子"
+    ]
+  },
+  {
+    "code": "ybz064101",
+    "name": "Communication Skills(2)",
+    "targetyear": "2020",
+    "targetdepart": "環境創生",
+    "time": [
+      {
+        "period": "後期",
+        "dow": "木",
+        "thclass": "1"
+      }
+    ],
+    "instructor": [
+      "吉田　国子"
+    ]
+  },
+  {
+    "code": "ybz064102",
+    "name": "Communication Skills(2)",
+    "targetyear": "2020",
+    "targetdepart": "環境創生",
+    "time": [
+      {
+        "period": "後期",
+        "dow": "木",
+        "thclass": "1"
+      }
+    ],
+    "instructor": [
+      "ミラー"
+    ]
+  },
+  {
+    "code": "ybz074201",
+    "name": "Communication Skills(2)",
+    "targetyear": "",
+    "targetdepart": "",
+    "time": [
+      {
+        "period": "後期",
+        "dow": "木",
+        "thclass": "2"
+      }
+    ],
+    "instructor": [
+      "ミラー"
+    ]
+  },
+  {
+    "code": "yaa703104",
+    "name": "情報と社会",
+    "targetyear": "2020",
+    "targetdepart": "社会メディア",
+    "time": [
+      {
+        "period": "前期前半",
+        "dow": "水",
+        "thclass": "1"
+      },
+      {
+        "period": "前期前半",
+        "dow": "水",
+        "thclass": "2"
+      }
+    ],
+    "instructor": [
+      "中村　雅子\n李　洪千"
+    ]
+  },
+  {
+    "code": "yba702101",
+    "name": "コンピュータシステム",
+    "targetyear": "2020",
+    "targetdepart": "社会メディア",
+    "time": [
+      {
+        "period": "後期前半",
+        "dow": "火",
+        "thclass": "1"
+      },
+      {
+        "period": "後期前半",
+        "dow": "水",
+        "thclass": "1"
+      }
+    ],
+    "instructor": [
+      "岩野　公司"
+    ]
+  },
+  {
+    "code": "ybb701304",
+    "name": "情報環境論",
+    "targetyear": "2020",
+    "targetdepart": "社会メディア",
+    "time": [
+      {
+        "period": "後期後半",
+        "dow": "月",
+        "thclass": "3"
+      },
+      {
+        "period": "後期後半",
+        "dow": "木",
+        "thclass": "3"
+      }
+    ],
+    "instructor": [
+      "関　博紀"
+    ]
+  },
+  {
+    "code": "ybz071101",
+    "name": "Communication Skills(2)",
+    "targetyear": "2020",
+    "targetdepart": "社会メディア",
+    "time": [
+      {
+        "period": "後期",
+        "dow": "月",
+        "thclass": "1"
+      }
+    ],
+    "instructor": [
+      "ミラー"
+    ]
+  },
+  {
+    "code": "ybz071102",
+    "name": "Communication Skills(2)",
+    "targetyear": "2020",
+    "targetdepart": "社会メディア",
+    "time": [
+      {
+        "period": "後期",
+        "dow": "月",
+        "thclass": "1"
+      }
+    ],
+    "instructor": [
+      "マイケル　フォードリー"
+    ]
+  },
+  {
+    "code": "ybz071103",
+    "name": "Communication Skills(2)",
+    "targetyear": "2020",
+    "targetdepart": "社会メディア",
+    "time": [
+      {
+        "period": "後期",
+        "dow": "月",
+        "thclass": "1"
+      }
+    ],
+    "instructor": [
+      "鴨下　恵子"
+    ]
+  },
+  {
+    "code": "ybz074202",
+    "name": "Communication Skills(2)",
+    "targetyear": "2020",
+    "targetdepart": "社会メディア",
+    "time": [
+      {
+        "period": "後期",
+        "dow": "木",
+        "thclass": "2"
+      }
+    ],
+    "instructor": [
+      "李　正美"
+    ]
+  },
+  {
+    "code": "ybz074203",
+    "name": "Communication Skills(2)",
+    "targetyear": "2020",
+    "targetdepart": "社会メディア",
+    "time": [
+      {
+        "period": "後期",
+        "dow": "木",
+        "thclass": "2"
+      }
+    ],
+    "instructor": [
+      "吉田　国子"
+    ]
+  },
+  {
+    "code": "ybz702301",
+    "name": "教職論",
+    "targetyear": "2020",
+    "targetdepart": "社会メディア",
+    "time": [
+      {
+        "period": "後期",
+        "dow": "火",
+        "thclass": "3"
+      }
+    ],
+    "instructor": [
+      "井上　健"
+    ]
+  },
+  {
+    "code": "yaz722401",
+    "name": "教養数学",
+    "targetyear": "2020",
+    "targetdepart": "情報システム",
+    "time": [
+      {
+        "period": "前期",
+        "dow": "火",
+        "thclass": "4"
+      }
+    ],
+    "instructor": [
+      "兒玉　浩尚"
+    ]
+  },
+  {
+    "code": "yaz724401",
+    "name": "教養数学",
+    "targetyear": "2020",
+    "targetdepart": "情報システム",
+    "time": [
+      {
+        "period": "前期",
+        "dow": "木",
+        "thclass": "4"
+      }
+    ],
+    "instructor": [
+      "野井　貴弘"
+    ]
+  },
+  {
+    "code": "yaa611102",
+    "name": "環境情報可視化技法",
+    "targetyear": "2018",
+    "targetdepart": "環境創生",
+    "time": [
+      {
+        "period": "前期前半",
+        "dow": "月",
+        "thclass": "1"
+      },
+      {
+        "period": "前期前半",
+        "dow": "月",
+        "thclass": "2"
+      }
+    ],
+    "instructor": [
+      "遠藤　貴宏"
+    ]
+  },
+  {
+    "code": "ybz002402",
+    "name": "Literature in English(1)",
+    "targetyear": "2019",
+    "targetdepart": "環境創生",
+    "time": [
+      {
+        "period": "後期",
+        "dow": "火",
+        "thclass": "4"
+      }
+    ],
+    "instructor": [
+      "岡島　慶"
+    ]
+  },
+  {
+    "code": "yaa061401",
+    "name": "社会学入門(a)",
+    "targetyear": "2020",
+    "targetdepart": "環境創生",
+    "time": [
+      {
+        "period": "前期前半",
+        "dow": "月",
+        "thclass": "4"
+      }
+    ],
+    "instructor": [
+      "吉川　侑輝"
+    ]
+  },
+  {
+    "code": "yaa071301",
+    "name": "社会学入門(a)",
+    "targetyear": "2020",
+    "targetdepart": "社会メディア",
+    "time": [
+      {
+        "period": "前期前半",
+        "dow": "月",
+        "thclass": "3"
+      }
+    ],
+    "instructor": [
+      "吉川　侑輝"
+    ]
+  },
+  {
+    "code": "yaa601305",
+    "name": "画像処理技法",
+    "targetyear": "",
+    "targetdepart": "",
+    "time": [
+      {
+        "period": "前期前半",
+        "dow": "月",
+        "thclass": "3"
+      },
+      {
+        "period": "前期前半",
+        "dow": "月",
+        "thclass": "4"
+      }
+    ],
+    "instructor": [
+      "史　中超"
+    ]
+  },
+  {
+    "code": "yab061401",
+    "name": "社会学入門(b)",
+    "targetyear": "2020",
+    "targetdepart": "環境創生",
+    "time": [
+      {
+        "period": "前期後半",
+        "dow": "月",
+        "thclass": "4"
+      }
+    ],
+    "instructor": [
+      "吉川　侑輝"
+    ]
+  },
+  {
+    "code": "yab071301",
+    "name": "社会学入門(b)",
+    "targetyear": "2020",
+    "targetdepart": "社会メディア",
+    "time": [
+      {
+        "period": "前期後半",
+        "dow": "月",
+        "thclass": "3"
+      }
+    ],
+    "instructor": [
+      "吉川　侑輝"
+    ]
+  },
+  {
+    "code": "yab621201",
+    "name": "環境化学",
+    "targetyear": "2019",
+    "targetdepart": "環境経営システム",
+    "time": [
+      {
+        "period": "前期後半",
+        "dow": "月",
+        "thclass": "2"
+      },
+      {
+        "period": "前期後半",
+        "dow": "月",
+        "thclass": "3"
+      }
+    ],
+    "instructor": [
+      "久米　一成"
+    ]
+  },
+  {
+    "code": "yab605103",
+    "name": "合意形成論",
+    "targetyear": "2018",
+    "targetdepart": "環境創生",
+    "time": [
+      {
+        "period": "前期後半",
+        "dow": "金",
+        "thclass": "1"
+      },
+      {
+        "period": "前期後半",
+        "dow": "金",
+        "thclass": "2"
+      }
+    ],
+    "instructor": [
+      "馬場　健司"
+    ]
+  },
+  {
+    "code": "yaa621104",
+    "name": "(再)世界から考える環境問題",
+    "targetyear": "2018",
+    "targetdepart": "環境マネジメント",
+    "time": [
+      {
+        "period": "前期前半",
+        "dow": "月",
+        "thclass": "1"
+      },
+      {
+        "period": "前期前半",
+        "dow": "月",
+        "thclass": "2"
+      }
+    ],
+    "instructor": [
+      "齊藤　智樹"
+    ]
+  },
+  {
+    "code": "ybb602303",
+    "name": "環境経済学",
+    "targetyear": "2019",
+    "targetdepart": "環境創生",
+    "time": [
+      {
+        "period": "後期後半",
+        "dow": "火",
+        "thclass": "3"
+      },
+      {
+        "period": "後期後半",
+        "dow": "火",
+        "thclass": "4"
+      }
+    ],
+    "instructor": [
+      "田中　秀実"
+    ]
+  },
+  {
+    "code": "ybb601306",
+    "name": "環境計量学",
+    "targetyear": "2019",
+    "targetdepart": "環境創生",
+    "time": [
+      {
+        "period": "後期後半",
+        "dow": "月",
+        "thclass": "3"
+      },
+      {
+        "period": "後期後半",
+        "dow": "月",
+        "thclass": "4"
+      }
+    ],
+    "instructor": [
+      "久米　一成"
+    ]
+  },
+  {
+    "code": "yaa005104",
+    "name": "日本の政治",
+    "targetyear": "2019",
+    "targetdepart": "社会メディア",
+    "time": [
+      {
+        "period": "前期前半",
+        "dow": "金",
+        "thclass": "1"
+      },
+      {
+        "period": "前期前半",
+        "dow": "金",
+        "thclass": "2"
+      }
+    ],
+    "instructor": [
+      "未定"
+    ]
+  },
+  {
+    "code": "yaz004303",
+    "name": "中国語(1)",
+    "targetyear": "2019",
+    "targetdepart": "環境創生",
+    "time": [
+      {
+        "period": "前期",
+        "dow": "木",
+        "thclass": "3"
+      }
+    ],
+    "instructor": [
+      "黄　愛華"
+    ]
+  },
+  {
+    "code": "yaz004401",
+    "name": "中国語(1)",
+    "targetyear": "2019",
+    "targetdepart": "環境創生",
+    "time": [
+      {
+        "period": "前期",
+        "dow": "木",
+        "thclass": "4"
+      }
+    ],
+    "instructor": [
+      "黄　愛華"
+    ]
+  },
+  {
+    "code": "ybz004301",
+    "name": "中国語(2)",
+    "targetyear": "2019",
+    "targetdepart": "環境創生",
+    "time": [
+      {
+        "period": "後期",
+        "dow": "木",
+        "thclass": "3"
+      }
+    ],
+    "instructor": [
+      "黄　愛華"
+    ]
+  },
+  {
+    "code": "ybz004401",
+    "name": "中国語(2)",
+    "targetyear": "2019",
+    "targetdepart": "環境創生",
+    "time": [
+      {
+        "period": "後期",
+        "dow": "木",
+        "thclass": "4"
+      }
+    ],
+    "instructor": [
+      "黄　愛華"
+    ]
+  },
+  {
+    "code": "ybz702501",
+    "name": "情報教育法(2)",
+    "targetyear": "2018",
+    "targetdepart": "社会メディア",
+    "time": [
+      {
+        "period": "後期",
+        "dow": "火",
+        "thclass": "5"
+      }
+    ],
+    "instructor": [
+      "安井　浩之"
+    ]
+  },
+  {
+    "code": "yba721304",
+    "name": "システムソリューション",
+    "targetyear": "2018",
+    "targetdepart": "情報システム",
+    "time": [
+      {
+        "period": "後期前半",
+        "dow": "月",
+        "thclass": "3"
+      },
+      {
+        "period": "後期前半",
+        "dow": "月",
+        "thclass": "4"
+      }
+    ],
+    "instructor": [
+      "市野　順子"
+    ]
+  },
+  {
+    "code": "yaz004301",
+    "name": "Grammar(2)",
+    "targetyear": "2019",
+    "targetdepart": "環境創生",
+    "time": [
+      {
+        "period": "前期",
+        "dow": "木",
+        "thclass": "3"
+      }
+    ],
+    "instructor": [
+      "荒井　圭子"
+    ]
+  },
+  {
+    "code": "yaz005101",
+    "name": "応用体育(1)",
+    "targetyear": "2019",
+    "targetdepart": "環境創生",
+    "time": [
+      {
+        "period": "前期",
+        "dow": "金",
+        "thclass": "1"
+      }
+    ],
+    "instructor": [
+      "久保　哲也"
+    ]
+  },
+  {
+    "code": "yaz005102",
+    "name": "応用体育(1)",
+    "targetyear": "2019",
+    "targetdepart": "環境創生",
+    "time": [
+      {
+        "period": "前期",
+        "dow": "金",
+        "thclass": "1"
+      }
+    ],
+    "instructor": [
+      "高瀬　武志"
+    ]
+  },
+  {
+    "code": "yaz005201",
+    "name": "(再)Reading and Writing(1)",
+    "targetyear": "2019",
+    "targetdepart": "環境創生",
+    "time": [
+      {
+        "period": "前期",
+        "dow": "金",
+        "thclass": "2"
+      }
+    ],
+    "instructor": [
+      "鈴木　夏実"
+    ]
+  },
+  {
+    "code": "yaz005203",
+    "name": "応用体育(1)",
+    "targetyear": "2019",
+    "targetdepart": "環境創生",
+    "time": [
+      {
+        "period": "前期",
+        "dow": "金",
+        "thclass": "2"
+      }
+    ],
+    "instructor": [
+      "久保　哲也"
+    ]
+  },
+  {
+    "code": "yaz005204",
+    "name": "応用体育(1)",
+    "targetyear": "2019",
+    "targetdepart": "環境創生",
+    "time": [
+      {
+        "period": "前期",
+        "dow": "金",
+        "thclass": "2"
+      }
+    ],
+    "instructor": [
+      "高瀬　武志"
+    ]
+  },
+  {
+    "code": "yaz611104",
+    "name": "(再)環境創生学入門",
+    "targetyear": "2019",
+    "targetdepart": "環境創生",
+    "time": [
+      {
+        "period": "前期",
+        "dow": "月",
+        "thclass": "1"
+      }
+    ],
+    "instructor": [
+      "リジャル　ホム・バハドゥル\n飯島　健太郎\n加用　現空\n北村　亘\n史　中超\n田中　章\n丹羽　由佳理\n咸　泳植\n室田　昌子\n横田　樹広"
+    ]
+  },
+  {
+    "code": "ybz004303",
+    "name": "Grammar(2)",
+    "targetyear": "2019",
+    "targetdepart": "環境創生",
+    "time": [
+      {
+        "period": "後期",
+        "dow": "木",
+        "thclass": "3"
+      }
+    ],
+    "instructor": [
+      "荒井　圭子"
+    ]
+  },
+  {
+    "code": "yaa625301",
+    "name": "(再)環境政策入門",
+    "targetyear": "2019",
+    "targetdepart": "環境経営システム",
+    "time": [
+      {
+        "period": "前期前半",
+        "dow": "金",
+        "thclass": "3"
+      },
+      {
+        "period": "前期前半",
+        "dow": "金",
+        "thclass": "4"
+      }
+    ],
+    "instructor": [
+      "馬場　健司"
+    ]
+  },
+  {
+    "code": "yba623101",
+    "name": "エコデザイン",
+    "targetyear": "2019",
+    "targetdepart": "環境経営システム",
+    "time": [
+      {
+        "period": "後期前半",
+        "dow": "水",
+        "thclass": "1"
+      },
+      {
+        "period": "後期前半",
+        "dow": "水",
+        "thclass": "2"
+      }
+    ],
+    "instructor": [
+      "伊坪　徳宏"
+    ]
+  },
+  {
+    "code": "yab701303",
+    "name": "メディアと表現",
+    "targetyear": "2019",
+    "targetdepart": "社会メディア",
+    "time": [
+      {
+        "period": "前期後半",
+        "dow": "月",
+        "thclass": "3"
+      },
+      {
+        "period": "前期後半",
+        "dow": "木",
+        "thclass": "3"
+      }
+    ],
+    "instructor": [
+      "永盛　祐介"
+    ]
+  },
+  {
+    "code": "yab715305",
+    "name": "社会文化フィールドワーク",
+    "targetyear": "2019",
+    "targetdepart": "社会メディア",
+    "time": [
+      {
+        "period": "前期後半",
+        "dow": "金",
+        "thclass": "3"
+      },
+      {
+        "period": "前期後半",
+        "dow": "金",
+        "thclass": "4"
+      }
+    ],
+    "instructor": [
+      "岡部　大介\n関　博紀"
+    ]
+  },
+  {
+    "code": "yba721201",
+    "name": "オブジェクト指向方法論",
+    "targetyear": "2019",
+    "targetdepart": "情報システム",
+    "time": [
+      {
+        "period": "後期前半",
+        "dow": "月",
+        "thclass": "2"
+      },
+      {
+        "period": "後期前半",
+        "dow": "水",
+        "thclass": "1"
+      }
+    ],
+    "instructor": [
+      "小倉　信彦"
+    ]
+  },
+  {
+    "code": "yaa061206",
+    "name": "Reading and Writing(1a)",
+    "targetyear": "2020",
+    "targetdepart": "環境創生",
+    "time": [
+      {
+        "period": "前期前半",
+        "dow": "月",
+        "thclass": "2"
+      }
+    ],
+    "instructor": [
+      "徳江　奈味"
+    ]
+  },
+  {
+    "code": "yaa061207",
+    "name": "Reading and Writing(1a)",
+    "targetyear": "2020",
+    "targetdepart": "環境創生",
+    "time": [
+      {
+        "period": "前期前半",
+        "dow": "月",
+        "thclass": "2"
+      }
+    ],
+    "instructor": [
+      "藤牧　新"
+    ]
+  },
+  {
+    "code": "yaa061210",
+    "name": "Reading and Writing(1a)",
+    "targetyear": "2020",
+    "targetdepart": "環境創生",
+    "time": [
+      {
+        "period": "前期前半",
+        "dow": "月",
+        "thclass": "2"
+      }
+    ],
+    "instructor": [
+      "和田　忍"
+    ]
+  },
+  {
+    "code": "yaa064106",
+    "name": "Reading and Writing(1a)",
+    "targetyear": "2020",
+    "targetdepart": "環境創生",
+    "time": [
+      {
+        "period": "前期前半",
+        "dow": "木",
+        "thclass": "1"
+      }
+    ],
+    "instructor": [
+      "吉田　由美子"
+    ]
+  },
+  {
+    "code": "yaa064107",
+    "name": "Reading and Writing(1a)",
+    "targetyear": "2020",
+    "targetdepart": "環境創生",
+    "time": [
+      {
+        "period": "前期前半",
+        "dow": "木",
+        "thclass": "1"
+      }
+    ],
+    "instructor": [
+      "荒井　圭子"
+    ]
+  },
+  {
+    "code": "yaa064108",
+    "name": "Reading and Writing(1a)",
+    "targetyear": "2020",
+    "targetdepart": "環境創生",
+    "time": [
+      {
+        "period": "前期前半",
+        "dow": "木",
+        "thclass": "1"
+      }
+    ],
+    "instructor": [
+      "徳江　奈味"
+    ]
+  },
+  {
+    "code": "yba001209",
+    "name": "基礎体育(2a)",
+    "targetyear": "2020",
+    "targetdepart": "環境創生",
+    "time": [
+      {
+        "period": "後期前半",
+        "dow": "月",
+        "thclass": "2"
+      }
+    ],
+    "instructor": [
+      "千野　謙太郎"
+    ]
+  },
+  {
+    "code": "yba001210",
+    "name": "基礎体育(2a)",
+    "targetyear": "2020",
+    "targetdepart": "環境創生",
+    "time": [
+      {
+        "period": "後期前半",
+        "dow": "月",
+        "thclass": "2"
+      }
+    ],
+    "instructor": [
+      "松崎　鈴"
+    ]
+  },
+  {
+    "code": "yba001307",
+    "name": "基礎体育(2a)",
+    "targetyear": "2020",
+    "targetdepart": "環境創生",
+    "time": [
+      {
+        "period": "後期前半",
+        "dow": "月",
+        "thclass": "3"
+      }
+    ],
+    "instructor": [
+      "千野　謙太郎"
+    ]
+  },
+  {
+    "code": "yba001308",
+    "name": "基礎体育(2a)",
+    "targetyear": "2020",
+    "targetdepart": "環境創生",
+    "time": [
+      {
+        "period": "後期前半",
+        "dow": "月",
+        "thclass": "3"
+      }
+    ],
+    "instructor": [
+      "松崎　鈴"
+    ]
+  },
+  {
+    "code": "yba001406",
+    "name": "基礎体育(2a)",
+    "targetyear": "2020",
+    "targetdepart": "環境創生",
+    "time": [
+      {
+        "period": "後期前半",
+        "dow": "月",
+        "thclass": "4"
+      }
+    ],
+    "instructor": [
+      "千野　謙太郎"
+    ]
+  },
+  {
+    "code": "yba001407",
+    "name": "基礎体育(2a)",
+    "targetyear": "2020",
+    "targetdepart": "環境創生",
+    "time": [
+      {
+        "period": "後期前半",
+        "dow": "月",
+        "thclass": "4"
+      }
+    ],
+    "instructor": [
+      "松崎　鈴"
+    ]
+  },
+  {
+    "code": "yba004205",
+    "name": "基礎体育(2a)",
+    "targetyear": "2020",
+    "targetdepart": "環境創生",
+    "time": [
+      {
+        "period": "後期前半",
+        "dow": "木",
+        "thclass": "2"
+      }
+    ],
+    "instructor": [
+      "久保　哲也"
+    ]
+  },
+  {
+    "code": "yba004206",
+    "name": "基礎体育(2a)",
+    "targetyear": "2020",
+    "targetdepart": "環境創生",
+    "time": [
+      {
+        "period": "後期前半",
+        "dow": "木",
+        "thclass": "2"
+      }
+    ],
+    "instructor": [
+      "備前　嘉文"
+    ]
+  },
+  {
+    "code": "yba004304",
+    "name": "基礎体育(2a)",
+    "targetyear": "2020",
+    "targetdepart": "環境創生",
+    "time": [
+      {
+        "period": "後期前半",
+        "dow": "木",
+        "thclass": "3"
+      }
+    ],
+    "instructor": [
+      "久保　哲也"
+    ]
+  },
+  {
+    "code": "yba004305",
+    "name": "基礎体育(2a)",
+    "targetyear": "2020",
+    "targetdepart": "環境創生",
+    "time": [
+      {
+        "period": "後期前半",
+        "dow": "木",
+        "thclass": "3"
+      }
+    ],
+    "instructor": [
+      "備前　嘉文"
+    ]
+  },
+  {
+    "code": "yba004402",
+    "name": "基礎体育(2a)",
+    "targetyear": "2020",
+    "targetdepart": "環境創生",
+    "time": [
+      {
+        "period": "後期前半",
+        "dow": "木",
+        "thclass": "4"
+      }
+    ],
+    "instructor": [
+      "久保　哲也"
+    ]
+  },
+  {
+    "code": "yba605102",
+    "name": "環境数理学入門",
+    "targetyear": "2020",
+    "targetdepart": "環境創生",
+    "time": [
+      {
+        "period": "後期前半",
+        "dow": "金",
+        "thclass": "1"
+      },
+      {
+        "period": "後期前半",
+        "dow": "金",
+        "thclass": "2"
+      }
+    ],
+    "instructor": [
+      "加用　現空"
+    ]
+  },
+  {
+    "code": "ybb623102",
+    "name": "情報編集入門",
+    "targetyear": "2020",
+    "targetdepart": "環境経システム",
+    "time": [
+      {
+        "period": "後期後半",
+        "dow": "水",
+        "thclass": "1"
+      },
+      {
+        "period": "後期後半",
+        "dow": "水",
+        "thclass": "2"
+      }
+    ],
+    "instructor": [
+      "フィッツギボンズ　雄亮"
+    ]
+  },
+  {
+    "code": "yaa071106",
+    "name": "Reading and Writing(1a)",
+    "targetyear": "2020",
+    "targetdepart": "社会メディア",
+    "time": [
+      {
+        "period": "前期前半",
+        "dow": "月",
+        "thclass": "1"
+      }
+    ],
+    "instructor": [
+      "藤牧　新"
+    ]
+  },
+  {
+    "code": "yaa071107",
+    "name": "Reading and Writing(1a)",
+    "targetyear": "2020",
+    "targetdepart": "社会メディア",
+    "time": [
+      {
+        "period": "前期前半",
+        "dow": "月",
+        "thclass": "1"
+      }
+    ],
+    "instructor": [
+      "和田　忍"
+    ]
+  },
+  {
+    "code": "yaa071108",
+    "name": "Reading and Writing(1a)",
+    "targetyear": "2020",
+    "targetdepart": "社会メディア",
+    "time": [
+      {
+        "period": "前期前半",
+        "dow": "月",
+        "thclass": "1"
+      }
+    ],
+    "instructor": [
+      "徳江　奈味"
+    ]
+  },
+  {
+    "code": "yaa074201",
+    "name": "Reading and Writing(1a)",
+    "targetyear": "2020",
+    "targetdepart": "社会メディア",
+    "time": [
+      {
+        "period": "前期前半",
+        "dow": "木",
+        "thclass": "2"
+      }
+    ],
+    "instructor": [
+      "徳江　奈味"
+    ]
+  },
+  {
+    "code": "yaa074202",
+    "name": "Reading and Writing(1a)",
+    "targetyear": "2020",
+    "targetdepart": "社会メディア",
+    "time": [
+      {
+        "period": "前期前半",
+        "dow": "木",
+        "thclass": "2"
+      }
+    ],
+    "instructor": [
+      "吉田　由美子"
+    ]
+  },
+  {
+    "code": "yaa074203",
+    "name": "Reading and Writing(1a)",
+    "targetyear": "2020",
+    "targetdepart": "社会メディア",
+    "time": [
+      {
+        "period": "前期前半",
+        "dow": "木",
+        "thclass": "2"
+      }
+    ],
+    "instructor": [
+      "荒井　圭子"
+    ]
+  },
+  {
+    "code": "yaa715303",
+    "name": "情報リテラシー演習",
+    "targetyear": "2020",
+    "targetdepart": "社会メディア",
+    "time": [
+      {
+        "period": "前期前半",
+        "dow": "金",
+        "thclass": "3"
+      },
+      {
+        "period": "前期前半",
+        "dow": "金",
+        "thclass": "4"
+      }
+    ],
+    "instructor": [
+      "岡部　大介\n松浦　李恵"
+    ]
+  },
+  {
+    "code": "ybb701401",
+    "name": "コンピュータグラフィックス",
+    "targetyear": "2020",
+    "targetdepart": "社会メディア",
+    "time": [
+      {
+        "period": "後期後半",
+        "dow": "月",
+        "thclass": "4"
+      },
+      {
+        "period": "後期後半",
+        "dow": "木",
+        "thclass": "4"
+      }
+    ],
+    "instructor": [
+      "宮地　英生"
+    ]
+  },
+  {
+    "code": "yaa721301",
+    "name": "プログラミング基礎演習A",
+    "targetyear": "2020",
+    "targetdepart": "情報システム",
+    "time": [
+      {
+        "period": "前期前半",
+        "dow": "月",
+        "thclass": "3"
+      },
+      {
+        "period": "前期前半",
+        "dow": "木",
+        "thclass": "3"
+      }
+    ],
+    "instructor": [
+      "大谷　紀子"
+    ]
+  },
+  {
+    "code": "yaa721302",
+    "name": "プログラミング基礎演習A",
+    "targetyear": "2020",
+    "targetdepart": "情報システム",
+    "time": [
+      {
+        "period": "前期前半",
+        "dow": "月",
+        "thclass": "3"
+      },
+      {
+        "period": "前期前半",
+        "dow": "木",
+        "thclass": "3"
+      }
+    ],
+    "instructor": [
+      "八木　伸行"
+    ]
+  },
+  {
+    "code": "ybz725101",
+    "name": "線形代数学I",
+    "targetyear": "2020",
+    "targetdepart": "情報システム",
+    "time": [
+      {
+        "period": "後期",
+        "dow": "金",
+        "thclass": "1"
+      }
+    ],
+    "instructor": [
+      "礒田　恵以子"
+    ]
+  },
+  {
+    "code": "ybz725202",
+    "name": "線形代数学I",
+    "targetyear": "2020",
+    "targetdepart": "情報システム",
+    "time": [
+      {
+        "period": "後期",
+        "dow": "金",
+        "thclass": "2"
+      }
+    ],
+    "instructor": [
+      "礒田　恵以子"
+    ]
+  },
+  {
+    "code": "yaz002201",
+    "name": "韓国語(1)",
+    "targetyear": "2019",
+    "targetdepart": "環境創生",
+    "time": [
+      {
+        "period": "前期",
+        "dow": "火",
+        "thclass": "2"
+      }
+    ],
+    "instructor": [
+      "白雪　花"
+    ]
+  },
+  {
+    "code": "yaz002301",
+    "name": "韓国語(1)",
+    "targetyear": "2019",
+    "targetdepart": "環境創生",
+    "time": [
+      {
+        "period": "前期",
+        "dow": "火",
+        "thclass": "3"
+      }
+    ],
+    "instructor": [
+      "白雪　花"
+    ]
+  },
+  {
+    "code": "ybz002201",
+    "name": "韓国語(2)",
+    "targetyear": "2019",
+    "targetdepart": "環境創生",
+    "time": [
+      {
+        "period": "後期",
+        "dow": "火",
+        "thclass": "2"
+      }
+    ],
+    "instructor": [
+      "白雪　花"
+    ]
+  },
+  {
+    "code": "ybz002303",
+    "name": "韓国語(2)",
+    "targetyear": "2019",
+    "targetdepart": "環境創生",
+    "time": [
+      {
+        "period": "後期",
+        "dow": "火",
+        "thclass": "3"
+      }
+    ],
+    "instructor": [
+      "白雪　花"
+    ]
+  },
+  {
+    "code": "yaz004302",
+    "name": "フランス語(1)",
+    "targetyear": "2019",
+    "targetdepart": "環境創生",
+    "time": [
+      {
+        "period": "前期",
+        "dow": "木",
+        "thclass": "3"
+      }
+    ],
+    "instructor": [
+      "富塚　真理子"
+    ]
+  },
+  {
+    "code": "ybz004302",
+    "name": "フランス語(2)",
+    "targetyear": "2019",
+    "targetdepart": "環境創生",
+    "time": [
+      {
+        "period": "後期",
+        "dow": "木",
+        "thclass": "3"
+      }
+    ],
+    "instructor": [
+      "富塚　真理子"
+    ]
+  },
+  {
+    "code": "yaz001204",
+    "name": "スペイン語(1)",
+    "targetyear": "2019",
+    "targetdepart": "環境創生",
+    "time": [
+      {
+        "period": "前期",
+        "dow": "月",
+        "thclass": "2"
+      }
+    ],
+    "instructor": [
+      "ビクトル・バラソ"
+    ]
+  },
+  {
+    "code": "ybz001203",
+    "name": "スペイン語(2)",
+    "targetyear": "2019",
+    "targetdepart": "環境創生",
+    "time": [
+      {
+        "period": "後期",
+        "dow": "月",
+        "thclass": "2"
+      }
+    ],
+    "instructor": [
+      "ビクトル・バラソ"
+    ]
+  },
+  {
+    "code": "ybz002401",
+    "name": "日本国憲法",
+    "targetyear": "2020",
+    "targetdepart": "環境創生",
+    "time": [
+      {
+        "period": "後期",
+        "dow": "火",
+        "thclass": "4"
+      }
+    ],
+    "instructor": [
+      "大沼　友紀恵"
+    ]
+  },
+  {
+    "code": "yaa625101",
+    "name": "企業経営とサステナビリティ",
+    "targetyear": "2018",
+    "targetdepart": "環境マネジメント",
+    "time": [
+      {
+        "period": "前期前半",
+        "dow": "金",
+        "thclass": "1"
+      },
+      {
+        "period": "前期前半",
+        "dow": "金",
+        "thclass": "2"
+      }
+    ],
+    "instructor": [
+      "竹中　みゆき"
+    ]
+  },
+  {
+    "code": "yba723104",
+    "name": "ネットワークセキュリティ",
+    "targetyear": "2018",
+    "targetdepart": "情報システム",
+    "time": [
+      {
+        "period": "後期前半",
+        "dow": "水",
+        "thclass": "1"
+      },
+      {
+        "period": "後期前半",
+        "dow": "金",
+        "thclass": "2"
+      }
+    ],
+    "instructor": [
+      "関　良明"
+    ]
+  },
+  {
+    "code": "yaa611201",
+    "name": "環境化学",
+    "targetyear": "",
+    "targetdepart": "",
+    "time": [
+      {
+        "period": "前期前半",
+        "dow": "月",
+        "thclass": "2"
+      },
+      {
+        "period": "前期前半",
+        "dow": "月",
+        "thclass": "3"
+      }
+    ],
+    "instructor": [
+      "久米　一成"
+    ]
+  },
+  {
+    "code": "yaz002204",
+    "name": "Test Taking Skills(1)",
+    "targetyear": "2019",
+    "targetdepart": "環境創生",
+    "time": [
+      {
+        "period": "前期",
+        "dow": "火",
+        "thclass": "2"
+      }
+    ],
+    "instructor": [
+      "和田　忍"
+    ]
+  },
+  {
+    "code": "ybz002204",
+    "name": "Test Taking Skills(1)",
+    "targetyear": "2019",
+    "targetdepart": "環境創生",
+    "time": [
+      {
+        "period": "後期",
+        "dow": "火",
+        "thclass": "2"
+      }
+    ],
+    "instructor": [
+      "和田　忍"
+    ]
+  },
+  {
+    "code": "ybz005201",
+    "name": "(再)Reading and Writing(2)",
+    "targetyear": "2019",
+    "targetdepart": "環境創生",
+    "time": [
+      {
+        "period": "後期",
+        "dow": "金",
+        "thclass": "2"
+      }
+    ],
+    "instructor": [
+      "鈴木　夏実"
+    ]
+  },
+  {
+    "code": "ybz006501",
+    "name": "応用体育(2)",
+    "targetyear": "2019",
+    "targetdepart": "環境創生",
+    "time": [
+      {
+        "period": "集中（後期）",
+        "dow": "",
+        "thclass": ""
+      }
+    ],
+    "instructor": [
+      "久保　哲也"
+    ]
+  },
+  {
+    "code": "yaz612101",
+    "name": "環境分析演習",
+    "targetyear": "2019",
+    "targetdepart": "環境創生",
+    "time": [
+      {
+        "period": "前期",
+        "dow": "火",
+        "thclass": "1"
+      },
+      {
+        "period": "前期",
+        "dow": "火",
+        "thclass": "2"
+      }
+    ],
+    "instructor": [
+      "咸　泳植"
+    ]
+  },
+  {
+    "code": "yba711404",
+    "name": "社会情報デザイン",
+    "targetyear": "2019",
+    "targetdepart": "社会メディア",
+    "time": [
+      {
+        "period": "後期前半",
+        "dow": "月",
+        "thclass": "4"
+      },
+      {
+        "period": "後期前半",
+        "dow": "金",
+        "thclass": "2"
+      }
+    ],
+    "instructor": [
+      "関　博紀"
+    ]
+  },
+  {
+    "code": "yba712401",
+    "name": "社会調査設計",
+    "targetyear": "2019",
+    "targetdepart": "社会メディア",
+    "time": [
+      {
+        "period": "後期前半",
+        "dow": "火",
+        "thclass": "4"
+      },
+      {
+        "period": "後期前半",
+        "dow": "木",
+        "thclass": "4"
+      }
+    ],
+    "instructor": [
+      "島村　賢一"
+    ]
+  },
+  {
+    "code": "ybz706201",
+    "name": "教育制度論",
+    "targetyear": "2019",
+    "targetdepart": "社会メディア",
+    "time": [
+      {
+        "period": "後期",
+        "dow": "土",
+        "thclass": "2"
+      }
+    ],
+    "instructor": [
+      "岩本　俊一"
+    ]
+  },
+  {
+    "code": "yaa615102",
+    "name": "建築環境学",
+    "targetyear": "",
+    "targetdepart": "",
+    "time": [
+      {
+        "period": "前期前半",
+        "dow": "金",
+        "thclass": "1"
+      },
+      {
+        "period": "前期前半",
+        "dow": "金",
+        "thclass": "2"
+      }
+    ],
+    "instructor": [
+      "加用　現空"
+    ]
+  },
+  {
+    "code": "yab061206",
+    "name": "Reading and Writing(1b)",
+    "targetyear": "2020",
+    "targetdepart": "環境創生",
+    "time": [
+      {
+        "period": "前期後半",
+        "dow": "月",
+        "thclass": "2"
+      }
+    ],
+    "instructor": [
+      "徳江　奈味"
+    ]
+  },
+  {
+    "code": "yab061207",
+    "name": "Reading and Writing(1b)",
+    "targetyear": "2020",
+    "targetdepart": "環境創生",
+    "time": [
+      {
+        "period": "前期後半",
+        "dow": "月",
+        "thclass": "2"
+      }
+    ],
+    "instructor": [
+      "藤牧　新"
+    ]
+  },
+  {
+    "code": "yab061208",
+    "name": "Reading and Writing(1b)",
+    "targetyear": "2020",
+    "targetdepart": "環境創生",
+    "time": [
+      {
+        "period": "前期後半",
+        "dow": "月",
+        "thclass": "2"
+      }
+    ],
+    "instructor": [
+      "和田　忍"
+    ]
+  },
+  {
+    "code": "yab064105",
+    "name": "Reading and Writing(1b)",
+    "targetyear": "2020",
+    "targetdepart": "環境創生",
+    "time": [
+      {
+        "period": "前期後半",
+        "dow": "木",
+        "thclass": "1"
+      }
+    ],
+    "instructor": [
+      "吉田　由美子"
+    ]
+  },
+  {
+    "code": "yab064106",
+    "name": "Reading and Writing(1b)",
+    "targetyear": "2020",
+    "targetdepart": "環境創生",
+    "time": [
+      {
+        "period": "前期後半",
+        "dow": "木",
+        "thclass": "1"
+      }
+    ],
+    "instructor": [
+      "荒井　圭子"
+    ]
+  },
+  {
+    "code": "yab064107",
+    "name": "Reading and Writing(1b)",
+    "targetyear": "2020",
+    "targetdepart": "環境創生",
+    "time": [
+      {
+        "period": "前期後半",
+        "dow": "木",
+        "thclass": "1"
+      }
+    ],
+    "instructor": [
+      "徳江　奈味"
+    ]
+  },
+  {
+    "code": "ybb001204",
+    "name": "基礎体育(2b)",
+    "targetyear": "2020",
+    "targetdepart": "環境創生",
+    "time": [
+      {
+        "period": "後期後半",
+        "dow": "月",
+        "thclass": "2"
+      }
+    ],
+    "instructor": [
+      "松崎　鈴"
+    ]
+  },
+  {
+    "code": "ybb001205",
+    "name": "基礎体育(2b)",
+    "targetyear": "2020",
+    "targetdepart": "環境創生",
+    "time": [
+      {
+        "period": "後期後半",
+        "dow": "月",
+        "thclass": "2"
+      }
+    ],
+    "instructor": [
+      "千野　謙太郎"
+    ]
+  },
+  {
+    "code": "ybb001307",
+    "name": "基礎体育(2b)",
+    "targetyear": "2020",
+    "targetdepart": "環境創生",
+    "time": [
+      {
+        "period": "後期後半",
+        "dow": "月",
+        "thclass": "3"
+      }
+    ],
+    "instructor": [
+      "松崎　鈴"
+    ]
+  },
+  {
+    "code": "ybb001308",
+    "name": "基礎体育(2b)",
+    "targetyear": "2020",
+    "targetdepart": "環境創生",
+    "time": [
+      {
+        "period": "後期後半",
+        "dow": "月",
+        "thclass": "3"
+      }
+    ],
+    "instructor": [
+      "千野　謙太郎"
+    ]
+  },
+  {
+    "code": "ybb001403",
+    "name": "基礎体育(2b)",
+    "targetyear": "2020",
+    "targetdepart": "環境創生",
+    "time": [
+      {
+        "period": "後期後半",
+        "dow": "月",
+        "thclass": "4"
+      }
+    ],
+    "instructor": [
+      "松崎　鈴"
+    ]
+  },
+  {
+    "code": "ybb001404",
+    "name": "基礎体育(2b)",
+    "targetyear": "2020",
+    "targetdepart": "環境創生",
+    "time": [
+      {
+        "period": "後期後半",
+        "dow": "月",
+        "thclass": "4"
+      }
+    ],
+    "instructor": [
+      "千野　謙太郎"
+    ]
+  },
+  {
+    "code": "ybb004201",
+    "name": "基礎体育(2b)",
+    "targetyear": "2020",
+    "targetdepart": "環境創生",
+    "time": [
+      {
+        "period": "後期後半",
+        "dow": "木",
+        "thclass": "2"
+      }
+    ],
+    "instructor": [
+      "久保　哲也"
+    ]
+  },
+  {
+    "code": "ybb004202",
+    "name": "基礎体育(2b)",
+    "targetyear": "2020",
+    "targetdepart": "環境創生",
+    "time": [
+      {
+        "period": "後期後半",
+        "dow": "木",
+        "thclass": "2"
+      }
+    ],
+    "instructor": [
+      "備前　嘉文"
+    ]
+  },
+  {
+    "code": "ybb004303",
+    "name": "基礎体育(2b)",
+    "targetyear": "2020",
+    "targetdepart": "環境創生",
+    "time": [
+      {
+        "period": "後期後半",
+        "dow": "木",
+        "thclass": "3"
+      }
+    ],
+    "instructor": [
+      "久保　哲也"
+    ]
+  },
+  {
+    "code": "ybb004304",
+    "name": "基礎体育(2b)",
+    "targetyear": "2020",
+    "targetdepart": "環境創生",
+    "time": [
+      {
+        "period": "後期後半",
+        "dow": "木",
+        "thclass": "3"
+      }
+    ],
+    "instructor": [
+      "備前　嘉文"
+    ]
+  },
+  {
+    "code": "ybb004401",
+    "name": "基礎体育(2b)",
+    "targetyear": "2020",
+    "targetdepart": "環境創生",
+    "time": [
+      {
+        "period": "後期後半",
+        "dow": "木",
+        "thclass": "4"
+      }
+    ],
+    "instructor": [
+      "久保　哲也"
+    ]
+  },
+  {
+    "code": "yab071107",
+    "name": "Reading and Writing(1b)",
+    "targetyear": "2020",
+    "targetdepart": "社会メディア",
+    "time": [
+      {
+        "period": "前期後半",
+        "dow": "月",
+        "thclass": "1"
+      }
+    ],
+    "instructor": [
+      "藤牧　新"
+    ]
+  },
+  {
+    "code": "yab071108",
+    "name": "Reading and Writing(1b)",
+    "targetyear": "2020",
+    "targetdepart": "社会メディア",
+    "time": [
+      {
+        "period": "前期後半",
+        "dow": "月",
+        "thclass": "1"
+      }
+    ],
+    "instructor": [
+      "和田　忍"
+    ]
+  },
+  {
+    "code": "yab071109",
+    "name": "Reading and Writing(1b)",
+    "targetyear": "2020",
+    "targetdepart": "社会メディア",
+    "time": [
+      {
+        "period": "前期後半",
+        "dow": "月",
+        "thclass": "1"
+      }
+    ],
+    "instructor": [
+      "徳江　奈味"
+    ]
+  },
+  {
+    "code": "yab074203",
+    "name": "Reading and Writing(1b)",
+    "targetyear": "2020",
+    "targetdepart": "社会メディア",
+    "time": [
+      {
+        "period": "前期後半",
+        "dow": "木",
+        "thclass": "2"
+      }
+    ],
+    "instructor": [
+      "徳江　奈味"
+    ]
+  },
+  {
+    "code": "yab074204",
+    "name": "Reading and Writing(1b)",
+    "targetyear": "2020",
+    "targetdepart": "社会メディア",
+    "time": [
+      {
+        "period": "前期後半",
+        "dow": "木",
+        "thclass": "2"
+      }
+    ],
+    "instructor": [
+      "吉田　由美子"
+    ]
+  },
+  {
+    "code": "yab074205",
+    "name": "Reading and Writing(1b)",
+    "targetyear": "2020",
+    "targetdepart": "社会メディア",
+    "time": [
+      {
+        "period": "前期後半",
+        "dow": "木",
+        "thclass": "2"
+      }
+    ],
+    "instructor": [
+      "荒井　圭子"
+    ]
+  },
+  {
+    "code": "yab712103",
+    "name": "現代社会とメディア",
+    "targetyear": "2020",
+    "targetdepart": "社会メディア",
+    "time": [
+      {
+        "period": "前期後半",
+        "dow": "火",
+        "thclass": "1"
+      },
+      {
+        "period": "前期後半",
+        "dow": "火",
+        "thclass": "2"
+      }
+    ],
+    "instructor": [
+      "李　洪千\n広田　すみれ"
+    ]
+  },
+  {
+    "code": "yaa722304",
+    "name": "情報リテラシー演習",
+    "targetyear": "2020",
+    "targetdepart": "情報システム",
+    "time": [
+      {
+        "period": "前期前半",
+        "dow": "火",
+        "thclass": "3"
+      },
+      {
+        "period": "前期前半",
+        "dow": "火",
+        "thclass": "4"
+      }
+    ],
+    "instructor": [
+      "松浦　李恵"
+    ]
+  },
+  {
+    "code": "yaa725103",
+    "name": "情報リテラシー演習",
+    "targetyear": "2020",
+    "targetdepart": "情報システム",
+    "time": [
+      {
+        "period": "前期前半",
+        "dow": "金",
+        "thclass": "1"
+      },
+      {
+        "period": "前期前半",
+        "dow": "金",
+        "thclass": "2"
+      }
+    ],
+    "instructor": [
+      "松浦　李恵"
+    ]
+  },
+  {
+    "code": "yab721301",
+    "name": "アルゴリズムとプログラミング",
+    "targetyear": "2020",
+    "targetdepart": "情報システム",
+    "time": [
+      {
+        "period": "前期後半",
+        "dow": "月",
+        "thclass": "3"
+      },
+      {
+        "period": "前期後半",
+        "dow": "水",
+        "thclass": "2"
+      }
+    ],
+    "instructor": [
+      "大谷　紀子"
+    ]
+  },
+  {
+    "code": "ybz725102",
+    "name": "微分積分学I",
+    "targetyear": "2020",
+    "targetdepart": "情報システム",
+    "time": [
+      {
+        "period": "後期",
+        "dow": "金",
+        "thclass": "1"
+      }
+    ],
+    "instructor": [
+      "野井　貴弘"
+    ]
+  },
+  {
+    "code": "ybz725203",
+    "name": "微分積分学I",
+    "targetyear": "2020",
+    "targetdepart": "情報システム",
+    "time": [
+      {
+        "period": "後期",
+        "dow": "金",
+        "thclass": "2"
+      }
+    ],
+    "instructor": [
+      "野井　貴弘"
+    ]
+  },
+  {
+    "code": "yaz003102",
+    "name": "日本語表現",
+    "targetyear": "2019",
+    "targetdepart": "環境創生",
+    "time": [
+      {
+        "period": "前期",
+        "dow": "水",
+        "thclass": "1"
+      }
+    ],
+    "instructor": [
+      "嘉村　雅江"
+    ]
+  },
+  {
+    "code": "ybz003101",
+    "name": "日本語表現",
+    "targetyear": "2019",
+    "targetdepart": "環境創生",
+    "time": [
+      {
+        "period": "後期",
+        "dow": "水",
+        "thclass": "1"
+      }
+    ],
+    "instructor": [
+      "嘉村　雅江"
+    ]
+  },
+  {
+    "code": "yba002306",
+    "name": "倫理学(a)",
+    "targetyear": "2020",
+    "targetdepart": "環境創生",
+    "time": [
+      {
+        "period": "後期前半",
+        "dow": "火",
+        "thclass": "3"
+      }
+    ],
+    "instructor": [
+      "石田　知子"
+    ]
+  },
+  {
+    "code": "yba002403",
+    "name": "倫理学(a)",
+    "targetyear": "2020",
+    "targetdepart": "環境創生",
+    "time": [
+      {
+        "period": "後期前半",
+        "dow": "火",
+        "thclass": "4"
+      }
+    ],
+    "instructor": [
+      "石田　知子"
+    ]
+  },
+  {
+    "code": "ybb002305",
+    "name": "倫理学(b)",
+    "targetyear": "2020",
+    "targetdepart": "環境創生",
+    "time": [
+      {
+        "period": "後期後半",
+        "dow": "火",
+        "thclass": "3"
+      }
+    ],
+    "instructor": [
+      "石田　知子"
+    ]
+  },
+  {
+    "code": "ybb002402",
+    "name": "倫理学(b)",
+    "targetyear": "2020",
+    "targetdepart": "環境創生",
+    "time": [
+      {
+        "period": "後期後半",
+        "dow": "火",
+        "thclass": "4"
+      }
+    ],
+    "instructor": [
+      "石田　知子"
+    ]
+  },
+  {
+    "code": "yaa623102",
+    "name": "CSRの理論と実践",
+    "targetyear": "2018",
+    "targetdepart": "環境マネジメント",
+    "time": [
+      {
+        "period": "前期前半",
+        "dow": "水",
+        "thclass": "1"
+      },
+      {
+        "period": "前期前半",
+        "dow": "水",
+        "thclass": "2"
+      }
+    ],
+    "instructor": [
+      "木村　眞実"
+    ]
+  },
+  {
+    "code": "yaa712401",
+    "name": "メディア・プロデュース論",
+    "targetyear": "2018",
+    "targetdepart": "社会メディア",
+    "time": [
+      {
+        "period": "前期前半",
+        "dow": "火",
+        "thclass": "4"
+      },
+      {
+        "period": "前期前半",
+        "dow": "金",
+        "thclass": "4"
+      }
+    ],
+    "instructor": [
+      "奥村　倫弘"
+    ]
+  },
+  {
+    "code": "yzz713201",
+    "name": "社会調査実習",
+    "targetyear": "2018",
+    "targetdepart": "社会メディア",
+    "time": [
+      {
+        "period": "前期後半",
+        "dow": "水",
+        "thclass": "2"
+      },
+      {
+        "period": "前期後半",
+        "dow": "金",
+        "thclass": "2"
+      },
+      {
+        "period": "後期前半",
+        "dow": "水",
+        "thclass": "1"
+      },
+      {
+        "period": "後期前半",
+        "dow": "水",
+        "thclass": "2"
+      }
+    ],
+    "instructor": [
+      "広田　すみれ"
+    ]
+  },
+  {
+    "code": "yaa724102",
+    "name": "ビジュアライゼーション",
+    "targetyear": "2018",
+    "targetdepart": "情報システム",
+    "time": [
+      {
+        "period": "前期前半",
+        "dow": "木",
+        "thclass": "1"
+      },
+      {
+        "period": "前期前半",
+        "dow": "木",
+        "thclass": "2"
+      }
+    ],
+    "instructor": [
+      "宮地　英生"
+    ]
+  },
+  {
+    "code": "yaa615305",
+    "name": "測量学",
+    "targetyear": "2019",
+    "targetdepart": "環境創生",
+    "time": [
+      {
+        "period": "前期前半",
+        "dow": "金",
+        "thclass": "3"
+      },
+      {
+        "period": "前期前半",
+        "dow": "金",
+        "thclass": "4"
+      }
+    ],
+    "instructor": [
+      "松浦　弦三郎\n尾形　典昭"
+    ]
+  },
+  {
+    "code": "yaz005202",
+    "name": "Test Taking Skills(2)",
+    "targetyear": "2019",
+    "targetdepart": "環境創生",
+    "time": [
+      {
+        "period": "前期",
+        "dow": "金",
+        "thclass": "2"
+      }
+    ],
+    "instructor": [
+      "吉田　由美子"
+    ]
+  },
+  {
+    "code": "ybb602304",
+    "name": "地理情報システム",
+    "targetyear": "2019",
+    "targetdepart": "環境創生",
+    "time": [
+      {
+        "period": "後期後半",
+        "dow": "火",
+        "thclass": "3"
+      },
+      {
+        "period": "後期後半",
+        "dow": "火",
+        "thclass": "4"
+      }
+    ],
+    "instructor": [
+      "史　中超"
+    ]
+  },
+  {
+    "code": "ybb615304",
+    "name": "保全生物学",
+    "targetyear": "2019",
+    "targetdepart": "環境創生",
+    "time": [
+      {
+        "period": "後期後半",
+        "dow": "金",
+        "thclass": "3"
+      },
+      {
+        "period": "後期後半",
+        "dow": "金",
+        "thclass": "4"
+      }
+    ],
+    "instructor": [
+      "北村　亘"
+    ]
+  },
+  {
+    "code": "ybz005204",
+    "name": "Test Taking Skills(2)",
+    "targetyear": "2019",
+    "targetdepart": "環境創生",
+    "time": [
+      {
+        "period": "後期",
+        "dow": "金",
+        "thclass": "2"
+      }
+    ],
+    "instructor": [
+      "吉田　由美子"
+    ]
+  },
+  {
+    "code": "yba711203",
+    "name": "質的調査演習",
+    "targetyear": "2019",
+    "targetdepart": "社会メディア",
+    "time": [
+      {
+        "period": "後期前半",
+        "dow": "月",
+        "thclass": "2"
+      },
+      {
+        "period": "後期前半",
+        "dow": "月",
+        "thclass": "3"
+      }
+    ],
+    "instructor": [
+      "矢吹　理恵"
+    ]
+  },
+  {
+    "code": "yba714201",
+    "name": "質的調査演習",
+    "targetyear": "2019",
+    "targetdepart": "社会メディア",
+    "time": [
+      {
+        "period": "後期前半",
+        "dow": "木",
+        "thclass": "2"
+      },
+      {
+        "period": "後期前半",
+        "dow": "木",
+        "thclass": "3"
+      }
+    ],
+    "instructor": [
+      "矢吹　理恵"
+    ]
+  },
+  {
+    "code": "ybb713101",
+    "name": "参加型デザイン論",
+    "targetyear": "2019",
+    "targetdepart": "社会メディア",
+    "time": [
+      {
+        "period": "後期後半",
+        "dow": "水",
+        "thclass": "1"
+      },
+      {
+        "period": "後期後半",
+        "dow": "水",
+        "thclass": "2"
+      }
+    ],
+    "instructor": [
+      "中村　雅子"
+    ]
+  },
+  {
+    "code": "yab613101",
+    "name": "ランドスケープ論",
+    "targetyear": "",
+    "targetdepart": "",
+    "time": [
+      {
+        "period": "前期後半",
+        "dow": "水",
+        "thclass": "1"
+      },
+      {
+        "period": "前期後半",
+        "dow": "水",
+        "thclass": "2"
+      }
+    ],
+    "instructor": [
+      "田中　章"
+    ]
+  },
+  {
+    "code": "yba061207",
+    "name": "Reading and Writing(2a)",
+    "targetyear": "2020",
+    "targetdepart": "環境創生",
+    "time": [
+      {
+        "period": "後期前半",
+        "dow": "月",
+        "thclass": "2"
+      }
+    ],
+    "instructor": [
+      "徳江　奈味"
+    ]
+  },
+  {
+    "code": "yba061208",
+    "name": "Reading and Writing(2a)",
+    "targetyear": "2020",
+    "targetdepart": "環境創生",
+    "time": [
+      {
+        "period": "後期前半",
+        "dow": "月",
+        "thclass": "2"
+      }
+    ],
+    "instructor": [
+      "藤牧　新"
+    ]
+  },
+  {
+    "code": "yba061211",
+    "name": "Reading and Writing(2a)",
+    "targetyear": "2020",
+    "targetdepart": "環境創生",
+    "time": [
+      {
+        "period": "後期前半",
+        "dow": "月",
+        "thclass": "2"
+      }
+    ],
+    "instructor": [
+      "和田　忍"
+    ]
+  },
+  {
+    "code": "yba064104",
+    "name": "Reading and Writing(2a)",
+    "targetyear": "2020",
+    "targetdepart": "環境創生",
+    "time": [
+      {
+        "period": "後期前半",
+        "dow": "木",
+        "thclass": "1"
+      }
+    ],
+    "instructor": [
+      "吉田　由美子"
+    ]
+  },
+  {
+    "code": "yba064105",
+    "name": "Reading and Writing(2a)",
+    "targetyear": "2020",
+    "targetdepart": "環境創生",
+    "time": [
+      {
+        "period": "後期前半",
+        "dow": "木",
+        "thclass": "1"
+      }
+    ],
+    "instructor": [
+      "徳江　奈味"
+    ]
+  },
+  {
+    "code": "yba064106",
+    "name": "Reading and Writing(2a)",
+    "targetyear": "2020",
+    "targetdepart": "環境創生",
+    "time": [
+      {
+        "period": "後期前半",
+        "dow": "木",
+        "thclass": "1"
+      }
+    ],
+    "instructor": [
+      "荒井　圭子"
+    ]
+  },
+  {
+    "code": "yaz701501",
+    "name": "発達心理学",
+    "targetyear": "2020",
+    "targetdepart": "社会メディア",
+    "time": [
+      {
+        "period": "前期",
+        "dow": "月",
+        "thclass": "5"
+      }
+    ],
+    "instructor": [
+      "水野　直樹"
+    ]
+  },
+  {
+    "code": "yba071103",
+    "name": "Reading and Writing(2a)",
+    "targetyear": "2020",
+    "targetdepart": "社会メディア",
+    "time": [
+      {
+        "period": "後期前半",
+        "dow": "月",
+        "thclass": "1"
+      }
+    ],
+    "instructor": [
+      "和田　忍"
+    ]
+  },
+  {
+    "code": "yba071104",
+    "name": "Reading and Writing(2a)",
+    "targetyear": "2020",
+    "targetdepart": "社会メディア",
+    "time": [
+      {
+        "period": "後期前半",
+        "dow": "月",
+        "thclass": "1"
+      }
+    ],
+    "instructor": [
+      "徳江　奈味"
+    ]
+  },
+  {
+    "code": "yba071105",
+    "name": "Reading and Writing(2a)",
+    "targetyear": "2020",
+    "targetdepart": "社会メディア",
+    "time": [
+      {
+        "period": "後期前半",
+        "dow": "月",
+        "thclass": "1"
+      }
+    ],
+    "instructor": [
+      "藤牧　新"
+    ]
+  },
+  {
+    "code": "yba074202",
+    "name": "Reading and Writing(2a)",
+    "targetyear": "2020",
+    "targetdepart": "社会メディア",
+    "time": [
+      {
+        "period": "後期前半",
+        "dow": "木",
+        "thclass": "2"
+      }
+    ],
+    "instructor": [
+      "徳江　奈味"
+    ]
+  },
+  {
+    "code": "yba074203",
+    "name": "Reading and Writing(2a)",
+    "targetyear": "2020",
+    "targetdepart": "社会メディア",
+    "time": [
+      {
+        "period": "後期前半",
+        "dow": "木",
+        "thclass": "2"
+      }
+    ],
+    "instructor": [
+      "吉田　由美子"
+    ]
+  },
+  {
+    "code": "yba074204",
+    "name": "Reading and Writing(2a)",
+    "targetyear": "2020",
+    "targetdepart": "社会メディア",
+    "time": [
+      {
+        "period": "後期前半",
+        "dow": "木",
+        "thclass": "2"
+      }
+    ],
+    "instructor": [
+      "荒井　圭子"
+    ]
+  },
+  {
+    "code": "ybb712201",
+    "name": "デザインシンキング",
+    "targetyear": "2020",
+    "targetdepart": "社会メディア",
+    "time": [
+      {
+        "period": "後期後半",
+        "dow": "火",
+        "thclass": "2"
+      },
+      {
+        "period": "後期後半",
+        "dow": "金",
+        "thclass": "4"
+      }
+    ],
+    "instructor": [
+      "小池　星多"
+    ]
+  },
+  {
+    "code": "yba721402",
+    "name": "プログラミング基礎演習B",
+    "targetyear": "2020",
+    "targetdepart": "情報システム",
+    "time": [
+      {
+        "period": "後期前半",
+        "dow": "月",
+        "thclass": "4"
+      },
+      {
+        "period": "後期前半",
+        "dow": "木",
+        "thclass": "4"
+      }
+    ],
+    "instructor": [
+      "梅原　英一"
+    ]
+  },
+  {
+    "code": "yba722202",
+    "name": "プログラミング基礎演習B",
+    "targetyear": "2020",
+    "targetdepart": "情報システム",
+    "time": [
+      {
+        "period": "後期前半",
+        "dow": "火",
+        "thclass": "2"
+      },
+      {
+        "period": "後期前半",
+        "dow": "木",
+        "thclass": "3"
+      }
+    ],
+    "instructor": [
+      "横井　利彰"
+    ]
+  },
+  {
+    "code": "ybb064110",
+    "name": "科学技術と社会",
+    "targetyear": "2019",
+    "targetdepart": "環境創生",
+    "time": [
+      {
+        "period": "後期後半",
+        "dow": "木",
+        "thclass": "1"
+      },
+      {
+        "period": "後期後半",
+        "dow": "木",
+        "thclass": "2"
+      }
+    ],
+    "instructor": [
+      "大塚　善樹"
+    ]
+  },
+  {
+    "code": "yab002402",
+    "name": "特別講義(技術士補コース)",
+    "targetyear": "2019",
+    "targetdepart": "環境創生",
+    "time": [
+      {
+        "period": "前期後半",
+        "dow": "火",
+        "thclass": "4"
+      },
+      {
+        "period": "前期後半",
+        "dow": "金",
+        "thclass": "4"
+      }
+    ],
+    "instructor": [
+      "室田　昌子\n安部　毅\n小原　丈二\n佐藤　貢一\n寺島　和秀\n永尾　浩一"
+    ]
+  },
+  {
+    "code": "yab002305",
+    "name": "特別講義(メディアの最前線)",
+    "targetyear": "2019",
+    "targetdepart": "環境創生",
+    "time": [
+      {
+        "period": "前期後半",
+        "dow": "火",
+        "thclass": "3"
+      },
+      {
+        "period": "前期後半",
+        "dow": "火",
+        "thclass": "4"
+      }
+    ],
+    "instructor": [
+      "高田　昌幸\n奥村　倫弘\n郭　晃彰\n川名　周\n岸田　浩和"
+    ]
+  },
+  {
+    "code": "yaz703501",
+    "name": "教育実習(2)",
+    "targetyear": "2017",
+    "targetdepart": "社会メディア",
+    "time": [
+      {
+        "period": "前期",
+        "dow": "水",
+        "thclass": "5"
+      }
+    ],
+    "instructor": [
+      "井上　健\n岩崎　敬道\n殿村　洋文\n渡邉　大輔"
+    ]
+  },
+  {
+    "code": "yab621202",
+    "name": "環境監査",
+    "targetyear": "2018",
+    "targetdepart": "環境マネジメント",
+    "time": [
+      {
+        "period": "前期後半",
+        "dow": "月",
+        "thclass": "2"
+      },
+      {
+        "period": "前期後半",
+        "dow": "木",
+        "thclass": "2"
+      }
+    ],
+    "instructor": [
+      "谷口　幸弘"
+    ]
+  },
+  {
+    "code": "yaa705201",
+    "name": "情報の倫理",
+    "targetyear": "2018",
+    "targetdepart": "社会メディア",
+    "time": [
+      {
+        "period": "前期前半",
+        "dow": "金",
+        "thclass": "2"
+      },
+      {
+        "period": "前期前半",
+        "dow": "金",
+        "thclass": "3"
+      }
+    ],
+    "instructor": [
+      "田川　史朗"
+    ]
+  },
+  {
+    "code": "yaz706301",
+    "name": "教育社会学",
+    "targetyear": "2018",
+    "targetdepart": "社会メディア",
+    "time": [
+      {
+        "period": "前期",
+        "dow": "土",
+        "thclass": "3"
+      }
+    ],
+    "instructor": [
+      "井上　健"
+    ]
+  },
+  {
+    "code": "yaa722301",
+    "name": "マルチメディア情報処理",
+    "targetyear": "2018",
+    "targetdepart": "情報システム",
+    "time": [
+      {
+        "period": "前期前半",
+        "dow": "火",
+        "thclass": "3"
+      },
+      {
+        "period": "前期前半",
+        "dow": "金",
+        "thclass": "4"
+      }
+    ],
+    "instructor": [
+      "岩野　公司"
+    ]
+  },
+  {
+    "code": "yba614103",
+    "name": "自然復元論",
+    "targetyear": "2019",
+    "targetdepart": "環境創生",
+    "time": [
+      {
+        "period": "後期前半",
+        "dow": "木",
+        "thclass": "1"
+      },
+      {
+        "period": "後期前半",
+        "dow": "木",
+        "thclass": "2"
+      }
+    ],
+    "instructor": [
+      "田中　章"
+    ]
+  },
+  {
+    "code": "ybb614108",
+    "name": "環境都市計画学",
+    "targetyear": "2019",
+    "targetdepart": "環境創生",
+    "time": [
+      {
+        "period": "後期後半",
+        "dow": "木",
+        "thclass": "1"
+      },
+      {
+        "period": "後期後半",
+        "dow": "木",
+        "thclass": "2"
+      }
+    ],
+    "instructor": [
+      "室田　昌子"
+    ]
+  },
+  {
+    "code": "yaz703201",
+    "name": "情報と法",
+    "targetyear": "2019",
+    "targetdepart": "社会メディア",
+    "time": [
+      {
+        "period": "前期",
+        "dow": "水",
+        "thclass": "2"
+      }
+    ],
+    "instructor": [
+      "佐藤　豊"
+    ]
+  },
+  {
+    "code": "yba712203",
+    "name": "社会ネットワーク論",
+    "targetyear": "2019",
+    "targetdepart": "社会メディア",
+    "time": [
+      {
+        "period": "後期前半",
+        "dow": "火",
+        "thclass": "2"
+      },
+      {
+        "period": "後期前半",
+        "dow": "火",
+        "thclass": "3"
+      }
+    ],
+    "instructor": [
+      "松浦　李恵"
+    ]
+  },
+  {
+    "code": "yab601305",
+    "name": "環境マネジメントシステム",
+    "targetyear": "2020",
+    "targetdepart": "環境創生",
+    "time": [
+      {
+        "period": "前期後半",
+        "dow": "月",
+        "thclass": "3"
+      },
+      {
+        "period": "前期後半",
+        "dow": "木",
+        "thclass": "3"
+      }
+    ],
+    "instructor": [
+      "谷口　幸弘"
+    ]
+  },
+  {
+    "code": "yab615303",
+    "name": "環境地理",
+    "targetyear": "2020",
+    "targetdepart": "環境創生",
+    "time": [
+      {
+        "period": "前期後半",
+        "dow": "金",
+        "thclass": "3"
+      },
+      {
+        "period": "前期後半",
+        "dow": "金",
+        "thclass": "4"
+      }
+    ],
+    "instructor": [
+      "廣谷　純子"
+    ]
+  },
+  {
+    "code": "ybb061206",
+    "name": "Reading and Writing(2b)",
+    "targetyear": "2020",
+    "targetdepart": "環境創生",
+    "time": [
+      {
+        "period": "後期後半",
+        "dow": "月",
+        "thclass": "2"
+      }
+    ],
+    "instructor": [
+      "徳江　奈味"
+    ]
+  },
+  {
+    "code": "ybb061207",
+    "name": "Reading and Writing(2b)",
+    "targetyear": "2020",
+    "targetdepart": "環境創生",
+    "time": [
+      {
+        "period": "後期後半",
+        "dow": "月",
+        "thclass": "2"
+      }
+    ],
+    "instructor": [
+      "藤牧　新"
+    ]
+  },
+  {
+    "code": "ybb061208",
+    "name": "Reading and Writing(2b)",
+    "targetyear": "2020",
+    "targetdepart": "環境創生",
+    "time": [
+      {
+        "period": "後期後半",
+        "dow": "月",
+        "thclass": "2"
+      }
+    ],
+    "instructor": [
+      "和田　忍"
+    ]
+  },
+  {
+    "code": "ybb064111",
+    "name": "Reading and Writing(2b)",
+    "targetyear": "2020",
+    "targetdepart": "環境創生",
+    "time": [
+      {
+        "period": "後期後半",
+        "dow": "木",
+        "thclass": "1"
+      }
+    ],
+    "instructor": [
+      "吉田　由美子"
+    ]
+  },
+  {
+    "code": "ybb064112",
+    "name": "Reading and Writing(2b)",
+    "targetyear": "2020",
+    "targetdepart": "環境創生",
+    "time": [
+      {
+        "period": "後期後半",
+        "dow": "木",
+        "thclass": "1"
+      }
+    ],
+    "instructor": [
+      "徳江　奈味"
+    ]
+  },
+  {
+    "code": "ybb064113",
+    "name": "Reading and Writing(2b)",
+    "targetyear": "2020",
+    "targetdepart": "環境創生",
+    "time": [
+      {
+        "period": "後期後半",
+        "dow": "木",
+        "thclass": "1"
+      }
+    ],
+    "instructor": [
+      "荒井　圭子"
+    ]
+  },
+  {
+    "code": "ybb071103",
+    "name": "Reading and Writing(2b)",
+    "targetyear": "2020",
+    "targetdepart": "社会メディア",
+    "time": [
+      {
+        "period": "後期後半",
+        "dow": "月",
+        "thclass": "1"
+      }
+    ],
+    "instructor": [
+      "和田　忍"
+    ]
+  },
+  {
+    "code": "ybb071104",
+    "name": "Reading and Writing(2b)",
+    "targetyear": "2020",
+    "targetdepart": "社会メディア",
+    "time": [
+      {
+        "period": "後期後半",
+        "dow": "月",
+        "thclass": "1"
+      }
+    ],
+    "instructor": [
+      "徳江　奈味"
+    ]
+  },
+  {
+    "code": "ybb071105",
+    "name": "Reading and Writing(2b)",
+    "targetyear": "2020",
+    "targetdepart": "社会メディア",
+    "time": [
+      {
+        "period": "後期後半",
+        "dow": "月",
+        "thclass": "1"
+      }
+    ],
+    "instructor": [
+      "藤牧　新"
+    ]
+  },
+  {
+    "code": "ybb074203",
+    "name": "Reading and Writing(2b)",
+    "targetyear": "2020",
+    "targetdepart": "社会メディア",
+    "time": [
+      {
+        "period": "後期後半",
+        "dow": "木",
+        "thclass": "2"
+      }
+    ],
+    "instructor": [
+      "徳江　奈味"
+    ]
+  },
+  {
+    "code": "ybb074204",
+    "name": "Reading and Writing(2b)",
+    "targetyear": "2020",
+    "targetdepart": "社会メディア",
+    "time": [
+      {
+        "period": "後期後半",
+        "dow": "木",
+        "thclass": "2"
+      }
+    ],
+    "instructor": [
+      "吉田　由美子"
+    ]
+  },
+  {
+    "code": "ybb074205",
+    "name": "Reading and Writing(2b)",
+    "targetyear": "2020",
+    "targetdepart": "社会メディア",
+    "time": [
+      {
+        "period": "後期後半",
+        "dow": "木",
+        "thclass": "2"
+      }
+    ],
+    "instructor": [
+      "荒井　圭子"
+    ]
+  },
+  {
+    "code": "ybb722103",
+    "name": "ソフトウエア開発技法",
+    "targetyear": "2020",
+    "targetdepart": "情報システム",
+    "time": [
+      {
+        "period": "後期後半",
+        "dow": "火",
+        "thclass": "1"
+      },
+      {
+        "period": "後期後半",
+        "dow": "火",
+        "thclass": "2"
+      }
+    ],
+    "instructor": [
+      "市野　順子"
+    ]
+  },
+  {
+    "code": "ybz703501",
+    "name": "教職実践演習(中・高)",
+    "targetyear": "",
+    "targetdepart": "",
+    "time": [
+      {
+        "period": "後期",
+        "dow": "水",
+        "thclass": "5"
+      }
+    ],
+    "instructor": [
+      "井上　健\n岩崎　敬道\n殿村　洋文\n渡邉　大輔"
+    ]
+  },
+  {
+    "code": "yab615307",
+    "name": "物質循環学",
+    "targetyear": "2018",
+    "targetdepart": "環境創生",
+    "time": [
+      {
+        "period": "前期後半",
+        "dow": "金",
+        "thclass": "3"
+      },
+      {
+        "period": "前期後半",
+        "dow": "金",
+        "thclass": "4"
+      }
+    ],
+    "instructor": [
+      "咸　泳植"
+    ]
+  },
+  {
+    "code": "yaa624102",
+    "name": "環境マーケティング",
+    "targetyear": "2018",
+    "targetdepart": "環境マネジメント",
+    "time": [
+      {
+        "period": "前期前半",
+        "dow": "木",
+        "thclass": "1"
+      },
+      {
+        "period": "前期前半",
+        "dow": "木",
+        "thclass": "2"
+      }
+    ],
+    "instructor": [
+      "木村　眞実"
+    ]
+  },
+  {
+    "code": "yab711304",
+    "name": "リスクコミュニケーション",
+    "targetyear": "2018",
+    "targetdepart": "社会メディア",
+    "time": [
+      {
+        "period": "前期後半",
+        "dow": "月",
+        "thclass": "3"
+      },
+      {
+        "period": "前期後半",
+        "dow": "木",
+        "thclass": "3"
+      }
+    ],
+    "instructor": [
+      "広田　すみれ"
+    ]
+  },
+  {
+    "code": "yba712304",
+    "name": "情報政策論",
+    "targetyear": "2018",
+    "targetdepart": "社会メディア",
+    "time": [
+      {
+        "period": "後期前半",
+        "dow": "火",
+        "thclass": "3"
+      },
+      {
+        "period": "後期前半",
+        "dow": "火",
+        "thclass": "4"
+      }
+    ],
+    "instructor": [
+      "米谷　南海"
+    ]
+  },
+  {
+    "code": "yab725301",
+    "name": "マルチメディア記述法",
+    "targetyear": "2018",
+    "targetdepart": "情報システム",
+    "time": [
+      {
+        "period": "前期後半",
+        "dow": "金",
+        "thclass": "3"
+      },
+      {
+        "period": "前期後半",
+        "dow": "金",
+        "thclass": "4"
+      }
+    ],
+    "instructor": [
+      "八木　伸行"
+    ]
+  },
+  {
+    "code": "yaz005302",
+    "name": "Critical Reading(1)",
+    "targetyear": "2019",
+    "targetdepart": "環境創生",
+    "time": [
+      {
+        "period": "前期",
+        "dow": "金",
+        "thclass": "3"
+      }
+    ],
+    "instructor": [
+      "鈴木　夏実"
+    ]
+  },
+  {
+    "code": "yba601102",
+    "name": "環境都市関連法(1)",
+    "targetyear": "2019",
+    "targetdepart": "環境創生",
+    "time": [
+      {
+        "period": "後期前半",
+        "dow": "月",
+        "thclass": "1"
+      },
+      {
+        "period": "後期前半",
+        "dow": "月",
+        "thclass": "2"
+      }
+    ],
+    "instructor": [
+      "竹田　智志"
+    ]
+  },
+  {
+    "code": "yba615305",
+    "name": "自然環境調査演習",
+    "targetyear": "2019",
+    "targetdepart": "環境創生",
+    "time": [
+      {
+        "period": "後期前半",
+        "dow": "金",
+        "thclass": "3"
+      },
+      {
+        "period": "後期前半",
+        "dow": "金",
+        "thclass": "4"
+      }
+    ],
+    "instructor": [
+      "飯島　健太郎\n北村　亘"
+    ]
+  },
+  {
+    "code": "ybz005302",
+    "name": "Critical Reading(1)",
+    "targetyear": "2019",
+    "targetdepart": "環境創生",
+    "time": [
+      {
+        "period": "後期",
+        "dow": "金",
+        "thclass": "3"
+      }
+    ],
+    "instructor": [
+      "鈴木　夏実"
+    ]
+  },
+  {
+    "code": "yaa622307",
+    "name": "横浜・川崎学演習",
+    "targetyear": "2019",
+    "targetdepart": "環境経営システム",
+    "time": [
+      {
+        "period": "前期前半",
+        "dow": "火",
+        "thclass": "3"
+      },
+      {
+        "period": "前期前半",
+        "dow": "火",
+        "thclass": "4"
+      }
+    ],
+    "instructor": [
+      "古川　柳蔵\n大久保　寛基\n岡田　公治\n木村　眞実"
+    ]
+  },
+  {
+    "code": "yaz704501",
+    "name": "教育の方法と技術(1)",
+    "targetyear": "2019",
+    "targetdepart": "社会メディア",
+    "time": [
+      {
+        "period": "前期",
+        "dow": "木",
+        "thclass": "5"
+      }
+    ],
+    "instructor": [
+      "渡邉　大輔"
+    ]
+  },
+  {
+    "code": "yaa721204",
+    "name": "情報理論",
+    "targetyear": "2019",
+    "targetdepart": "情報システム",
+    "time": [
+      {
+        "period": "前期前半",
+        "dow": "月",
+        "thclass": "2"
+      },
+      {
+        "period": "前期前半",
+        "dow": "木",
+        "thclass": "3"
+      }
+    ],
+    "instructor": [
+      "藤井　哲郎"
+    ]
+  },
+  {
+    "code": "yaz725103",
+    "name": "線形代数学II",
+    "targetyear": "2019",
+    "targetdepart": "情報システム",
+    "time": [
+      {
+        "period": "前期",
+        "dow": "金",
+        "thclass": "1"
+      }
+    ],
+    "instructor": [
+      "礒田　恵以子"
+    ]
+  },
+  {
+    "code": "yaz725206",
+    "name": "線形代数学II",
+    "targetyear": "2019",
+    "targetdepart": "情報システム",
+    "time": [
+      {
+        "period": "前期",
+        "dow": "金",
+        "thclass": "2"
+      }
+    ],
+    "instructor": [
+      "礒田　恵以子"
+    ]
+  },
+  {
+    "code": "yba724101",
+    "name": "LAN環境演習",
+    "targetyear": "2019",
+    "targetdepart": "情報システム",
+    "time": [
+      {
+        "period": "後期前半",
+        "dow": "木",
+        "thclass": "1"
+      },
+      {
+        "period": "後期前半",
+        "dow": "木",
+        "thclass": "2"
+      }
+    ],
+    "instructor": [
+      "藤井　哲郎"
+    ]
+  },
+  {
+    "code": "ybb724107",
+    "name": "LAN環境演習",
+    "targetyear": "2019",
+    "targetdepart": "情報システム",
+    "time": [
+      {
+        "period": "後期後半",
+        "dow": "木",
+        "thclass": "1"
+      },
+      {
+        "period": "後期後半",
+        "dow": "木",
+        "thclass": "2"
+      }
+    ],
+    "instructor": [
+      "藤井　哲郎"
+    ]
+  },
+  {
+    "code": "ybz723201",
+    "name": "線形代数学II",
+    "targetyear": "",
+    "targetdepart": "",
+    "time": [
+      {
+        "period": "後期",
+        "dow": "水",
+        "thclass": "2"
+      }
+    ],
+    "instructor": [
+      "金城　絵利那"
+    ]
+  },
+  {
+    "code": "yaa601304",
+    "name": "温暖化の科学",
+    "targetyear": "2020",
+    "targetdepart": "環境創生",
+    "time": [
+      {
+        "period": "前期前半",
+        "dow": "月",
+        "thclass": "3"
+      },
+      {
+        "period": "前期前半",
+        "dow": "月",
+        "thclass": "4"
+      }
+    ],
+    "instructor": [
+      "田村　堅太郎\n梅宮　知佐"
+    ]
+  },
+  {
+    "code": "yab615306",
+    "name": "生物分類学",
+    "targetyear": "2020",
+    "targetdepart": "環境創生",
+    "time": [
+      {
+        "period": "前期後半",
+        "dow": "金",
+        "thclass": "3"
+      },
+      {
+        "period": "前期後半",
+        "dow": "金",
+        "thclass": "4"
+      }
+    ],
+    "instructor": [
+      "北村　亘\n内山　翼"
+    ]
+  },
+  {
+    "code": "yaa624301",
+    "name": "マクロ経済学",
+    "targetyear": "2020",
+    "targetdepart": "環境経システム",
+    "time": [
+      {
+        "period": "前期前半",
+        "dow": "木",
+        "thclass": "3"
+      },
+      {
+        "period": "前期前半",
+        "dow": "木",
+        "thclass": "4"
+      }
+    ],
+    "instructor": [
+      "寺西　勇生"
+    ]
+  },
+  {
+    "code": "yaz701401",
+    "name": "教育相談とカウンセリング(1)",
+    "targetyear": "2020",
+    "targetdepart": "社会メディア",
+    "time": [
+      {
+        "period": "前期",
+        "dow": "月",
+        "thclass": "4"
+      }
+    ],
+    "instructor": [
+      "水野　直樹"
+    ]
+  },
+  {
+    "code": "yaa721203",
+    "name": "情報数学",
+    "targetyear": "2020",
+    "targetdepart": "情報システム",
+    "time": [
+      {
+        "period": "前期前半",
+        "dow": "月",
+        "thclass": "2"
+      },
+      {
+        "period": "前期前半",
+        "dow": "木",
+        "thclass": "1"
+      }
+    ],
+    "instructor": [
+      "大谷　紀子"
+    ]
+  },
+  {
+    "code": "yba723201",
+    "name": "コンピュータネットワーク",
+    "targetyear": "2020",
+    "targetdepart": "情報システム",
+    "time": [
+      {
+        "period": "後期前半",
+        "dow": "水",
+        "thclass": "2"
+      },
+      {
+        "period": "後期前半",
+        "dow": "金",
+        "thclass": "3"
+      }
+    ],
+    "instructor": [
+      "藤井　哲郎"
+    ]
+  },
+  {
+    "code": "yab003103",
+    "name": "心理学入門",
+    "targetyear": "2020",
+    "targetdepart": "環境創生",
+    "time": [
+      {
+        "period": "前期後半",
+        "dow": "水",
+        "thclass": "1"
+      },
+      {
+        "period": "前期後半",
+        "dow": "水",
+        "thclass": "2"
+      }
+    ],
+    "instructor": [
+      "川村　久美子"
+    ]
+  },
+  {
+    "code": "yba062305",
+    "name": "社会とジェンダー(a)",
+    "targetyear": "2020",
+    "targetdepart": "環境創生",
+    "time": [
+      {
+        "period": "後期前半",
+        "dow": "火",
+        "thclass": "3"
+      }
+    ],
+    "instructor": [
+      "西山　千恵子"
+    ]
+  },
+  {
+    "code": "yba072402",
+    "name": "社会とジェンダー(a)",
+    "targetyear": "2020",
+    "targetdepart": "社会メディア",
+    "time": [
+      {
+        "period": "後期前半",
+        "dow": "火",
+        "thclass": "4"
+      }
+    ],
+    "instructor": [
+      "西山　千恵子"
+    ]
+  },
+  {
+    "code": "ybb062306",
+    "name": "社会とジェンダー(b)",
+    "targetyear": "2020",
+    "targetdepart": "環境創生",
+    "time": [
+      {
+        "period": "後期後半",
+        "dow": "火",
+        "thclass": "3"
+      }
+    ],
+    "instructor": [
+      "西山　千恵子"
+    ]
+  },
+  {
+    "code": "ybb072401",
+    "name": "社会とジェンダー(b)",
+    "targetyear": "2020",
+    "targetdepart": "社会メディア",
+    "time": [
+      {
+        "period": "後期後半",
+        "dow": "火",
+        "thclass": "4"
+      }
+    ],
+    "instructor": [
+      "西山　千恵子"
+    ]
+  },
+  {
+    "code": "yba612201",
+    "name": "エコロジカル・プランニング",
+    "targetyear": "2018",
+    "targetdepart": "環境創生",
+    "time": [
+      {
+        "period": "後期前半",
+        "dow": "火",
+        "thclass": "2"
+      },
+      {
+        "period": "後期前半",
+        "dow": "火",
+        "thclass": "3"
+      }
+    ],
+    "instructor": [
+      "横田　樹広"
+    ]
+  },
+  {
+    "code": "yaa721306",
+    "name": "企業統治と情報管理",
+    "targetyear": "2018",
+    "targetdepart": "情報システム",
+    "time": [
+      {
+        "period": "前期前半",
+        "dow": "月",
+        "thclass": "3"
+      },
+      {
+        "period": "前期前半",
+        "dow": "火",
+        "thclass": "4"
+      }
+    ],
+    "instructor": [
+      "梅原　英一"
+    ]
+  },
+  {
+    "code": "yaz005401",
+    "name": "Critical Reading(2)",
+    "targetyear": "2019",
+    "targetdepart": "環境創生",
+    "time": [
+      {
+        "period": "前期",
+        "dow": "金",
+        "thclass": "4"
+      }
+    ],
+    "instructor": [
+      "吉田　由美子"
+    ]
+  },
+  {
+    "code": "ybz005401",
+    "name": "Critical Reading(2)",
+    "targetyear": "2019",
+    "targetdepart": "環境創生",
+    "time": [
+      {
+        "period": "後期",
+        "dow": "金",
+        "thclass": "4"
+      }
+    ],
+    "instructor": [
+      "吉田　由美子"
+    ]
+  },
+  {
+    "code": "ybz606401",
+    "name": "生態環境実習",
+    "targetyear": "2019",
+    "targetdepart": "環境創生",
+    "time": [
+      {
+        "period": "集中（後期）",
+        "dow": "",
+        "thclass": ""
+      }
+    ],
+    "instructor": [
+      "飯島　健太郎\n北村　亘\n咸　泳植"
+    ]
+  },
+  {
+    "code": "yab622102",
+    "name": "環境社会学",
+    "targetyear": "2019",
+    "targetdepart": "環境経営システム",
+    "time": [
+      {
+        "period": "前期後半",
+        "dow": "火",
+        "thclass": "1"
+      },
+      {
+        "period": "前期後半",
+        "dow": "火",
+        "thclass": "2"
+      }
+    ],
+    "instructor": [
+      "大塚　善樹"
+    ]
+  },
+  {
+    "code": "yaz702102",
+    "name": "情報と職業",
+    "targetyear": "2019",
+    "targetdepart": "社会メディア",
+    "time": [
+      {
+        "period": "前期",
+        "dow": "火",
+        "thclass": "1"
+      }
+    ],
+    "instructor": [
+      "木村　誠聡"
+    ]
+  },
+  {
+    "code": "ybz706301",
+    "name": "教育の方法と技術(2)",
+    "targetyear": "2019",
+    "targetdepart": "社会メディア",
+    "time": [
+      {
+        "period": "後期",
+        "dow": "土",
+        "thclass": "3"
+      }
+    ],
+    "instructor": [
+      "渡邉　大輔"
+    ]
+  },
+  {
+    "code": "yab721402",
+    "name": "ディジタル信号処理",
+    "targetyear": "2019",
+    "targetdepart": "情報システム",
+    "time": [
+      {
+        "period": "前期後半",
+        "dow": "月",
+        "thclass": "4"
+      },
+      {
+        "period": "前期後半",
+        "dow": "火",
+        "thclass": "3"
+      }
+    ],
+    "instructor": [
+      "小倉　信彦"
+    ]
+  },
+  {
+    "code": "yaz724104",
+    "name": "確率統計",
+    "targetyear": "2019",
+    "targetdepart": "情報システム",
+    "time": [
+      {
+        "period": "前期",
+        "dow": "木",
+        "thclass": "1"
+      }
+    ],
+    "instructor": [
+      "野井　貴弘"
+    ]
+  },
+  {
+    "code": "yaa004402",
+    "name": "現代の物理(a)",
+    "targetyear": "2020",
+    "targetdepart": "環境創生",
+    "time": [
+      {
+        "period": "前期前半",
+        "dow": "木",
+        "thclass": "4"
+      }
+    ],
+    "instructor": [
+      "馬塲　一晴"
+    ]
+  },
+  {
+    "code": "yaa605304",
+    "name": "数学入門",
+    "targetyear": "2020",
+    "targetdepart": "環境創生",
+    "time": [
+      {
+        "period": "前期前半",
+        "dow": "金",
+        "thclass": "3"
+      },
+      {
+        "period": "前期前半",
+        "dow": "金",
+        "thclass": "4"
+      }
+    ],
+    "instructor": [
+      "郭　偉宏"
+    ]
+  },
+  {
+    "code": "yba615304",
+    "name": "建築気候学",
+    "targetyear": "2020",
+    "targetdepart": "環境創生",
+    "time": [
+      {
+        "period": "後期前半",
+        "dow": "金",
+        "thclass": "3"
+      },
+      {
+        "period": "後期前半",
+        "dow": "金",
+        "thclass": "4"
+      }
+    ],
+    "instructor": [
+      "リジャル　ホム・バハドゥル"
+    ]
+  },
+  {
+    "code": "ybb615102",
+    "name": "図化表現技法",
+    "targetyear": "2020",
+    "targetdepart": "環境創生",
+    "time": [
+      {
+        "period": "後期後半",
+        "dow": "金",
+        "thclass": "1"
+      },
+      {
+        "period": "後期後半",
+        "dow": "金",
+        "thclass": "2"
+      }
+    ],
+    "instructor": [
+      "田中　章"
+    ]
+  },
+  {
+    "code": "ybb712302",
+    "name": "応用統計",
+    "targetyear": "2020",
+    "targetdepart": "社会メディア",
+    "time": [
+      {
+        "period": "後期後半",
+        "dow": "火",
+        "thclass": "3"
+      },
+      {
+        "period": "後期後半",
+        "dow": "火",
+        "thclass": "4"
+      }
+    ],
+    "instructor": [
+      "飯田　成敏"
+    ]
+  },
+  {
+    "code": "ybb725302",
+    "name": "オペレーティングシステム",
+    "targetyear": "2020",
+    "targetdepart": "情報システム",
+    "time": [
+      {
+        "period": "後期後半",
+        "dow": "金",
+        "thclass": "3"
+      },
+      {
+        "period": "後期後半",
+        "dow": "金",
+        "thclass": "4"
+      }
+    ],
+    "instructor": [
+      "八木　伸行"
+    ]
+  },
+  {
+    "code": "yab602301",
+    "name": "スポーツ・健康論",
+    "targetyear": "2020",
+    "targetdepart": "環境創生",
+    "time": [
+      {
+        "period": "前期後半",
+        "dow": "火",
+        "thclass": "3"
+      },
+      {
+        "period": "前期後半",
+        "dow": "金",
+        "thclass": "3"
+      }
+    ],
+    "instructor": [
+      "久保　哲也"
+    ]
+  },
+  {
+    "code": "yab702401",
+    "name": "スポーツ・健康論",
+    "targetyear": "2020",
+    "targetdepart": "社会メディア",
+    "time": [
+      {
+        "period": "前期後半",
+        "dow": "火",
+        "thclass": "4"
+      },
+      {
+        "period": "前期後半",
+        "dow": "金",
+        "thclass": "4"
+      }
+    ],
+    "instructor": [
+      "久保　哲也"
+    ]
+  },
+  {
+    "code": "yba064301",
+    "name": "キャリアデザイン基礎",
+    "targetyear": "2020",
+    "targetdepart": "環境創生",
+    "time": [
+      {
+        "period": "後期前半",
+        "dow": "木",
+        "thclass": "3"
+      },
+      {
+        "period": "後期前半",
+        "dow": "金",
+        "thclass": "3"
+      }
+    ],
+    "instructor": [
+      "大重　史朗"
+    ]
+  },
+  {
+    "code": "yba061303",
+    "name": "キャリアデザイン基礎",
+    "targetyear": "2020",
+    "targetdepart": "環境経システム",
+    "time": [
+      {
+        "period": "後期前半",
+        "dow": "月",
+        "thclass": "3"
+      },
+      {
+        "period": "後期前半",
+        "dow": "月",
+        "thclass": "4"
+      }
+    ],
+    "instructor": [
+      "田中　聖華"
+    ]
+  },
+  {
+    "code": "yba074401",
+    "name": "キャリアデザイン基礎",
+    "targetyear": "2020",
+    "targetdepart": "社会メディア",
+    "time": [
+      {
+        "period": "後期前半",
+        "dow": "木",
+        "thclass": "4"
+      },
+      {
+        "period": "後期前半",
+        "dow": "金",
+        "thclass": "4"
+      }
+    ],
+    "instructor": [
+      "大重　史朗"
+    ]
+  },
+  {
+    "code": "ybb071302",
+    "name": "キャリアデザイン基礎",
+    "targetyear": "2020",
+    "targetdepart": "情報システム",
+    "time": [
+      {
+        "period": "後期後半",
+        "dow": "月",
+        "thclass": "3"
+      },
+      {
+        "period": "後期後半",
+        "dow": "月",
+        "thclass": "4"
+      }
+    ],
+    "instructor": [
+      "田中　聖華"
+    ]
+  },
+  {
+    "code": "yaz002103",
+    "name": "教養ゼミナール(北欧神話に触れるゼミナール)",
+    "targetyear": "2020",
+    "targetdepart": "環境創生",
+    "time": [
+      {
+        "period": "前期",
+        "dow": "火",
+        "thclass": "1"
+      }
+    ],
+    "instructor": [
+      "和田　忍"
+    ]
+  },
+  {
+    "code": "ybz002101",
+    "name": "教養ゼミナール(北欧神話に触れるゼミナール)",
+    "targetyear": "2020",
+    "targetdepart": "環境創生",
+    "time": [
+      {
+        "period": "後期",
+        "dow": "火",
+        "thclass": "1"
+      }
+    ],
+    "instructor": [
+      "和田　忍"
+    ]
+  },
+  {
+    "code": "yaz003101",
+    "name": "教養ゼミナール(ゲーム制作で学ぶ製品開発)",
+    "targetyear": "2020",
+    "targetdepart": "環境創生",
+    "time": [
+      {
+        "period": "前期",
+        "dow": "水",
+        "thclass": "1"
+      }
+    ],
+    "instructor": [
+      "宮地　英生"
+    ]
+  },
+  {
+    "code": "ybz002302",
+    "name": "教養ゼミナール(スポーツと環境)",
+    "targetyear": "2020",
+    "targetdepart": "環境創生",
+    "time": [
+      {
+        "period": "後期",
+        "dow": "火",
+        "thclass": "3"
+      }
+    ],
+    "instructor": [
+      "久保　哲也"
+    ]
+  },
+  {
+    "code": "yab721405",
+    "name": "組織とマネジメント",
+    "targetyear": "2018",
+    "targetdepart": "情報システム",
+    "time": [
+      {
+        "period": "前期後半",
+        "dow": "月",
+        "thclass": "4"
+      },
+      {
+        "period": "前期後半",
+        "dow": "木",
+        "thclass": "2"
+      }
+    ],
+    "instructor": [
+      "梅原　英一"
+    ]
+  },
+  {
+    "code": "yab612303",
+    "name": "測量学実習",
+    "targetyear": "2019",
+    "targetdepart": "環境創生",
+    "time": [
+      {
+        "period": "前期後半",
+        "dow": "火",
+        "thclass": "3"
+      },
+      {
+        "period": "前期後半",
+        "dow": "火",
+        "thclass": "4"
+      },
+      {
+        "period": "前期後半",
+        "dow": "金",
+        "thclass": "3"
+      },
+      {
+        "period": "前期後半",
+        "dow": "金",
+        "thclass": "4"
+      }
+    ],
+    "instructor": [
+      "松浦　弦三郎\n尾形　典昭"
+    ]
+  },
+  {
+    "code": "yba622101",
+    "name": "開発協力と環境",
+    "targetyear": "2019",
+    "targetdepart": "環境経営システム",
+    "time": [
+      {
+        "period": "後期前半",
+        "dow": "火",
+        "thclass": "1"
+      },
+      {
+        "period": "後期前半",
+        "dow": "火",
+        "thclass": "2"
+      }
+    ],
+    "instructor": [
+      "後藤　有右"
+    ]
+  },
+  {
+    "code": "ybb712104",
+    "name": "世界のメディア",
+    "targetyear": "2019",
+    "targetdepart": "社会メディア",
+    "time": [
+      {
+        "period": "後期後半",
+        "dow": "火",
+        "thclass": "1"
+      },
+      {
+        "period": "後期後半",
+        "dow": "火",
+        "thclass": "2"
+      }
+    ],
+    "instructor": [
+      "高田　昌幸"
+    ]
+  },
+  {
+    "code": "yaa604204",
+    "name": "環境基礎(a)",
+    "targetyear": "2020",
+    "targetdepart": "環境創生",
+    "time": [
+      {
+        "period": "前期前半",
+        "dow": "木",
+        "thclass": "2"
+      }
+    ],
+    "instructor": [
+      "佐藤　真久\n荒井　眞一\n浦出　陽子\n滝口　直樹"
+    ]
+  },
+  {
+    "code": "yab004402",
+    "name": "現代の物理(b)",
+    "targetyear": "2020",
+    "targetdepart": "環境創生",
+    "time": [
+      {
+        "period": "前期後半",
+        "dow": "木",
+        "thclass": "4"
+      }
+    ],
+    "instructor": [
+      "馬塲　一晴"
+    ]
+  },
+  {
+    "code": "ybb613103",
+    "name": "都市・居住環境論",
+    "targetyear": "2020",
+    "targetdepart": "環境創生",
+    "time": [
+      {
+        "period": "後期後半",
+        "dow": "水",
+        "thclass": "1"
+      },
+      {
+        "period": "後期後半",
+        "dow": "水",
+        "thclass": "2"
+      }
+    ],
+    "instructor": [
+      "室田　昌子"
+    ]
+  },
+  {
+    "code": "ybb624301",
+    "name": "エコマテリアル",
+    "targetyear": "2020",
+    "targetdepart": "環境経システム",
+    "time": [
+      {
+        "period": "後期後半",
+        "dow": "木",
+        "thclass": "3"
+      },
+      {
+        "period": "後期後半",
+        "dow": "木",
+        "thclass": "4"
+      }
+    ],
+    "instructor": [
+      "伊坪　徳宏"
+    ]
+  },
+  {
+    "code": "yba703501",
+    "name": "特別支援教育",
+    "targetyear": "2020",
+    "targetdepart": "社会メディア",
+    "time": [
+      {
+        "period": "集中（後期）",
+        "dow": "",
+        "thclass": ""
+      }
+    ],
+    "instructor": [
+      "神山　努"
+    ]
+  },
+  {
+    "code": "yba001306",
+    "name": "特別講義(環境計量士コース)",
+    "targetyear": "2020",
+    "targetdepart": "環境創生",
+    "time": [
+      {
+        "period": "後期前半",
+        "dow": "月",
+        "thclass": "3"
+      },
+      {
+        "period": "後期前半",
+        "dow": "火",
+        "thclass": "4"
+      }
+    ],
+    "instructor": [
+      "久米　一成\n石田　康二"
+    ]
+  },
+  {
+    "code": "yaz002402",
+    "name": "特別講義(グローバルビジネス入門)",
+    "targetyear": "2020",
+    "targetdepart": "社会メディア",
+    "time": [
+      {
+        "period": "前期",
+        "dow": "火",
+        "thclass": "4"
+      }
+    ],
+    "instructor": [
+      "マリア　ビクトリア　P．テイボン"
+    ]
+  },
+  {
+    "code": "yaa062306",
+    "name": "情報社会入門",
+    "targetyear": "2020",
+    "targetdepart": "環境創生",
+    "time": [
+      {
+        "period": "前期前半",
+        "dow": "火",
+        "thclass": "3"
+      },
+      {
+        "period": "前期前半",
+        "dow": "金",
+        "thclass": "2"
+      }
+    ],
+    "instructor": [
+      "奥村　倫弘"
+    ]
+  },
+  {
+    "code": "yba001501",
+    "name": "特別講義(Landfill monitoring using Remote Sensing)",
+    "targetyear": "2019",
+    "targetdepart": "環境創生",
+    "time": [
+      {
+        "period": "後期前半",
+        "dow": "月",
+        "thclass": "5"
+      },
+      {
+        "period": "後期前半",
+        "dow": "木",
+        "thclass": "5"
+      }
+    ],
+    "instructor": [
+      "シュイン　ビン　ランバット"
+    ]
+  },
+  {
+    "code": "ybb622105",
+    "name": "グリーン物流",
+    "targetyear": "2019",
+    "targetdepart": "環境創生",
+    "time": [
+      {
+        "period": "後期後半",
+        "dow": "火",
+        "thclass": "1"
+      },
+      {
+        "period": "後期後半",
+        "dow": "火",
+        "thclass": "2"
+      }
+    ],
+    "instructor": [
+      "大久保　寛基"
+    ]
+  },
+  {
+    "code": "yab621308",
+    "name": "グローバルCLILプログラム",
+    "targetyear": "2019",
+    "targetdepart": "環境経営システム",
+    "time": [
+      {
+        "period": "前期後半",
+        "dow": "月",
+        "thclass": "3"
+      },
+      {
+        "period": "前期後半",
+        "dow": "月",
+        "thclass": "4"
+      }
+    ],
+    "instructor": [
+      "フィッツギボンズ　雄亮\n齊藤　智樹"
+    ]
+  },
+  {
+    "code": "yab622306",
+    "name": "経営管理基礎",
+    "targetyear": "2019",
+    "targetdepart": "環境経営システム",
+    "time": [
+      {
+        "period": "前期後半",
+        "dow": "火",
+        "thclass": "3"
+      },
+      {
+        "period": "前期後半",
+        "dow": "火",
+        "thclass": "4"
+      }
+    ],
+    "instructor": [
+      "岡田　公治"
+    ]
+  },
+  {
+    "code": "yab624302",
+    "name": "アルゴリズムとデータ構造",
+    "targetyear": "2019",
+    "targetdepart": "環境経営システム",
+    "time": [
+      {
+        "period": "前期後半",
+        "dow": "木",
+        "thclass": "3"
+      },
+      {
+        "period": "前期後半",
+        "dow": "木",
+        "thclass": "4"
+      }
+    ],
+    "instructor": [
+      "大久保　寛基"
+    ]
+  },
+  {
+    "code": "ybb621102",
+    "name": "プロジェクトマネジメント",
+    "targetyear": "2019",
+    "targetdepart": "環境経営システム",
+    "time": [
+      {
+        "period": "後期後半",
+        "dow": "月",
+        "thclass": "1"
+      },
+      {
+        "period": "後期後半",
+        "dow": "月",
+        "thclass": "2"
+      }
+    ],
+    "instructor": [
+      "岡田　公治"
+    ]
+  },
+  {
+    "code": "yaa621105",
+    "name": "環境経営システム学入門",
+    "targetyear": "2020",
+    "targetdepart": "環境経システム",
+    "time": [
+      {
+        "period": "前期前半",
+        "dow": "月",
+        "thclass": "1"
+      },
+      {
+        "period": "前期前半",
+        "dow": "金",
+        "thclass": "1"
+      }
+    ],
+    "instructor": [
+      "馬場　健司\n伊坪　徳宏\n大久保　寛基\n大塚　善樹\n岡田　啓\n岡田　公治\n郭　偉宏\n木村　眞実\n佐藤　真久\nフィッツギボンズ　雄亮\n古川　務\n古川　柳蔵"
+    ]
+  },
+  {
+    "code": "yaa623202",
+    "name": "SD PBL(1)",
+    "targetyear": "2020",
+    "targetdepart": "環境経システム",
+    "time": [
+      {
+        "period": "前期前半",
+        "dow": "水",
+        "thclass": "2"
+      }
+    ],
+    "instructor": [
+      "馬場　健司\n岡田　啓\nフィッツギボンズ　雄亮"
+    ]
+  },
+  {
+    "code": "ymaa4401",
+    "name": "都市環境モデリング",
+    "targetyear": "2020",
+    "targetdepart": "環境情報",
+    "time": [
+      {
+        "period": "前期後半",
+        "dow": "木",
+        "thclass": "4"
+      },
+      {
+        "period": "前期後半",
+        "dow": "木",
+        "thclass": "5"
+      }
+    ],
+    "instructor": [
+      "史　中超\n丹羽　由佳理"
+    ]
+  },
+  {
+    "code": "ymab2201",
+    "name": "環境科学I",
+    "targetyear": "2020",
+    "targetdepart": "環境情報",
+    "time": [
+      {
+        "period": "前期後半",
+        "dow": "火",
+        "thclass": "2"
+      },
+      {
+        "period": "前期後半",
+        "dow": "金",
+        "thclass": "2"
+      }
+    ],
+    "instructor": [
+      "吉田　真史\n堀越　篤史"
+    ]
+  },
+  {
+    "code": "yaz001205",
+    "name": "(再)基礎体育(1)",
+    "targetyear": "",
+    "targetdepart": "",
+    "time": [
+      {
+        "period": "前期",
+        "dow": "月",
+        "thclass": "2"
+      }
+    ],
+    "instructor": [
+      "松崎　鈴"
+    ]
+  },
+  {
+    "code": "yaz001206",
+    "name": "(再)基礎体育(1)",
+    "targetyear": "",
+    "targetdepart": "",
+    "time": [
+      {
+        "period": "前期",
+        "dow": "月",
+        "thclass": "2"
+      }
+    ],
+    "instructor": [
+      "千野　謙太郎"
+    ]
+  },
+  {
+    "code": "yaz001305",
+    "name": "(再)基礎体育(1)",
+    "targetyear": "",
+    "targetdepart": "",
+    "time": [
+      {
+        "period": "前期",
+        "dow": "月",
+        "thclass": "3"
+      }
+    ],
+    "instructor": [
+      "松崎　鈴"
+    ]
+  },
+  {
+    "code": "yaz001306",
+    "name": "(再)基礎体育(1)",
+    "targetyear": "",
+    "targetdepart": "",
+    "time": [
+      {
+        "period": "前期",
+        "dow": "月",
+        "thclass": "3"
+      }
+    ],
+    "instructor": [
+      "千野　謙太郎"
+    ]
+  },
+  {
+    "code": "yaz001403",
+    "name": "(再)基礎体育(1)",
+    "targetyear": "",
+    "targetdepart": "",
+    "time": [
+      {
+        "period": "前期",
+        "dow": "月",
+        "thclass": "4"
+      }
+    ],
+    "instructor": [
+      "松崎　鈴"
+    ]
+  },
+  {
+    "code": "yaz001404",
+    "name": "(再)基礎体育(1)",
+    "targetyear": "",
+    "targetdepart": "",
+    "time": [
+      {
+        "period": "前期",
+        "dow": "月",
+        "thclass": "4"
+      }
+    ],
+    "instructor": [
+      "千野　謙太郎"
+    ]
+  },
+  {
+    "code": "yaz002302",
+    "name": "(再)Study Skills",
+    "targetyear": "",
+    "targetdepart": "",
+    "time": [
+      {
+        "period": "前期",
+        "dow": "火",
+        "thclass": "3"
+      }
+    ],
+    "instructor": [
+      "吉田　国子"
+    ]
+  },
+  {
+    "code": "yaz004201",
+    "name": "(再)基礎体育(1)",
+    "targetyear": "",
+    "targetdepart": "",
+    "time": [
+      {
+        "period": "前期",
+        "dow": "木",
+        "thclass": "2"
+      }
+    ],
+    "instructor": [
+      "久保　哲也"
+    ]
+  },
+  {
+    "code": "yaz004202",
+    "name": "(再)基礎体育(1)",
+    "targetyear": "",
+    "targetdepart": "",
+    "time": [
+      {
+        "period": "前期",
+        "dow": "木",
+        "thclass": "2"
+      }
+    ],
+    "instructor": [
+      "備前　嘉文"
+    ]
+  },
+  {
+    "code": "yaz004304",
+    "name": "(再)基礎体育(1)",
+    "targetyear": "",
+    "targetdepart": "",
+    "time": [
+      {
+        "period": "前期",
+        "dow": "木",
+        "thclass": "3"
+      }
+    ],
+    "instructor": [
+      "久保　哲也"
+    ]
+  },
+  {
+    "code": "yaz004305",
+    "name": "(再)基礎体育(1)",
+    "targetyear": "",
+    "targetdepart": "",
+    "time": [
+      {
+        "period": "前期",
+        "dow": "木",
+        "thclass": "3"
+      }
+    ],
+    "instructor": [
+      "備前　嘉文"
+    ]
+  },
+  {
+    "code": "yaz004402",
+    "name": "(再)基礎体育(1)",
+    "targetyear": "",
+    "targetdepart": "",
+    "time": [
+      {
+        "period": "前期",
+        "dow": "木",
+        "thclass": "4"
+      }
+    ],
+    "instructor": [
+      "久保　哲也"
+    ]
+  },
+  {
+    "code": "yaz004403",
+    "name": "(再)現代の物理",
+    "targetyear": "",
+    "targetdepart": "",
+    "time": [
+      {
+        "period": "前期",
+        "dow": "木",
+        "thclass": "4"
+      }
+    ],
+    "instructor": [
+      "馬塲　一晴"
+    ]
+  },
+  {
+    "code": "yaz006501",
+    "name": "(再)Study Skills",
+    "targetyear": "",
+    "targetdepart": "",
+    "time": [
+      {
+        "period": "集中（前期）",
+        "dow": "",
+        "thclass": ""
+      }
+    ],
+    "instructor": [
+      "和田　忍\n吉田　国子"
+    ]
+  },
+  {
+    "code": "yaz007002",
+    "name": "ボランティア(1)",
+    "targetyear": "",
+    "targetdepart": "",
+    "time": [
+      {
+        "period": "集中（前期）",
+        "dow": "",
+        "thclass": ""
+      }
+    ],
+    "instructor": [
+      "各教員"
+    ]
+  },
+  {
+    "code": "yaz061401",
+    "name": "(再)社会学入門",
+    "targetyear": "",
+    "targetdepart": "",
+    "time": [
+      {
+        "period": "前期",
+        "dow": "月",
+        "thclass": "4"
+      }
+    ],
+    "instructor": [
+      "吉川　侑輝"
+    ]
+  },
+  {
+    "code": "yaz064201",
+    "name": "(再)情報演習基礎",
+    "targetyear": "",
+    "targetdepart": "",
+    "time": [
+      {
+        "period": "前期",
+        "dow": "木",
+        "thclass": "2"
+      }
+    ],
+    "instructor": [
+      "萩原　豪"
+    ]
+  },
+  {
+    "code": "yaz064301",
+    "name": "(再)情報演習基礎",
+    "targetyear": "",
+    "targetdepart": "",
+    "time": [
+      {
+        "period": "前期",
+        "dow": "木",
+        "thclass": "3"
+      }
+    ],
+    "instructor": [
+      "萩原　豪"
+    ]
+  },
+  {
+    "code": "yaz071301",
+    "name": "(再)社会学入門",
+    "targetyear": "",
+    "targetdepart": "",
+    "time": [
+      {
+        "period": "前期",
+        "dow": "月",
+        "thclass": "3"
+      }
+    ],
+    "instructor": [
+      "吉川　侑輝"
+    ]
+  },
+  {
+    "code": "yaz604201",
+    "name": "(再)環境基礎",
+    "targetyear": "",
+    "targetdepart": "",
+    "time": [
+      {
+        "period": "前期",
+        "dow": "木",
+        "thclass": "2"
+      }
+    ],
+    "instructor": [
+      "佐藤　真久\n荒井　眞一\n浦出　陽子\n滝口　直樹"
+    ]
+  },
+  {
+    "code": "yaz706201",
+    "name": "教育課程論",
+    "targetyear": "",
+    "targetdepart": "",
+    "time": [
+      {
+        "period": "前期",
+        "dow": "土",
+        "thclass": "2"
+      }
+    ],
+    "instructor": [
+      "中園　有希"
+    ]
+  },
+  {
+    "code": "yaz715201",
+    "name": "(再)基礎プログラミング演習(1)",
+    "targetyear": "",
+    "targetdepart": "",
+    "time": [
+      {
+        "period": "前期",
+        "dow": "金",
+        "thclass": "2"
+      }
+    ],
+    "instructor": [
+      "秋山　優"
+    ]
+  },
+  {
+    "code": "yaz724201",
+    "name": "微分積分学II",
+    "targetyear": "",
+    "targetdepart": "",
+    "time": [
+      {
+        "period": "前期",
+        "dow": "木",
+        "thclass": "2"
+      }
+    ],
+    "instructor": [
+      "野井　貴弘"
+    ]
+  },
+  {
+    "code": "yaz725205",
+    "name": "教養数学",
+    "targetyear": "",
+    "targetdepart": "",
+    "time": [
+      {
+        "period": "前期",
+        "dow": "金",
+        "thclass": "2"
+      }
+    ],
+    "instructor": [
+      "金城　絵利那"
+    ]
+  },
+  {
+    "code": "ybb703104",
+    "name": "情報編集入門",
+    "targetyear": "",
+    "targetdepart": "",
+    "time": [
+      {
+        "period": "後期後半",
+        "dow": "水",
+        "thclass": "1"
+      },
+      {
+        "period": "後期後半",
+        "dow": "水",
+        "thclass": "2"
+      }
+    ],
+    "instructor": [
+      "永盛　祐介"
+    ]
+  },
+  {
+    "code": "ybb714109",
+    "name": "現代国際情勢",
+    "targetyear": "",
+    "targetdepart": "",
+    "time": [
+      {
+        "period": "後期後半",
+        "dow": "金",
+        "thclass": "1"
+      },
+      {
+        "period": "後期後半",
+        "dow": "金",
+        "thclass": "2"
+      }
+    ],
+    "instructor": [
+      "北原　斗紀彦"
+    ]
+  },
+  {
+    "code": "ybz001205",
+    "name": "(再)基礎体育(2)",
+    "targetyear": "",
+    "targetdepart": "",
+    "time": [
+      {
+        "period": "後期",
+        "dow": "月",
+        "thclass": "2"
+      }
+    ],
+    "instructor": [
+      "松崎　鈴"
+    ]
+  },
+  {
+    "code": "ybz001206",
+    "name": "(再)基礎体育(2)",
+    "targetyear": "",
+    "targetdepart": "",
+    "time": [
+      {
+        "period": "後期",
+        "dow": "月",
+        "thclass": "2"
+      }
+    ],
+    "instructor": [
+      "千野　謙太郎"
+    ]
+  },
+  {
+    "code": "ybz001305",
+    "name": "(再)基礎体育(2)",
+    "targetyear": "",
+    "targetdepart": "",
+    "time": [
+      {
+        "period": "後期",
+        "dow": "月",
+        "thclass": "3"
+      }
+    ],
+    "instructor": [
+      "松崎　鈴"
+    ]
+  },
+  {
+    "code": "ybz001306",
+    "name": "(再)基礎体育(2)",
+    "targetyear": "",
+    "targetdepart": "",
+    "time": [
+      {
+        "period": "後期",
+        "dow": "月",
+        "thclass": "3"
+      }
+    ],
+    "instructor": [
+      "千野　謙太郎"
+    ]
+  },
+  {
+    "code": "ybz001402",
+    "name": "(再)基礎体育(2)",
+    "targetyear": "",
+    "targetdepart": "",
+    "time": [
+      {
+        "period": "後期",
+        "dow": "月",
+        "thclass": "4"
+      }
+    ],
+    "instructor": [
+      "松崎　鈴"
+    ]
+  },
+  {
+    "code": "ybz001403",
+    "name": "(再)基礎体育(2)",
+    "targetyear": "",
+    "targetdepart": "",
+    "time": [
+      {
+        "period": "後期",
+        "dow": "月",
+        "thclass": "4"
+      }
+    ],
+    "instructor": [
+      "千野　謙太郎"
+    ]
+  },
+  {
+    "code": "ybz002304",
+    "name": "(再)倫理学",
+    "targetyear": "",
+    "targetdepart": "",
+    "time": [
+      {
+        "period": "後期",
+        "dow": "火",
+        "thclass": "3"
+      }
+    ],
+    "instructor": [
+      "石田　知子"
+    ]
+  },
+  {
+    "code": "ybz002305",
+    "name": "(再)TOEIC Preparation",
+    "targetyear": "",
+    "targetdepart": "",
+    "time": [
+      {
+        "period": "後期",
+        "dow": "火",
+        "thclass": "3"
+      }
+    ],
+    "instructor": [
+      "マイケル　フォードリー"
+    ]
+  },
+  {
+    "code": "ybz002403",
+    "name": "(再)倫理学",
+    "targetyear": "",
+    "targetdepart": "",
+    "time": [
+      {
+        "period": "後期",
+        "dow": "火",
+        "thclass": "4"
+      }
+    ],
+    "instructor": [
+      "石田　知子"
+    ]
+  },
+  {
+    "code": "ybz002502",
+    "name": "特別講義(グローバル人材入門)",
+    "targetyear": "",
+    "targetdepart": "",
+    "time": [
+      {
+        "period": "後期",
+        "dow": "火",
+        "thclass": "5"
+      }
+    ],
+    "instructor": [
+      "マリア　ビクトリア　P．テイボン"
+    ]
+  },
+  {
+    "code": "ybz004201",
+    "name": "(再)基礎体育(2)",
+    "targetyear": "",
+    "targetdepart": "",
+    "time": [
+      {
+        "period": "後期",
+        "dow": "木",
+        "thclass": "2"
+      }
+    ],
+    "instructor": [
+      "久保　哲也"
+    ]
+  },
+  {
+    "code": "ybz004202",
+    "name": "(再)基礎体育(2)",
+    "targetyear": "",
+    "targetdepart": "",
+    "time": [
+      {
+        "period": "後期",
+        "dow": "木",
+        "thclass": "2"
+      }
+    ],
+    "instructor": [
+      "備前　嘉文"
+    ]
+  },
+  {
+    "code": "ybz004304",
+    "name": "(再)基礎体育(2)",
+    "targetyear": "",
+    "targetdepart": "",
+    "time": [
+      {
+        "period": "後期",
+        "dow": "木",
+        "thclass": "3"
+      }
+    ],
+    "instructor": [
+      "久保　哲也"
+    ]
+  },
+  {
+    "code": "ybz004305",
+    "name": "(再)基礎体育(2)",
+    "targetyear": "",
+    "targetdepart": "",
+    "time": [
+      {
+        "period": "後期",
+        "dow": "木",
+        "thclass": "3"
+      }
+    ],
+    "instructor": [
+      "備前　嘉文"
+    ]
+  },
+  {
+    "code": "ybz004402",
+    "name": "(再)基礎体育(2)",
+    "targetyear": "",
+    "targetdepart": "",
+    "time": [
+      {
+        "period": "後期",
+        "dow": "木",
+        "thclass": "4"
+      }
+    ],
+    "instructor": [
+      "久保　哲也"
+    ]
+  },
+  {
+    "code": "ybz006502",
+    "name": "Global Society (2)",
+    "targetyear": "",
+    "targetdepart": "",
+    "time": [
+      {
+        "period": "集中（後期）",
+        "dow": "",
+        "thclass": ""
+      }
+    ],
+    "instructor": [
+      "吉田　国子"
+    ]
+  },
+  {
+    "code": "ybz006503",
+    "name": "(再)TOEIC Preparation",
+    "targetyear": "",
+    "targetdepart": "",
+    "time": [
+      {
+        "period": "集中（後期）",
+        "dow": "",
+        "thclass": ""
+      }
+    ],
+    "instructor": [
+      "吉田　国子"
+    ]
+  },
+  {
+    "code": "ybz007001",
+    "name": "インターンシップ(2)",
+    "targetyear": "",
+    "targetdepart": "",
+    "time": [
+      {
+        "period": "集中（後期）",
+        "dow": "",
+        "thclass": ""
+      }
+    ],
+    "instructor": [
+      "各教員"
+    ]
+  },
+  {
+    "code": "ybz007002",
+    "name": "ボランティア(2)",
+    "targetyear": "",
+    "targetdepart": "",
+    "time": [
+      {
+        "period": "集中（後期）",
+        "dow": "",
+        "thclass": ""
+      }
+    ],
+    "instructor": [
+      "各教員"
+    ]
+  },
+  {
+    "code": "ybz061202",
+    "name": "Communication Skills(2)",
+    "targetyear": "",
+    "targetdepart": "",
+    "time": [
+      {
+        "period": "後期",
+        "dow": "月",
+        "thclass": "2"
+      }
+    ],
+    "instructor": [
+      "マイケル　フォードリー"
+    ]
+  },
+  {
+    "code": "ybz062301",
+    "name": "(再)社会とジェンダー",
+    "targetyear": "",
+    "targetdepart": "",
+    "time": [
+      {
+        "period": "後期",
+        "dow": "火",
+        "thclass": "3"
+      }
+    ],
+    "instructor": [
+      "西山　千恵子"
+    ]
+  },
+  {
+    "code": "ybz062401",
+    "name": "(再)社会とジェンダー",
+    "targetyear": "",
+    "targetdepart": "",
+    "time": [
+      {
+        "period": "後期",
+        "dow": "火",
+        "thclass": "4"
+      }
+    ],
+    "instructor": [
+      "西山　千恵子"
+    ]
+  },
+  {
+    "code": "ybz064103",
+    "name": "Communication Skills(2)",
+    "targetyear": "",
+    "targetdepart": "",
+    "time": [
+      {
+        "period": "後期",
+        "dow": "木",
+        "thclass": "1"
+      }
+    ],
+    "instructor": [
+      "李　正美"
+    ]
+  },
+  {
+    "code": "ybz601401",
+    "name": "(再)基礎プログラミング演習",
+    "targetyear": "",
+    "targetdepart": "",
+    "time": [
+      {
+        "period": "後期",
+        "dow": "月",
+        "thclass": "4"
+      }
+    ],
+    "instructor": [
+      "鈴木　孝幸"
+    ]
+  },
+  {
+    "code": "ybz701501",
+    "name": "総合的な学習の時間の理論と方法",
+    "targetyear": "",
+    "targetdepart": "",
+    "time": [
+      {
+        "period": "後期",
+        "dow": "月",
+        "thclass": "5"
+      }
+    ],
+    "instructor": [
+      "岩崎　敬道\n渡邉　大輔"
+    ]
+  },
+  {
+    "code": "ybz715301",
+    "name": "(再)基礎プログラミング演習(2)",
+    "targetyear": "",
+    "targetdepart": "",
+    "time": [
+      {
+        "period": "後期",
+        "dow": "金",
+        "thclass": "3"
+      }
+    ],
+    "instructor": [
+      "秋山　優"
+    ]
+  },
+  {
+    "code": "ymaa1201",
+    "name": "現代社会のマスメディア",
+    "targetyear": "",
+    "targetdepart": "",
+    "time": [
+      {
+        "period": "前期前半",
+        "dow": "月",
+        "thclass": "2"
+      },
+      {
+        "period": "前期前半",
+        "dow": "火",
+        "thclass": "3"
+      }
+    ],
+    "instructor": [
+      "李　洪千\n高田　昌幸"
+    ]
+  },
+  {
+    "code": "ymaa2401",
+    "name": "認知科学特論",
+    "targetyear": "",
+    "targetdepart": "",
+    "time": [
+      {
+        "period": "前期前半",
+        "dow": "火",
+        "thclass": "4"
+      },
+      {
+        "period": "前期前半",
+        "dow": "木",
+        "thclass": "4"
+      }
+    ],
+    "instructor": [
+      "岡部　大介\n関　博紀"
+    ]
+  },
+  {
+    "code": "ymaa3101",
+    "name": "知能科学",
+    "targetyear": "",
+    "targetdepart": "",
+    "time": [
+      {
+        "period": "前期前半",
+        "dow": "水",
+        "thclass": "1"
+      },
+      {
+        "period": "前期前半",
+        "dow": "木",
+        "thclass": "3"
+      }
+    ],
+    "instructor": [
+      "大谷　紀子\n岩野　公司"
+    ]
+  },
+  {
+    "code": "ymaa3501",
+    "name": "特別講義(グローバルビジネス論)",
+    "targetyear": "",
+    "targetdepart": "",
+    "time": [
+      {
+        "period": "前期前半",
+        "dow": "水",
+        "thclass": "5"
+      },
+      {
+        "period": "前期前半",
+        "dow": "金",
+        "thclass": "5"
+      }
+    ],
+    "instructor": [
+      "マリア　ビクトリア　P．テイボン"
+    ]
+  },
+  {
+    "code": "ymaa4101",
+    "name": "環境経営科学",
+    "targetyear": "",
+    "targetdepart": "",
+    "time": [
+      {
+        "period": "前期前半",
+        "dow": "木",
+        "thclass": "1"
+      },
+      {
+        "period": "前期前半",
+        "dow": "木",
+        "thclass": "2"
+      }
+    ],
+    "instructor": [
+      "郭　偉宏\n大久保　寛基\n岡田　公治"
+    ]
+  },
+  {
+    "code": "ymaa5201",
+    "name": "メディア技術と社会",
+    "targetyear": "",
+    "targetdepart": "",
+    "time": [
+      {
+        "period": "前期前半",
+        "dow": "金",
+        "thclass": "2"
+      },
+      {
+        "period": "前期前半",
+        "dow": "金",
+        "thclass": "3"
+      }
+    ],
+    "instructor": [
+      "岩野　公司\n市野　順子\n梅原　英一\n大谷　紀子\n小倉　信彦\n関　良明\n藤井　哲郎\n宮地　英生\n八木　伸行\n横井　利彰"
+    ]
+  },
+  {
+    "code": "ymab1301",
+    "name": "環境建築学",
+    "targetyear": "",
+    "targetdepart": "",
+    "time": [
+      {
+        "period": "前期後半",
+        "dow": "月",
+        "thclass": "3"
+      },
+      {
+        "period": "前期後半",
+        "dow": "月",
+        "thclass": "4"
+      }
+    ],
+    "instructor": [
+      "リジャル　ホム・バハドゥル\n加用　現空"
+    ]
+  },
+  {
+    "code": "ymab2301",
+    "name": "特別講義(Remote Sensing for Environmental Monitoring and Applications)",
+    "targetyear": "",
+    "targetdepart": "",
+    "time": [
+      {
+        "period": "前期後半",
+        "dow": "火",
+        "thclass": "3"
+      },
+      {
+        "period": "前期後半",
+        "dow": "火",
+        "thclass": "4"
+      }
+    ],
+    "instructor": [
+      "シュイン　ビン　ランバット"
+    ]
+  },
+  {
+    "code": "ymab3102",
+    "name": "環境コミュニケーション論",
+    "targetyear": "",
+    "targetdepart": "",
+    "time": [
+      {
+        "period": "前期後半",
+        "dow": "水",
+        "thclass": "1"
+      },
+      {
+        "period": "前期後半",
+        "dow": "水",
+        "thclass": "2"
+      }
+    ],
+    "instructor": [
+      "佐藤　真久\n馬場　健司\nフィッツギボンズ　雄亮"
+    ]
+  },
+  {
+    "code": "ymab4201",
+    "name": "文化とコミュニケーション",
+    "targetyear": "",
+    "targetdepart": "",
+    "time": [
+      {
+        "period": "前期後半",
+        "dow": "木",
+        "thclass": "2"
+      },
+      {
+        "period": "前期後半",
+        "dow": "木",
+        "thclass": "3"
+      }
+    ],
+    "instructor": [
+      "山崎　瑞紀\n矢吹　理恵"
+    ]
+  },
+  {
+    "code": "ymab4202",
+    "name": "情報ネットワークとセキュリティ",
+    "targetyear": "",
+    "targetdepart": "",
+    "time": [
+      {
+        "period": "前期後半",
+        "dow": "木",
+        "thclass": "2"
+      },
+      {
+        "period": "前期後半",
+        "dow": "木",
+        "thclass": "3"
+      }
+    ],
+    "instructor": [
+      "関　良明\n藤井　哲郎"
+    ]
+  },
+  {
+    "code": "ymab5301",
+    "name": "環境法・政策学",
+    "targetyear": "",
+    "targetdepart": "",
+    "time": [
+      {
+        "period": "前期後半",
+        "dow": "金",
+        "thclass": "3"
+      },
+      {
+        "period": "前期後半",
+        "dow": "金",
+        "thclass": "4"
+      }
+    ],
+    "instructor": [
+      "古川　務\n岡田　啓"
+    ]
+  },
+  {
+    "code": "ymab5302",
+    "name": "情報デザイン論",
+    "targetyear": "",
+    "targetdepart": "",
+    "time": [
+      {
+        "period": "前期後半",
+        "dow": "金",
+        "thclass": "3"
+      },
+      {
+        "period": "前期後半",
+        "dow": "金",
+        "thclass": "4"
+      }
+    ],
+    "instructor": [
+      "小池　星多\n永盛　祐介"
+    ]
+  },
+  {
+    "code": "ymaz1101",
+    "name": "キャリアデザイン",
+    "targetyear": "",
+    "targetdepart": "",
+    "time": [
+      {
+        "period": "前期",
+        "dow": "月",
+        "thclass": "1"
+      }
+    ],
+    "instructor": [
+      "田中　聖華"
+    ]
+  },
+  {
+    "code": "ymaz2101",
+    "name": "Advanced Comprehension Skills",
+    "targetyear": "",
+    "targetdepart": "",
+    "time": [
+      {
+        "period": "前期",
+        "dow": "火",
+        "thclass": "1"
+      }
+    ],
+    "instructor": [
+      "吉田　国子"
+    ]
+  },
+  {
+    "code": "ymaz5101",
+    "name": "Academic Presentations",
+    "targetyear": "",
+    "targetdepart": "",
+    "time": [
+      {
+        "period": "前期",
+        "dow": "金",
+        "thclass": "1"
+      }
+    ],
+    "instructor": [
+      "マイケル　フォードリー"
+    ]
+  },
+  {
+    "code": "ymba1401",
+    "name": "連続系と離散系のモデリング",
+    "targetyear": "",
+    "targetdepart": "",
+    "time": [
+      {
+        "period": "後期前半",
+        "dow": "月",
+        "thclass": "4"
+      },
+      {
+        "period": "後期前半",
+        "dow": "木",
+        "thclass": "2"
+      }
+    ],
+    "instructor": [
+      "横井　利彰\n小倉　信彦"
+    ]
+  },
+  {
+    "code": "ymba3101",
+    "name": "地域環境計画論",
+    "targetyear": "",
+    "targetdepart": "",
+    "time": [
+      {
+        "period": "後期前半",
+        "dow": "水",
+        "thclass": "1"
+      },
+      {
+        "period": "後期前半",
+        "dow": "水",
+        "thclass": "2"
+      }
+    ],
+    "instructor": [
+      "室田　昌子\n横田　樹広"
+    ]
+  },
+  {
+    "code": "ymba5101",
+    "name": "自然共生システム",
+    "targetyear": "",
+    "targetdepart": "",
+    "time": [
+      {
+        "period": "後期前半",
+        "dow": "金",
+        "thclass": "1"
+      },
+      {
+        "period": "後期前半",
+        "dow": "金",
+        "thclass": "2"
+      }
+    ],
+    "instructor": [
+      "田中　章\n飯島　健太郎\n北村　亘"
+    ]
+  },
+  {
+    "code": "ymba5301",
+    "name": "社会調査とデータ分析",
+    "targetyear": "",
+    "targetdepart": "",
+    "time": [
+      {
+        "period": "後期前半",
+        "dow": "金",
+        "thclass": "3"
+      },
+      {
+        "period": "後期前半",
+        "dow": "金",
+        "thclass": "4"
+      }
+    ],
+    "instructor": [
+      "広田　すみれ\n岡部　大介\n矢吹　理恵\n李　洪千"
+    ]
+  },
+  {
+    "code": "ymbb1101",
+    "name": "環境影響評価学",
+    "targetyear": "",
+    "targetdepart": "",
+    "time": [
+      {
+        "period": "後期後半",
+        "dow": "月",
+        "thclass": "1"
+      },
+      {
+        "period": "後期後半",
+        "dow": "月",
+        "thclass": "2"
+      }
+    ],
+    "instructor": [
+      "伊坪　徳宏\n木村　眞実"
+    ]
+  },
+  {
+    "code": "ymbb1102",
+    "name": "メディア情報処理",
+    "targetyear": "",
+    "targetdepart": "",
+    "time": [
+      {
+        "period": "後期後半",
+        "dow": "月",
+        "thclass": "1"
+      },
+      {
+        "period": "後期後半",
+        "dow": "月",
+        "thclass": "2"
+      }
+    ],
+    "instructor": [
+      "宮地　英生\n市野　順子"
+    ]
+  },
+  {
+    "code": "ymbb1301",
+    "name": "情報社会論",
+    "targetyear": "",
+    "targetdepart": "",
+    "time": [
+      {
+        "period": "後期後半",
+        "dow": "月",
+        "thclass": "3"
+      },
+      {
+        "period": "後期後半",
+        "dow": "月",
+        "thclass": "4"
+      }
+    ],
+    "instructor": [
+      "中村　雅子\n奥村　倫弘"
+    ]
+  },
+  {
+    "code": "ymbb2301",
+    "name": "情報システムとビジネス",
+    "targetyear": "",
+    "targetdepart": "",
+    "time": [
+      {
+        "period": "後期後半",
+        "dow": "火",
+        "thclass": "3"
+      },
+      {
+        "period": "後期後半",
+        "dow": "金",
+        "thclass": "4"
+      }
+    ],
+    "instructor": [
+      "梅原　英一\n八木　伸行"
+    ]
+  },
+  {
+    "code": "ymbb3102",
+    "name": "環境科学II",
+    "targetyear": "",
+    "targetdepart": "",
+    "time": [
+      {
+        "period": "後期後半",
+        "dow": "水",
+        "thclass": "1"
+      },
+      {
+        "period": "後期後半",
+        "dow": "水",
+        "thclass": "2"
+      }
+    ],
+    "instructor": [
+      "飯島　正徳\n福田　達哉"
+    ]
+  },
+  {
+    "code": "ymbb4301",
+    "name": "物質循環学特論",
+    "targetyear": "",
+    "targetdepart": "",
+    "time": [
+      {
+        "period": "後期後半",
+        "dow": "木",
+        "thclass": "3"
+      },
+      {
+        "period": "後期後半",
+        "dow": "木",
+        "thclass": "5"
+      }
+    ],
+    "instructor": [
+      "咸　泳植\n萩谷　宏"
+    ]
+  },
+  {
+    "code": "ymbb5201",
+    "name": "環境リスク社会論",
+    "targetyear": "",
+    "targetdepart": "",
+    "time": [
+      {
+        "period": "後期後半",
+        "dow": "金",
+        "thclass": "2"
+      },
+      {
+        "period": "後期後半",
+        "dow": "金",
+        "thclass": "3"
+      }
+    ],
+    "instructor": [
+      "大塚　善樹\n古川　柳蔵"
+    ]
+  }
+]
