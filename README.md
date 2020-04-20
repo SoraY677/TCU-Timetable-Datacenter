@@ -20,27 +20,27 @@ LectureList.jsonの形式は各講義情報のjsonを配列にしたものです
 
 以下に、各講義情報のjsonについて、keyとvalueを示します。
 
-- `code` :string
+- `code` :string  
   講義コード
-- `name` :string
+- `name` :string  
   授業名
-- `targetyear` :string
+- `targetyear` :string  
   対象学生の入学年度
-- `targetdepart` :string
-  対象学生の学科
+- `targetdepart` :string  
+  対象学生の学科  
   `情報システム`/`社会メディア`/`環境創生`/`環境マネジメント`/`環境情報`からなる(環境情報はおそらく院生)
-- `time`: Array(json)
-  開講時期
-  1週間に2限分開講されることがあるため、以下のjson形式データの配列
-  - `period` :string
-　　開講期間
-  - `dow` : string
-    開講曜日
-  - `thclass` :string
-    開講時限
-- `instructor` : Array(string)
-  担当講師
-  複数人になることがあるため配列
+- `time`: Array(json)  
+  開講時期  
+  1週間に2限分開講されることがあるため、以下のjson形式データの配列  
+  - `period` :string  
+　　開講期間  
+  - `dow` : string  
+    開講曜日  
+  - `thclass` :string  
+    開講時限  
+- `instructor` : Array(string)  
+  担当講師  
+  複数人になることがあるため配列  
 
 ### example1
 >
