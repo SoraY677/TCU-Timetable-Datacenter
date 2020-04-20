@@ -102,8 +102,8 @@ LectureList.jsonの形式は各講義情報のjsonを配列にしたものです
 
 `https://websrv.tcu.ac.jp/tcu_web_v3/slbsskgr.do?value(risyunen)=2020&value(semekikn)=1&value(kougicd)=[逆引きしたい講義のコード]`
 
-example.
-[調べたい講義]
-yaa612201	環境モニタリング技術	2018年度環境創生学科入学生　他	前期前半　火曜日　２時限　前期前半　火曜日　３時限	史　中超
-[逆引きURL]
-`https://websrv.tcu.ac.jp/tcu_web_v3/slbssbdr.do?value(risyunen)=2020&value(semekikn)=1&value(kougicd)=yaa612201`
+example.  
+[調べたい講義]  
+yaa612201	環境モニタリング技術	2018年度環境創生学科入学生　他	前期前半　火曜日　２時限　前期前半　火曜日　３時限	史　中超  
+[逆引きURL]  
+`https://websrv.tcu.ac.jp/tcu_web_v3/slbssbdr.do?value(risyunen)=2020&value(semekikn)=1&value(kougicd)=yaa612201` 
