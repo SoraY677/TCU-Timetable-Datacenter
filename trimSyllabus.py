@@ -130,7 +130,7 @@ class trimSyllabus:
             parseResult["time"].append(timeblock)
 
         # ==============
-        parseResult["instructor"] = lectureLine[5].split(" ")
+        parseResult["instructor"] = lectureLine[5].split("\n")
 
         return parseResult
 
